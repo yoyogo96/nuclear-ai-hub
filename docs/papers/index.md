@@ -1,9 +1,9 @@
 # 최신 논문
 
-## ReactorFold: Generative discovery of nuclear reactor cores via emergent physical reasoning
+## [ReactorFold: Generative discovery of nuclear reactor cores via emergent physical reasoning](https://arxiv.org/abs/2512.15756)
 - 저자: Yutong Xie 외
 - 연도/학회(저널): 2025, arXiv
-- 링크(ArXiv): https://arxiv.org/abs/2512.15756
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2512.15756)
 - 한 줄 요약: 원자로 연료집합체 설계를 시퀀스 생성 문제로 바꿔 언어모델 기반 생성·선호최적화(DPO)로 신규 설계 후보를 탐색.
 
 ### 핵심 기여
@@ -16,10 +16,10 @@
 
 ---
 
-## AI-Driven Cybersecurity Testbed for Nuclear Infrastructure
+## [AI-Driven Cybersecurity Testbed for Nuclear Infrastructure](https://arxiv.org/abs/2512.01727)
 - 저자: Pedro H. Ferreira 외
 - 연도/학회(저널): 2025, arXiv
-- 링크(ArXiv): https://arxiv.org/abs/2512.01727
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2512.01727)
 - 한 줄 요약: METL 운전 데이터를 바탕으로 원자력 제어계통 대상 AI 기반 이상탐지 방법(Change Point, LSTM, Autoencoder 등)을 비교 평가.
 
 ### 핵심 기여
@@ -32,10 +32,10 @@
 
 ---
 
-## Nuclear Microreactor Control with Deep Reinforcement Learning
+## [Nuclear Microreactor Control with Deep Reinforcement Learning](https://arxiv.org/abs/2504.00156)
 - 저자: James A. R. Walker 외
 - 연도/학회(저널): 2025, arXiv
-- 링크(ArXiv): https://arxiv.org/abs/2504.00156
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2504.00156)
 - 한 줄 요약: 마이크로리액터 실시간 제어(load-following)에 RL 제어기를 적용해 PID 대비 성능 가능성을 검토.
 
 ### 핵심 기여
