@@ -1,5 +1,15 @@
 # 최신 뉴스
 
+## 2026-03-01 업데이트 (데일리)
+
+### Amazon·Meta 전력계약으로 미국 원전 계속운전 가치 부각
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/ppas-support-extended-operations-at-vistra-plants)
+- 한 줄 요약: Amazon·Meta의 장기 전력조달 계약이 Vistra 원전의 계속운전 경제성을 높이며 AI 데이터센터 전력-원전 연계 흐름을 강화.
+
+### Texas A&M, 고온가스로 기반 연구로 추진 검토
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/transformative-research-reactor-mooted-for-texas-am)
+- 한 줄 요약: Texas A&M이 차세대 연구로 구축 가능성을 검토하며, 고급 원자로 실증·연구 인프라 확대가 AI 기반 원자로 해석/최적화 수요와 맞물릴 전망.
+
 ## 2026-02-28 업데이트 (지난 1주 요약)
 
 ### INL, NVIDIA와 원자력 AI 협력 발표

@@ -1,5 +1,21 @@
 # 최신 논문
 
+## [A Fifth Face? The Evolving Threat of Nuclear Terrorism in the Age of Artificial Intelligence](https://kclpure.kcl.ac.uk/portal/en/publications/5f31843a-b318-4c70-84df-c47b6a46f22d)
+- 저자: Muhammed Ali Alkis 외
+- 연도/학회(저널): 2026, *The Nonproliferation Review*
+- 바로가기: [King’s College London Repository](https://kclpure.kcl.ac.uk/portal/en/publications/5f31843a-b318-4c70-84df-c47b6a46f22d)
+- 한 줄 요약: 생성형 AI 확산이 핵테러 위협 지형을 어떻게 바꾸는지 분석하고, 비확산·안보 거버넌스의 대응 프레임을 제시.
+
+### 핵심 기여
+1. AI 도구가 핵안보 위협에 미치는 경로를 정책 관점에서 구조화
+2. 기술 접근성 확대가 비국가 행위자 리스크에 주는 영향 정리
+3. 핵안보·AI 거버넌스 통합 대응 필요성 제시
+
+### 실무 적용 아이디어
+- 원자력 시설 사이버·물리 통합 보안 훈련 시 AI 기반 위협 시나리오를 포함하는 체크리스트로 활용
+
+---
+
 ## [ReactorFold: Generative discovery of nuclear reactor cores via emergent physical reasoning](https://arxiv.org/abs/2512.15756)
 - 저자: Yutong Xie 외
 - 연도/학회(저널): 2025, arXiv
