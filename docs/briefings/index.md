@@ -1,5 +1,23 @@
 # 주간 브리핑
 
+## 2026-03-03 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 캘리포니아가 50년 만에 원자력 금지 정책을 재검토하며 AI 데이터센터 전력 수요 대응 차원에서 차세대 원자력 기술 승인 법안 발의.
+2. IAEA 이사회에서 원자력 시설 AI 도입의 안전·보안 함의를 다룬 TECDOC 개발 착수 발표.
+3. 중국 연구진이 베이지안 신경망으로 토륨 핵분열 데이터 예측 정확도를 높여 용융염로 설계 지원.
+
+### 오늘 반영 뉴스 (4건)
+- 캘리포니아 50년만 원자력 재고려, AI 전력 수요 대응 (Sightline U3O8)
+- IAEA 2026년 주요 간행물 5선, AI·디지털 기술로 성능 향상 방안 포함 (IAEA)
+- 제2회 핵에너지 서밋 3월 10일 파리 개최 (UN News)
+- IAEA 이사회, 원자력 시설 AI 안전 가이드라인 개발 착수 (IAEA)
+
+### 오늘 반영 논문 (3건)
+- Formalization of a Nuclear Power Plant Life-Cycle Model for AI/ML (2026-02-08)
+- Applications of ML and AI in Modern Power and Energy Systems (2026-03-02)
+- Machine Learning Applied to Problems of Nuclear Fusion (2026-02-14)
+
 ## 2026-03-01 데일리 브리핑
 
 ### 오늘의 3줄 요약

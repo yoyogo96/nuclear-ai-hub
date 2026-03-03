@@ -1,5 +1,22 @@
 # 일반 원자력 뉴스
 
+## 2026-03-03 업데이트 (데일리)
+
+### 캘리포니아, 50년 금지 끝에 원자력 재고려... AI 전력 수요 대응
+- 출처: [Sightline U3O8](https://sightlineu3o8.com/2026/03/why-california-is-reconsidering-nuclear-energy-after-50-year-ban/)
+- 한 줄 요약: AI 데이터센터 폭증하는 전력 수요와 기후 목표 달성을 위해 캘리포니아가 차세대 원자력 기술 승인을 위한 새 법안을 발의.
+- 핵심 포인트:
+  - 50년간 원자력 금지 정책 전환 시사
+  - SMR/마이크로리액터 등 차세대 기술에 초점
+
+### IAEA, 2026년 주요 간행물 5선 공개... AI·디지털 기술로 성능 향상 방안 포함
+- 출처: [IAEA](https://www.iaea.org/newscenter/news/five-key-iaea-publications-to-watch-in-2026)
+- 한 줄 요약: IAEA가 2026년 주요 간행물 5종을 예고하며, AI·디지털 기술로 원전 가동률·유연성·효율성 향상 방안을 다룰 예정.
+
+### 제2회 핵에너지 서밋, 3월 10일 프랑스 파리 개최
+- 출처: [UN News](https://news.un.org/en/story/2026/01/1166768)
+- 한 줄 요약: IAEA 주최로 프랑스 파리에서 제2회 핵에너지 서밋이 열리며 AI 전력 수요와 원자력 확대 연계가 주요 의제.
+
 ## 2026-03-01 업데이트 (데일리)
 
 ### Amazon·Meta 전력계약으로 미국 원전 계속운전 가치 부각

@@ -1,5 +1,41 @@
 # 최신 논문
 
+## [Formalization of a Nuclear Power Plant Life-Cycle Model for AI and Machine Learning Applications](https://dmitrishin.github.io/publications/)
+- 저자: Yuriy Dmitrishin
+- 연도/학회(저널): 2026-02-08
+- 한 줄 요약: 원자력발전소 전 수명주기(설계-건설-운영-해체) 관리를 위한 AI/ML 작업을 지원하는 정형화된 연구 모델 제안.
+
+### 핵심 기여
+1. 원전 수명주기 각 단계별 AI/ML 적용 과제 체계화
+2. 데이터 기반 의사결정 지원을 위한 모델링 프레임워크
+3. 규제 준수 및 안전성 검증을 고려한 구조화
+
+---
+
+## [Applications of Machine Learning and Artificial Intelligence in Modern Power and Energy Systems](https://www.mdpi.com/2079-9292/15/5/1045)
+- 저자: Mladenov, Sarigiannidis
+- 연도/학회(저널): 2026-03-02, Electronics (MDPI)
+- 한 줄 요약: 현대 전력·에너지 시스템 전반에 걸친 ML/AI 응용을 종합적으로 다룬 논문으로 원자력 포함 다양한 발전원 최적화 사례 수록.
+
+### 핵심 기여
+1. 전력 시스템 운영 최적화에 ML/AI 적용 방법론 정리
+2. 재생에너지-원자력 혼합 시스템에서 AI 활용 사례
+3. 스마트그리드 및 에너지 저장 시스템과의 연계 방안
+
+---
+
+## [Machine Learning Applied to Problems of Nuclear Fusion](https://www.researchgate.net/publication/400778494_Machine_Learning_Applied_to_Problems_of_Nuclear_Fusion)
+- 저자: E. I. Chetkin 외
+- 연도/학회(저널): 2026-02-14
+- 한 줄 요약: 핵융합 연구의 주요 난제(플라즈마 제어, 재료 내성, 에너지 수율 최적화)에 ML 기법을 적용한 연구 동향 정리.
+
+### 핵심 기여
+1. 플라즈마 불안정성 예측에 딥러닝 활용 방안
+2. 핵융합로 재료 개발 가속화를 위한 ML 접근
+3. DOE Genesis Mission의 융합 에너지 AI 챌린지와 연계
+
+---
+
 ## [A Fifth Face? The Evolving Threat of Nuclear Terrorism in the Age of Artificial Intelligence](https://kclpure.kcl.ac.uk/portal/en/publications/5f31843a-b318-4c70-84df-c47b6a46f22d)
 - 저자: Muhammed Ali Alkis 외
 - 연도/학회(저널): 2026, *The Nonproliferation Review*
