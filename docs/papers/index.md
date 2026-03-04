@@ -1,5 +1,17 @@
 # 최신 논문
 
+## [Physics Informed Bayesian Machine Learning of Sparse and Imperfect Nuclear Data](https://arxiv.org/abs/2602.01808)
+- 저자: Junchen Pei 외
+- 연도/학회(저널): 2026-02-02, arXiv (nucl-th)
+- 한 줄 요약: 물리모델 기반 사전정보를 베이지안 ML에 결합해 희소·불완전 핵분열 수율 데이터를 보정하고 에너지 의존성을 더 안정적으로 추정.
+
+### 핵심 기여
+1. 물리모델 posterior를 informative prior로 주입해 소량 데이터 학습 한계 완화
+2. 누적 핵분열 수율 제약을 포함해 물리 일관성 유지
+3. 고비용 핵데이터 평가에 적용 가능한 베이지안 추론 워크플로우 제시
+
+---
+
 ## [Formalization of a Nuclear Power Plant Life-Cycle Model for AI and Machine Learning Applications](https://dmitrishin.github.io/publications/)
 - 저자: Yuriy Dmitrishin
 - 연도/학회(저널): 2026-02-08

@@ -1,5 +1,21 @@
 # 주간 브리핑
 
+## 2026-03-04 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. IAEA 3월 이사회에서 원자력 분야 AI 도입의 안전·보안 프레임(TECDOC) 구체화 논의가 본격화됨.
+2. 국제 에너지 채널(CEM)에서도 AI-원자력 연계(데이터센터 전력·원전 배치 가속)가 핵심 아젠다로 부상.
+3. 논문 측면에서는 물리정보+베이지안 ML 결합으로 희소 핵데이터 학습 성능을 높이는 접근이 주목됨.
+
+### 오늘 반영 뉴스 (4건)
+- IAEA Board of Governors 주간 의제 공개: AI 포함 원자력 안전·보안 검토 (IAEA)
+- AI 데이터센터 전력수요 급증과 원자력 역할 재조명 (Climate Change News)
+- EU, IAEA에 원자력 시설 AI 안전·보안 TECDOC 조속 개발 촉구 (EEAS)
+- CEM 웨비나 "Intelligent Energy: The AI–Nuclear Nexus" 개최 (CEM)
+
+### 오늘 반영 논문 (1건)
+- Physics Informed Bayesian Machine Learning of Sparse and Imperfect Nuclear Data (arXiv, 2026-02-02)
+
 ## 2026-03-03 데일리 브리핑
 
 ### 오늘의 3줄 요약

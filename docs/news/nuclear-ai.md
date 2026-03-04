@@ -1,5 +1,15 @@
 # 원자력 AI 뉴스
 
+## 2026-03-04 업데이트 (데일리)
+
+### EU, IAEA에 "원자력 시설 AI 안전·보안 TECDOC" 신속 개발 촉구
+- 출처: [EU 비엔나대표부 성명(Agenda Item 2)](https://www.eeas.europa.eu/delegations/vienna-international-organisations/eu-statement-agenda-item-2-nuclear-and-radiation-safety_en)
+- 한 줄 요약: EU가 IAEA 이사회에서 원자력 시설 AI 도입의 위험·편익 균형과 안전·보안 가이드(TECDOC) 조속 발간 필요성을 공식 제기.
+
+### CEM 웨비나 "Intelligent Energy: The AI–Nuclear Nexus" 개최
+- 출처: [Clean Energy Ministerial](https://www.cleanenergyministerial.org/events/intelligent-energy-the-ai-nuclear-nexus/)
+- 한 줄 요약: 국제 에너지 협력 채널에서 AI 전력수요 대응을 위한 원자력 활용과 AI 기반 원전 배치 가속 방안을 주제로 공개 논의 진행.
+
 ## 2026-03-03 업데이트 (데일리)
 
 ### IAEA 이사회, 원자력 시설 AI 활용 안전 가이드라인(TECDOC) 개발 착수

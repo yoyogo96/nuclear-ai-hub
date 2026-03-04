@@ -1,5 +1,15 @@
 # 일반 원자력 뉴스
 
+## 2026-03-04 업데이트 (데일리)
+
+### IAEA 이사회 주간 개막, 원자력·AI 안전 논의 본격화
+- 출처: [IAEA 미디어 어드바이저리](https://www.iaea.org/newscenter/mediaadvisories/press-arrangements-for-iaea-board-of-governors-meeting-2-6-march-2026)
+- 한 줄 요약: IAEA가 3월 이사회(3/2~3/6) 의제를 공개하며 AI를 포함한 원자력 안전·보안 이슈를 핵심 검토 항목으로 제시.
+
+### AI 데이터센터 전력수요 급증, 원자력의 계통 역할 재조명
+- 출처: [Climate Change News](https://www.climatechangenews.com/2026/03/03/explainer-will-ai-data-centres-make-or-break-the-energy-transition/)
+- 한 줄 요약: AI 데이터센터 전력수요 급증으로 24/7 무탄소 전원 필요성이 커지며 원자력(기존 원전+차세대 원자로) 활용 논의가 가속.
+
 ## 2026-03-03 업데이트 (데일리)
 
 ### 캘리포니아, 50년 금지 끝에 원자력 재고려... AI 전력 수요 대응
