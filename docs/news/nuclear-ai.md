@@ -1,5 +1,15 @@
 # 원자력 AI 뉴스
 
+## 2026-03-05 업데이트 (데일리)
+
+### 美 IAEA 대표부, AI·데이터센터 수요 대응 위한 원자력 혁신 강조
+- 출처: [U.S. Statement (IAEA Board, Agenda Item 4)](https://vienna.usmission.gov/u-s-statement-agenda-item-4-iaea-board-of-governors-meeting-march-2026/)
+- 한 줄 요약: 미국이 IAEA 이사회에서 데이터센터·AI 수요를 언급하며 SMR 등 혁신 원전 배치를 위한 안전·기술 협력을 핵심 의제로 제시.
+
+### AI4Nuclear 웨비나(3/11)서 원자력 분야 AI 규제·표준 영향 논의 예고
+- 출처: [Nuclear Institute](https://www.nuclearinst.com/events/events/ai4nuclear-ai-policy-and-regulation)
+- 한 줄 요약: 원자력 산업의 AI 도입 시 필요한 정책·규제 프레임과 표준화 이슈를 실무 관점에서 점검하는 공개 세션이 예정됨.
+
 ## 2026-03-04 업데이트 (데일리)
 
 ### EU, IAEA에 "원자력 시설 AI 안전·보안 TECDOC" 신속 개발 촉구

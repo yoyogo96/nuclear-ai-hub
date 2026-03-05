@@ -1,5 +1,21 @@
 # 주간 브리핑
 
+## 2026-03-05 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 미국 정책·시장 레벨에서 AI 데이터센터 전력비용 분리(요금 전가 억제) 논의가 본격화되며 대규모 안정전원 확보 이슈가 확대됨.
+2. IAEA 이사회 발언에서도 AI·데이터센터 전력수요 대응 맥락에서 SMR 포함 원자력 혁신 배치 필요성이 재확인됨.
+3. 연구 측면에서는 디지털 트윈+AI/ML 결합이 원전 상태감시·예지정비의 실무형 프레임으로 빠르게 정리되는 추세.
+
+### 오늘 반영 뉴스 (4건)
+- White House: AI 데이터센터 전력비용 전가 방지 Ratepayer Protection Pledge 발표
+- LA Times: 빅테크 7개사 데이터센터 전력조달 비용 자체 부담 합의 보도
+- U.S. Statement (IAEA Agenda Item 4): AI/데이터센터 수요 대응 위한 원자력 혁신 강조
+- Nuclear Institute: AI4Nuclear 정책·규제 웨비나(3/11) 공지
+
+### 오늘 반영 논문 (1건)
+- Advances in digital twins and AI/ML for condition monitoring in nuclear applications (Frontiers, 2026-02-17)
+
 ## 2026-03-04 데일리 브리핑
 
 ### 오늘의 3줄 요약

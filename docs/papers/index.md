@@ -1,5 +1,17 @@
 # 최신 논문
 
+## [Advances in digital twins and AI/ML for condition monitoring in nuclear applications](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2026.1716514/full)
+- 저자: W. Neal 외
+- 연도/학회(저널): 2026-02-17, *Frontiers in Energy Research*
+- 한 줄 요약: 디지털 트윈과 AI/ML을 결합해 원전 상태감시(이상탐지·예지정비·규제적용) 정확도와 현장 적용성을 높이는 최신 사례를 정리.
+
+### 핵심 기여
+1. LWR/비경수로 대상 상태감시 use case를 디지털 트윈 관점에서 통합 정리
+2. LSTM/오토인코더 기반 이상탐지·분류 모델의 원전 적용 패턴 제시
+3. 실증·규제 연계를 위한 데이터 품질·검증 절차 이슈를 구조화
+
+---
+
 ## [Physics Informed Bayesian Machine Learning of Sparse and Imperfect Nuclear Data](https://arxiv.org/abs/2602.01808)
 - 저자: Junchen Pei 외
 - 연도/학회(저널): 2026-02-02, arXiv (nucl-th)

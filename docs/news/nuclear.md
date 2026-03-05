@@ -1,5 +1,15 @@
 # 일반 원자력 뉴스
 
+## 2026-03-05 업데이트 (데일리)
+
+### 美 백악관, AI 데이터센터 전력비용 전가 방지 "Ratepayer Protection Pledge" 발표
+- 출처: [White House Fact Sheet](https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-advances-energy-affordability-with-the-ratepayer-protection-pledge/)
+- 한 줄 요약: 빅테크 7개사가 AI 데이터센터용 신규 전원·계통 보강 비용을 자체 부담하기로 합의하며 대규모 전력원(원자력 포함) 확보 압력이 커짐.
+
+### LA Times: 빅테크-정부 전력합의로 AI 전력수요 대응 본격화
+- 출처: [Los Angeles Times](https://www.latimes.com/environment/story/2026-03-04/top-tech-companies-sign-trumps-pledge-to-provide-their-own-power-for-ai-data-centers)
+- 한 줄 요약: AI 데이터센터 전력소비 비중이 2028년 최대 12% 전망으로 제시되며, 안정적 무탄소 전원 확보 수단으로 원자력 연계 논의가 재부각.
+
 ## 2026-03-04 업데이트 (데일리)
 
 ### IAEA 이사회 주간 개막, 원자력·AI 안전 논의 본격화
