@@ -1,5 +1,21 @@
 # 주간 브리핑
 
+## 2026-03-06 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 미국 정책 발표에서 AI 데이터센터 전력비용의 사용자 부담 원칙이 재확인되며, 대형 안정전원 조달(원자력 포함)이 더 구체화됨.
+2. DOE는 Genesis Mission 26대 과제를 공개하며 핵데이터 디지털화·원자력 연계 AI 연구를 국가 차원 우선순위로 제시함.
+3. 논문 측면에서는 원자력 재료·안전해석에서 ‘범용 ML 재료모델’과 ‘불확실성 정량화’가 실무 전환의 핵심 축으로 부상.
+
+### 오늘 반영 뉴스 (3건)
+- AP: 美 NRC, TerraPower 차세대 원자로 건설허가 승인
+- DOE: Genesis Mission 26대 AI 과제 발표 (핵데이터 디지털화 포함)
+- IAEA Statement: ‘Atoms for Algorithms’ 기조로 AI-원자력 구조적 결합 강조
+
+### 오늘 반영 논문 (2건)
+- Expanding Universal ML Interatomic Potentials to 97 Elements Towards Nuclear Applications (arXiv, 2026-03-03)
+- Quantifying Uncertainty in Void Swelling Prediction... (arXiv, 2026-03-02)
+
 ## 2026-03-05 데일리 브리핑
 
 ### 오늘의 3줄 요약

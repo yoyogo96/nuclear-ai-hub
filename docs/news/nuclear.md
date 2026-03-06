@@ -1,5 +1,11 @@
 # 일반 원자력 뉴스
 
+## 2026-03-06 업데이트 (데일리)
+
+### AP: 美 NRC, TerraPower 차세대 원자로 건설허가 승인
+- 출처: [AP News](https://apnews.com/article/wyoming-nuclear-reactor-912a98d4fb1a05bd06e6bf06d71742e7)
+- 한 줄 요약: 미국 NRC가 8년 만의 상업용 원자로 건설허가를 발급하며, AI 데이터센터 전력원으로 거론되는 차세대 원전 실증이 본궤도에 진입.
+
 ## 2026-03-05 업데이트 (데일리)
 
 ### 美 백악관, AI 데이터센터 전력비용 전가 방지 "Ratepayer Protection Pledge" 발표

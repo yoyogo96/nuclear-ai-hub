@@ -1,5 +1,15 @@
 # 원자력 AI 뉴스
 
+## 2026-03-06 업데이트 (데일리)
+
+### DOE, AI 기반 Genesis Mission 26대 과제 발표(핵데이터 디지털화 포함)
+- 출처: [U.S. Department of Energy](https://www.energy.gov/articles/energy-department-announces-26-genesis-mission-science-and-technology-challenges)
+- 한 줄 요약: DOE가 AI로 국가 연구개발 속도를 높이는 26개 과제를 공개하며, ‘미국 핵데이터 자산 디지털화’ 등 원자력 연계 과제를 전면 배치.
+
+### IAEA, ‘Atoms for Algorithms’ 기조로 AI-원자력 구조적 결합 강조
+- 출처: [IAEA Statement](https://www.iaea.org/newscenter/statements/the-atom-and-the-algorithm-nuclear-energy-and-ai-are-converging-to-shape-the-future)
+- 한 줄 요약: IAEA가 AI의 24/7 전력수요를 충족할 저탄소·고밀도 전원으로 원자력을 제시하고, 운영·안전·보장조치 전반에서 AI 활용 확대를 공식화.
+
 ## 2026-03-05 업데이트 (데일리)
 
 ### 美 IAEA 대표부, AI·데이터센터 수요 대응 위한 원자력 혁신 강조

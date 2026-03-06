@@ -1,5 +1,29 @@
 # 최신 논문
 
+## [Expanding Universal Machine Learning Interatomic Potentials to 97 Elements Towards Nuclear Applications](https://arxiv.org/abs/2603.03223)
+- 저자: Naoya Kuroda 외
+- 연도/학회(저널): 2026-03-03, arXiv (physics.chem-ph)
+- 한 줄 요약: 악티나이드(소악티나이드) 데이터를 포함해 97개 원소 범위의 범용 ML 원자간 퍼텐셜을 구축, 원자력 재료 설계 적용 가능성을 확장.
+
+### 핵심 기여
+1. 기존 범용 MLIP의 중원소 공백을 보완하는 HE26 데이터셋 제시
+2. 분자/결정 데이터와 통합해 97원소 커버 모델 공개
+3. 원자력 재료(고엔트로피 세라믹 등) 탐색 가속 기반 제공
+
+---
+
+## [Quantifying Uncertainty in Void Swelling Prediction: A Conformal Prediction Framework for Reactor Safety Margins](https://arxiv.org/abs/2603.01981)
+- 저자: Minhee Kim, Yong Yang
+- 연도/학회(저널): 2026-03-02, arXiv (stat.AP)
+- 한 줄 요약: 원자로 재료의 공공팽윤 예측에 적합예측(Conformal Prediction)을 결합해, 점추정 중심 ML의 불확실성 한계를 보완.
+
+### 핵심 기여
+1. 앙상블 ML + 적합예측으로 신뢰구간 보정
+2. 조사 손상 데이터의 이분산성(초기/성장 구간)을 반영한 추론 프레임 제시
+3. 재료 건전성·인가 평가에 활용 가능한 확률적 안전여유 평가 기반 제공
+
+---
+
 ## [Advances in digital twins and AI/ML for condition monitoring in nuclear applications](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2026.1716514/full)
 - 저자: W. Neal 외
 - 연도/학회(저널): 2026-02-17, *Frontiers in Energy Research*
