@@ -1,5 +1,17 @@
 # 최신 논문
 
+## [Bayesian Learning of (n,p) Reaction Cross Sections with Quantified Uncertainties](https://arxiv.org/abs/2603.04789)
+- 저자: Arunabha Saha, Songshaptak De
+- 연도/학회(저널): 2026-03-05, arXiv (nucl-th)
+- 한 줄 요약: 베이지안 신경망(BNN)으로 (n,p) 반응 단면적을 예측하고 불확실성을 함께 정량화해, 실험 데이터가 희소한 핵데이터 평가의 신뢰도를 높임.
+
+### 핵심 기여
+1. ENDF/B-VIII.1 기반 학습 + 물리 특성 6개 입력으로 핵반응 단면적 예측 프레임 제시
+2. 확률적 변분추론으로 예측값과 신뢰구간을 동시에 제공
+3. SHAP 분석으로 이론 단면 입력의 영향도를 설명 가능하게 제시
+
+---
+
 ## [Expanding Universal Machine Learning Interatomic Potentials to 97 Elements Towards Nuclear Applications](https://arxiv.org/abs/2603.03223)
 - 저자: Naoya Kuroda 외
 - 연도/학회(저널): 2026-03-03, arXiv (physics.chem-ph)

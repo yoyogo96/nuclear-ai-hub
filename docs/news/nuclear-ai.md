@@ -1,5 +1,15 @@
 # 원자력 AI 뉴스
 
+## 2026-03-07 업데이트 (데일리)
+
+### OECD-NEA, 원자력 리스크 레지스터 자동구조화 LLM 코딩대회 공지
+- 출처: [OECD-NEA Coding Competition](https://www.oecd-nea.org/jcms/pl_115121/coding-competition)
+- 한 줄 요약: NEA가 NLP·LLM으로 비정형 원자력 리스크 문서를 기계가독형으로 변환하는 대회를 열고, 2026년 5월 한국 AI for Nuclear 워크숍 연계를 명시함.
+
+### 美 IAEA 대표부, 원자력 보안 의제에서 "AI for Nuclear Security" 우선순위 재확인
+- 출처: [U.S. Statement (IAEA Board Agenda Item 3)](https://vienna.usmission.gov/u-s-statement-agenda-item-3-iaea-board-of-governors-meeting-march-2026/)
+- 한 줄 요약: 미국이 IAEA 이사회에서 원자력 시설 컴퓨터보안과 AI 기반 핵보안 과제를 핵심 우선순위로 명시하며, 디지털 전환형 원자력 보안 협력 필요성을 재강조함.
+
 ## 2026-03-06 업데이트 (데일리)
 
 ### DOE, AI 기반 Genesis Mission 26대 과제 발표(핵데이터 디지털화 포함)
