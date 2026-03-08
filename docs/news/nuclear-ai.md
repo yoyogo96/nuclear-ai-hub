@@ -1,5 +1,19 @@
 # 원자력 AI 뉴스
 
+## 2026-03-08 업데이트 (데일리)
+
+### Argonne, 생성형 AI 챗봇 "Dr. Metal"로 금속핵연료 연구 가속
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-03-05/article-7822/argonne-updates-fuel-research-and-materials-lab/)
+- 한 줄 요약: 아르곤국립연구소가 60년간의 금속핵연료 실험 데이터를 학습한 생성형 AI 챗봇 "Dr. Metal"과 핵분열가스 기포 예측용 "FGB Microstructure Generator"를 공개, U-Zr 연료 인허가 연구 기간 단축을 목표로 함.
+
+### 美 NRC, AI·데이터과학 규제 적용 워크숍 #2 개최 예고 (3/12)
+- 출처: [U.S. NRC](https://www.nrc.gov/)
+- 한 줄 요약: NRC가 3월 12일 "Moving Data and AI Into Practice" 워크숍을 열어 원자력 규제 분야의 AI 실무 적용 사례를 공유하고, 향후 AI 기반 규제 접근법 방향을 논의할 예정.
+
+### 플로리다대, ML로 토카막 플라즈마 불안정 예측·제어 연구 발표
+- 출처: [UF News](https://news.ufl.edu/2026/03/fusion-machine-learning/)
+- 한 줄 요약: UF 핵공학과 연구팀이 HiPerGator 슈퍼컴퓨터에서 ML 알고리즘으로 토카막 내 플라즈마 비정상 거동을 시뮬레이션·예측하여, 핵융합 상용화의 핵심 난제인 플라즈마 안정성 확보에 기여.
+
 ## 2026-03-07 업데이트 (데일리)
 
 ### OECD-NEA, 원자력 리스크 레지스터 자동구조화 LLM 코딩대회 공지

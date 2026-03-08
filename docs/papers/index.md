@@ -1,5 +1,17 @@
 # 최신 논문
 
+## [AI-Assisted Fire Risk Target Detection for Special Operating Conditions in Under-Construction Nuclear Power Plants](https://www.mdpi.com/2571-6155/9/3/115)
+- 저자: (MDPI Fire 저자팀)
+- 연도/학회(저널): 2026-03, *Fire* (MDPI)
+- 한 줄 요약: 건설 중 원전의 야간·저조도 환경에서 화재 위험 요소를 정밀 탐지하기 위해 개선된 YOLOv8n 딥러닝 모델을 제안, 소형 대상 인식률과 오경보 억제를 동시에 달성.
+
+### 핵심 기여
+1. 원전 건설 현장의 용접·절단 작업 등 특수 환경에 맞춘 화재 위험 객체 탐지 모델 제시
+2. 저조도 환경에서 불꽃과 조명을 구분하는 오경보 억제 메커니즘 포함
+3. 건설 단계 원전의 화재안전 감시 자동화에 AI 적용 가능성 실증
+
+---
+
 ## [Bayesian Learning of (n,p) Reaction Cross Sections with Quantified Uncertainties](https://arxiv.org/abs/2603.04789)
 - 저자: Arunabha Saha, Songshaptak De
 - 연도/학회(저널): 2026-03-05, arXiv (nucl-th)

@@ -1,5 +1,15 @@
 # 일반 원자력 뉴스
 
+## 2026-03-08 업데이트 (데일리)
+
+### 제2회 핵에너지 서밋(파리) 3월 10일 개최 임박 — AI·데이터센터 전력 의제 부각
+- 출처: [IAEA](https://www.iaea.org/events/nuclear-energy-summit-2026)
+- 한 줄 요약: 프랑스-IAEA 공동 주최 제2회 핵에너지 서밋이 모레 파리에서 열리며, AI 데이터센터 전력수요 대응·차세대 원자로 투자·디지털화가 핵심 의제로 확정됨.
+
+### Japan Times: 글로벌 원자력 르네상스, 15기 신규 원자로·AI 수요가 견인
+- 출처: [The Japan Times](https://www.japantimes.co.jp/news/2026/03/06/world/science-health/global-nuclear-power-renaissance/)
+- 한 줄 요약: 2026년 전 세계적으로 15기 이상의 원자로가 건설 중이며, AI 데이터센터의 폭증하는 전력수요와 중국의 원전 확장이 글로벌 원자력 르네상스를 이끌고 있다고 분석.
+
 ## 2026-03-06 업데이트 (데일리)
 
 ### AP: 美 NRC, TerraPower 차세대 원자로 건설허가 승인
