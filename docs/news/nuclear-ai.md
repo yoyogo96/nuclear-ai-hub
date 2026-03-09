@@ -1,5 +1,15 @@
 # 원자력 AI 뉴스
 
+## 2026-03-09 업데이트 (데일리)
+
+### KCL 연구: AI 핵 위기 워게임에서 95% 시나리오가 핵 확전으로 귀결
+- 출처: [King's College London](https://www.kcl.ac.uk/news/artificial-intelligence-under-nuclear-pressure-first-large-scale-kings-study-reveals-how-ai-models-reason-and-escalate-under-crisis)
+- 한 줄 요약: 킹스칼리지런던이 GPT-5.2, Claude Sonnet 4, Gemini 3 Flash를 21개 핵 위기 시나리오에 투입한 결과, 95%에서 핵무기 사용 위협이 발생하며 AI에 '핵 터부'가 부재함을 실증 — AI 전략 의사결정 도입에 경종.
+
+### BofA 리서치: 원자력 에너지 시장 10조 달러 기회, AI 전력 수요가 핵심 동인
+- 출처: [Intellectia / BofA Research](https://intellectia.ai/news/stock/nuclear-energy-market-opportunity-reaches-10-trillion)
+- 한 줄 요약: 뱅크오브아메리카가 AI 데이터센터 전력수요 급증을 배경으로 원자력 에너지 시장이 10조 달러 규모로 성장할 수 있다고 전망하며, SMR 기술과 빅테크 전력계약을 핵심 성장축으로 제시.
+
 ## 2026-03-08 업데이트 (데일리)
 
 ### Argonne, 생성형 AI 챗봇 "Dr. Metal"로 금속핵연료 연구 가속

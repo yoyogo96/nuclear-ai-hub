@@ -1,5 +1,17 @@
 # 최신 논문
 
+## [GRU-MLP 기반 원전 계측제어 운전데이터 이상탐지·보정](https://www.mdpi.com/2227-9717/14/2/192)
+- 저자: (MDPI Processes 저자팀)
+- 연도/학회(저널): 2026-01, *Processes* (MDPI)
+- 한 줄 요약: GRU 기반 단기예측과 MLP 분류기를 결합해 원전 I&C 계통의 랜덤 점프·고정값 드리프트·성장 드리프트 등 3가지 이상 패턴을 탐지·보정하는 방법을 제시하고, PWR 운전 데이터로 검증.
+
+### 핵심 기여
+1. GRU 모델의 시계열 예측을 기준값으로 활용한 이상탐지 프레임워크 제안
+2. MLP 분류기로 이상 유형 자동 식별 및 보정값 생성
+3. 가압경수로(PWR) 실제 운전 데이터 기반 실증으로 I&C 데이터 품질 향상 효과 확인
+
+---
+
 ## [AI-Assisted Fire Risk Target Detection for Special Operating Conditions in Under-Construction Nuclear Power Plants](https://www.mdpi.com/2571-6155/9/3/115)
 - 저자: (MDPI Fire 저자팀)
 - 연도/학회(저널): 2026-03, *Fire* (MDPI)
