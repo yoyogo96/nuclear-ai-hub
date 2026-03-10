@@ -1,5 +1,17 @@
 # 최신 논문
 
+## [딥러닝 기반 원전 1차 열전달계통 상태변수 다단계 예측](https://www.researchgate.net/publication/401395050_Multistep_forecasting_of_state_variables_in_nuclear_power_plants_using_deep_learning)
+- 저자: (Nuclear Engineering and Design 저자팀)
+- 연도/학회(저널): 2026-03, *Nuclear Engineering and Design*
+- 한 줄 요약: LSTM, CNN, zLSTM 등 딥러닝 모델을 활용해 원전 1차 열전달(PHT) 루프 3개 핵심 노드의 운전 상태변수를 다단계(multistep) 예측하는 프레임워크를 제시하고, 운전원의 추세 파악 및 안전성 향상에 기여.
+
+### 핵심 기여
+1. CNN+LSTM 협업 구조로 특징 추출과 시계열 메모리를 동시 활용한 다단계 예측
+2. PHT 루프 3개 노드(반응기·증기발생기·펌프) 핵심 파라미터 동시 모델링
+3. 원전 운전 중 이상 추세 조기 식별을 위한 데이터 기반 의사결정 지원 플랫폼
+
+---
+
 ## [GRU-MLP 기반 원전 계측제어 운전데이터 이상탐지·보정](https://www.mdpi.com/2227-9717/14/2/192)
 - 저자: (MDPI Processes 저자팀)
 - 연도/학회(저널): 2026-01, *Processes* (MDPI)

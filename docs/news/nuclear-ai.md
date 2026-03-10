@@ -1,5 +1,15 @@
 # 원자력 AI 뉴스
 
+## 2026-03-10 업데이트 (데일리)
+
+### UKAEA-CERN, AI 자율검사 로봇 'PipeINEER' 개발 — 원자력·입자물리 AI 검사 혁신
+- 출처: [UK Government / UKAEA](https://www.gov.uk/government/news/ai-trained-robotic-mice-to-scurry-in-the-large-hadron-collider)
+- 한 줄 요약: 영국 원자력에너지청(UKAEA)과 CERN이 공동 개발한 쥐 크기(3.7cm) 자율 로봇 'PipeINEER'가 AI로 LHC 빔파이프 내부 이상 징후를 탐지하며, 2026년 하반기 최종 생산·60km 실증을 앞두고 있음 — 원자력·핵융합 시설 원격검사 기술의 AI 적용 사례.
+
+### 한국서부발전·두산에너빌리티, AI 디지털트윈 기반 지능형 발전소 MOU 체결
+- 출처: [연합뉴스](https://www.yna.co.kr/amp/view/AKR20260309042700063)
+- 한 줄 요약: 양사가 국산 가스터빈 복합발전 설비에 AI+디지털트윈 기술을 적용해 이상 징후 사전 예측·진단 체계를 구축하고, 김포열병합에서 실증 후 'K-가스터빈·K-디지털트윈 패키지'로 해외 수출까지 목표.
+
 ## 2026-03-09 업데이트 (데일리)
 
 ### KCL 연구: AI 핵 위기 워게임에서 95% 시나리오가 핵 확전으로 귀결

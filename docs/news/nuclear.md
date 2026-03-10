@@ -1,5 +1,11 @@
 # 일반 원자력 뉴스
 
+## 2026-03-10 업데이트 (데일리)
+
+### 제2회 핵에너지 서밋 파리 개최 — 마크롱·IAEA 그로시 공동주재
+- 출처: [IAEA](https://www.iaea.org/events/nuclear-energy-summit-2026) / [프랑스 외교부](https://www.diplomatie.gouv.fr/en/french-foreign-policy/economic-diplomacy-foreign-trade/world-nuclear-energy-summit-10-march-2026/)
+- 한 줄 요약: 프랑스-IAEA 공동 주최 제2회 핵에너지 서밋이 오늘 파리에서 개막, AI 데이터센터 전력수요 대응·SMR/차세대 원자로 투자·핵연료 공급망 다변화·인력양성이 핵심 의제로 각국 정상급 참여.
+
 ## 2026-03-09 업데이트 (데일리)
 
 ### 핵에너지 서밋 D-1: Sfen/ENS/CEA, R&D 인프라 사이드 컨퍼런스 개최 (파리)
