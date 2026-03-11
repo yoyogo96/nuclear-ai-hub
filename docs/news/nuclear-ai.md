@@ -1,5 +1,11 @@
 # 원자력 AI 뉴스
 
+## 2026-03-11 업데이트 (데일리)
+
+### DOE SRNL, AI-ASSET로 핵환경 복원·오염추적 비용 절감 추진
+- 출처: [U.S. Department of Energy](https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs)
+- 한 줄 요약: Savannah River National Laboratory가 DOE Genesis Mission 아래 AI-ASSET 이니셔티브를 통해 스마트 센서망과 ML로 토양·수질 오염 이동을 예측하고, 장기 핵환경 모니터링·정화 비용을 크게 줄이는 방향을 제시.
+
 ## 2026-03-10 업데이트 (데일리)
 
 ### UKAEA-CERN, AI 자율검사 로봇 'PipeINEER' 개발 — 원자력·입자물리 AI 검사 혁신

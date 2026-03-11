@@ -1,5 +1,29 @@
 # 최신 논문
 
+## [Dynamic Stability Assessment of Grid-Connected Data Centers Powered by Small Modular Reactors](https://arxiv.org/abs/2603.09110)
+- 저자: Sobhan Badakhshan 외
+- 연도/학회(저널): 2026-03-10, arXiv (eess.SY)
+- 한 줄 요약: AI·고성능 컴퓨팅 수요가 커지는 데이터센터를 SMR+BESS 통합에너지시스템으로 공급할 때 전압·주파수 안정도가 어떻게 개선되는지 IEEE 118-bus 계통에서 동특성 시뮬레이션으로 검증.
+
+### 핵심 기여
+1. CPU 사용률·냉각효율·외기온을 함께 반영한 데이터센터 계산-열부하 연계 모델 제시
+2. SMR와 배터리 저장장치를 결합한 계통연계형 전력공급 구조의 안정도 평가
+3. AI 데이터센터 전력원으로서 SMR 적용 시 사고 후 회복력과 계통 지원 효과를 정량 비교
+
+---
+
+## [Bayesian neural network with autoencoder for model-based description of α-particle preformation factor](https://arxiv.org/abs/2603.07976)
+- 저자: Xiao-Yan Zhu 외
+- 연도/학회(저널): 2026-03-09, arXiv (nucl-th)
+- 한 줄 요약: 베이지안 신경망과 오토인코더를 결합한 BNN-Auto 프레임으로 중·초중원소의 α 붕괴 전형성 인자와 반감기를 더 정확하게 예측하고, 불확실성까지 함께 제시.
+
+### 핵심 기여
+1. 535개 핵종 실험데이터 기반으로 α-입자 preformation factor 예측 오차를 크게 감소
+2. 변분추론 기반 확률 모델링으로 예측값과 신뢰구간을 동시에 제공
+3. Z=120, N=184 부근 안정섬(shell effect) 후보의 반감기 증가 경향까지 ML로 탐색
+
+---
+
 ## [딥러닝 기반 원전 1차 열전달계통 상태변수 다단계 예측](https://www.researchgate.net/publication/401395050_Multistep_forecasting_of_state_variables_in_nuclear_power_plants_using_deep_learning)
 - 저자: (Nuclear Engineering and Design 저자팀)
 - 연도/학회(저널): 2026-03, *Nuclear Engineering and Design*

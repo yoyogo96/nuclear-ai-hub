@@ -1,5 +1,19 @@
 # 일반 원자력 뉴스
 
+## 2026-03-11 업데이트 (데일리)
+
+### EU 집행위원장 "원자력을 등진 건 전략적 실수" — SMR 전략·2억유로 보증 발표
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/von-der-leyen-it-was-strategic-mistake-to-turn-against-nuclear)
+- 한 줄 요약: 우르줄라 폰데어라이엔 EU 집행위원장이 파리 핵에너지 서밋에서 원자력 축소를 유럽의 전략적 실수로 규정하고, 2030년대 초 SMR 가동 목표와 혁신 원자력 민간투자 유치를 위한 2억유로 보증 계획을 공개.
+
+### 중국·브라질·이탈리아·벨기에, 2050년 원전 3배 확대 선언 합류
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/china-and-brazil-sign-up-to-tripling-nuclear-goal)
+- 한 줄 요약: 핵에너지 서밋 2026에서 중국·브라질·이탈리아·벨기에가 '2050년 글로벌 원전 용량 3배 확대' 선언에 새로 서명하면서 참여국이 38개국으로 늘어, 대형원전·SMR 확대의 정책 모멘텀이 강화됨.
+
+### KAERI-석유화학업계, 고온가스로(HTGR) 공정열 적용 협력 착수
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/korean-partnership-to-consider-use-of-htgrs)
+- 한 줄 요약: 한국원자력연구원과 한국화학산업협회가 탄소중립형 산업열 공급을 목표로 HTGR 도입 검토 MOU를 체결해, 국내 석유화학 공정열 시장에서 차세대 원자로 실증 가능성을 구체화.
+
 ## 2026-03-10 업데이트 (데일리)
 
 ### 제2회 핵에너지 서밋 파리 개최 — 마크롱·IAEA 그로시 공동주재

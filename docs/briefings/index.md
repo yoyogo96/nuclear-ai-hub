@@ -1,5 +1,22 @@
 # 주간 브리핑
 
+## 2026-03-11 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 핵에너지 서밋 2026 직후 EU가 "원자력을 등진 건 전략적 실수"라고 공개 평가하며, SMR 전략과 2억유로 규모의 혁신 원자력 투자 보증을 내놓아 유럽 정책 톤이 한층 선명해짐.
+2. 같은 흐름에서 중국·브라질·이탈리아·벨기에가 2050년 원전 3배 확대 선언에 합류하고, 국내에서는 KAERI-석유화학업계가 HTGR 공정열 적용 협력에 착수해 정책-산업 양쪽 모멘텀이 이어짐.
+3. AI 측면에서는 DOE SRNL이 AI-ASSET로 핵환경 복원 자동화·비용절감에 나섰고, 논문도 SMR-데이터센터 통합전력계통 안정도와 핵이론용 BNN-Auto 모델 등 2건이 추가됨.
+
+### 오늘 반영 뉴스 (4건)
+- EU 집행위원장: "원자력을 등진 건 전략적 실수" — SMR 전략·2억유로 보증 발표 (WNN)
+- 중국·브라질·이탈리아·벨기에, 2050년 원전 3배 확대 선언 합류 (WNN)
+- KAERI-석유화학업계, 고온가스로(HTGR) 공정열 적용 협력 착수 (WNN)
+- DOE SRNL, AI-ASSET로 핵환경 복원·오염추적 비용 절감 추진 (DOE)
+
+### 오늘 반영 논문 (2건)
+- Dynamic Stability Assessment of Grid-Connected Data Centers Powered by Small Modular Reactors (arXiv, 2026-03-10)
+- Bayesian neural network with autoencoder for model-based description of α-particle preformation factor (arXiv, 2026-03-09)
+
 ## 2026-03-10 데일리 브리핑
 
 ### 오늘의 3줄 요약
