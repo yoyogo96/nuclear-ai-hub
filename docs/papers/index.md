@@ -1,5 +1,29 @@
 # 최신 논문
 
+## [Surrogate models for nuclear fusion with parametric Shallow Recurrent Decoder Networks: applications to magnetohydrodynamic systems](https://arxiv.org/abs/2603.10678)
+- 저자: V. O. Kulikovskii 외
+- 연도/학회(저널): 2026-03-11, arXiv
+- 한 줄 요약: 핵융합계의 복잡한 MHD 거동을 빠르게 근사하는 얕은 순환 디코더 기반 대리모델을 제안해, 고비용 시뮬레이션을 줄이면서도 액체금속·용융염 시스템 설계 탐색 속도를 높임.
+
+### 핵심 기여
+1. 파라메트릭 Shallow Recurrent Decoder Network로 시공간 동역학을 빠르게 근사하는 대리모델 제시
+2. 핵융합 MHD 문제에 적용해 계산비용이 큰 수치해석을 대체·보조할 수 있는 가능성 확인
+3. 설계 변수 스윕과 실시간 제어·최적화에 활용 가능한 AI 기반 시뮬레이션 가속 프레임 제공
+
+---
+
+## [Architecture as physical prior: cooperative neural network for nuclear masses](https://arxiv.org/abs/2603.09747)
+- 저자: A. M. El-Sherif 외
+- 연도/학회(저널): 2026-03-10, arXiv (nucl-th)
+- 한 줄 요약: 물리 특징을 손으로 넣기보다 네트워크 구조 자체에 물리 priors를 반영한 cooperative neural network로 핵질량 예측 정확도를 높여, 이론 모델 보정 없이도 데이터 기반 핵질량 지도를 개선.
+
+### 핵심 기여
+1. 기존 이론 베이스라인이나 수작업 특징공학 의존도를 낮춘 핵질량 예측용 협력형 신경망 구조 제안
+2. 아키텍처 수준에서 물리 priors를 반영해 일반화 성능과 해석 가능성 개선 시도
+3. 희소한 미측정 핵종 질량 추정에 활용될 수 있는 순수 데이터 기반 대안 제시
+
+---
+
 ## [Dynamic Stability Assessment of Grid-Connected Data Centers Powered by Small Modular Reactors](https://arxiv.org/abs/2603.09110)
 - 저자: Sobhan Badakhshan 외
 - 연도/학회(저널): 2026-03-10, arXiv (eess.SY)

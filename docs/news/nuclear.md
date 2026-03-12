@@ -1,5 +1,19 @@
 # 일반 원자력 뉴스
 
+## 2026-03-12 업데이트 (데일리)
+
+### EDF, 글로벌 원전 투자·금융 자문보드 출범
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/edf-launches-global-nuclear-investment-and-financing-advisory-board)
+- 한 줄 요약: EDF가 에너지·금융권 전문가를 묶은 국제 자문보드를 신설해 신규 원전 프로젝트의 자금조달 구조와 민간투자 유치 전략을 본격 정비하며, 대형원전·SMR 확산의 금융 병목 해소에 나섬.
+
+### Framatome·NuScale, SMR 연료 파트너십 확대
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/framatome-and-nuscale-expand-fuel-partnership)
+- 한 줄 요약: Framatome과 NuScale이 NuScale SMR용 연료·제조 협력을 확대해 미국 내 상용 SMR 공급망 구축을 앞당기며, 설계 승인 이후 연료 밸류체인 준비를 구체화.
+
+### Deep Fission, 첫 데이터취득용 시추 착수
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/deep-fission-begins-drilling-first-data-acquisition-well)
+- 한 줄 요약: Deep Fission이 지하 시추공 기반 소형 원자로 개념 검증을 위해 첫 데이터취득용 시추를 시작하며, 지질·열수·공학 데이터를 확보해 초심도 원전 설계 타당성 평가에 들어감.
+
 ## 2026-03-11 업데이트 (데일리)
 
 ### EU 집행위원장 "원자력을 등진 건 전략적 실수" — SMR 전략·2억유로 보증 발표

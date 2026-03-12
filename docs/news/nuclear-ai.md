@@ -1,5 +1,11 @@
 # 원자력 AI 뉴스
 
+## 2026-03-12 업데이트 (데일리)
+
+### 美 NRC, 'Moving Data and AI into Practice' 심포지엄 개최
+- 출처: [U.S. NRC](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26023A066)
+- 한 줄 요약: 미국 NRC가 산업계·학계·규제기관을 모아 원자력 분야 데이터·AI의 실제 운영 적용 사례를 공유하는 심포지엄을 열고, 규제 의사결정의 효율성·안전성·투명성을 높일 AI 활용 방향을 공개 논의.
+
 ## 2026-03-11 업데이트 (데일리)
 
 ### DOE SRNL, AI-ASSET로 핵환경 복원·오염추적 비용 절감 추진

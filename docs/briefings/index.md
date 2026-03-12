@@ -1,5 +1,22 @@
 # 주간 브리핑
 
+## 2026-03-12 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 파리 핵에너지 서밋 직후 EDF가 글로벌 원전 투자·금융 자문보드를 출범시키고, Framatome-NuScale도 SMR 연료 파트너십을 넓히며 정책 논의가 실제 금융·공급망 준비 단계로 빠르게 이어지고 있음.
+2. Deep Fission은 초심도 시추공 원전 개념 검증을 위한 첫 데이터취득 시추를 시작했고, 미국 NRC는 오늘 'Moving Data and AI into Practice' 심포지엄으로 원자력 AI의 규제·실무 적용 사례를 본격 공유함.
+3. 논문 쪽에서는 핵융합 MHD용 대리모델과 핵질량 예측용 cooperative neural network가 추가되며, 고비용 물리 시뮬레이션 가속과 핵데이터 예측 정밀화가 최신 흐름으로 확인됨.
+
+### 오늘 반영 뉴스 (4건)
+- EDF, 글로벌 원전 투자·금융 자문보드 출범 (WNN)
+- Framatome·NuScale, SMR 연료 파트너십 확대 (WNN)
+- Deep Fission, 첫 데이터취득용 시추 착수 (WNN)
+- 美 NRC, 'Moving Data and AI into Practice' 심포지엄 개최 (NRC)
+
+### 오늘 반영 논문 (2건)
+- Surrogate models for nuclear fusion with parametric Shallow Recurrent Decoder Networks... (arXiv, 2026-03-11)
+- Architecture as physical prior: cooperative neural network for nuclear masses (arXiv, 2026-03-10)
+
 ## 2026-03-11 데일리 브리핑
 
 ### 오늘의 3줄 요약
