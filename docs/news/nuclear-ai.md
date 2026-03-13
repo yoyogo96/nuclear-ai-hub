@@ -1,5 +1,11 @@
 # 원자력 AI 뉴스
 
+## 2026-03-13 업데이트 (데일리)
+
+### Centrus·Palantir, 미국 우라늄 농축 증설에 AI 운영 최적화 적용
+- 출처: [PR Newswire / Centrus·Palantir](https://www.prnewswire.com/news-releases/centrus-partners-with-palantir-to-drive-cost-savings-and-unlock-operational-efficiencies-in-major-expansion-of-us-uranium-enrichment-capacity-302712228.html)
+- 한 줄 요약: Centrus가 Palantir의 AI 플랫폼으로 프로젝트 관리·제조·공급망·규제준수 데이터를 통합해 미국 우라늄 농축 설비 확장 비용과 리드타임을 줄이려 하며, 핵연료 밸류체인에 AI 운영 최적화가 본격 적용되기 시작함.
+
 ## 2026-03-12 업데이트 (데일리)
 
 ### 美 NRC, 'Moving Data and AI into Practice' 심포지엄 개최

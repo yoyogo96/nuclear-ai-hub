@@ -1,3 +1,27 @@
+## [Tearing Stability Prediction Combining Toroidal Calculations With a Two-Fluid Slab Layer](https://arxiv.org/abs/2603.11562)
+- 저자: Daniel Burgess 외
+- 연도/학회(저널): 2026-03-12, arXiv
+- 한 줄 요약: 토카막 tearing mode 안정성을 빠르게 예측하는 STRIDE+SLAYER 워크플로우를 제안해, 고충실도 토로이달 계산과 두유체 slab inner-layer 해석을 결합함으로써 핵융합 운전영역 설계와 안전한 방전 시나리오 탐색을 가속.
+
+### 핵심 기여
+1. 토로이달 \(\Delta'\) 계산과 inner-layer 두유체 MHD 해석을 결합한 빠른 안정성 평가 프레임 제시
+2. 플라즈마 beta, aspect ratio, 전류 프로파일 변화에 대한 tearing stability 스캔을 안정적으로 수행
+3. 미래 토카막의 안전 운전 궤적 설계와 안정 운전영역 맵핑을 위한 계산비용 절감 기반 제공
+
+---
+
+## [Polarized Target Nuclear Magnetic Resonance Measurements with Deep Neural Networks](https://arxiv.org/abs/2603.10146)
+- 저자: Devin Seay 외
+- 연도/학회(저널): 2026-03-10, arXiv
+- 한 줄 요약: 심층신경망을 이용해 연속파 NMR 편극 측정의 잡음·베이스라인 드리프트·피팅 불확실성을 줄여, 핵·고에너지물리 실험용 polarized target의 실시간 편극 모니터링 정확도를 높임.
+
+### 핵심 기여
+1. 기존 Q-meter 기반 CW-NMR 분석에 신경망 기반 신호 추출·노이즈 제거를 처음 본격 적용
+2. 시뮬레이션과 실험 조건 전반에서 편극 추정의 fitting uncertainty를 유의미하게 감소
+3. 산란실험의 online 모니터링과 offline 정밀분석 품질을 함께 높일 계측 AI 프레임 제시
+
+---
+
 # 최신 논문
 
 ## [Surrogate models for nuclear fusion with parametric Shallow Recurrent Decoder Networks: applications to magnetohydrodynamic systems](https://arxiv.org/abs/2603.10678)

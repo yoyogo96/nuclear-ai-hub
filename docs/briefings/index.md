@@ -1,5 +1,21 @@
 # 주간 브리핑
 
+## 2026-03-13 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 미국 DOE는 기존 원전 수명연장·출력증강·재가동을 묶은 UPRISE를 내놓으며, 신규 건설만이 아니라 기존 원전 fleet 자체를 빠르게 키우는 경로를 공식화함.
+2. Westinghouse AP1000 10기 도입의 경제효과 분석이 나오고, Centrus·Palantir는 우라늄 농축 증설에 AI 운영 최적화를 붙이며 원전 건설과 핵연료 밸류체인 양쪽에서 투자·운영 논리가 더 구체화됨.
+3. 논문은 토카막 tearing stability 고속예측과 DNN 기반 NMR 편극 측정 정밀화가 추가되며, 핵융합 운전 안정성·핵계측 지능화가 오늘의 연구 포인트로 확인됨.
+
+### 오늘 반영 뉴스 (3건)
+- DOE, UPRISE로 기존 원전 5GW 증강 추진 (DOE)
+- Westinghouse AP1000 10기, 美 경제효과 1조달러 분석 (WNN)
+- Centrus·Palantir, 미국 우라늄 농축 증설에 AI 운영 최적화 적용 (PR Newswire)
+
+### 오늘 반영 논문 (2건)
+- Tearing Stability Prediction Combining Toroidal Calculations With a Two-Fluid Slab Layer (arXiv, 2026-03-12)
+- Polarized Target Nuclear Magnetic Resonance Measurements with Deep Neural Networks (arXiv, 2026-03-10)
+
 ## 2026-03-12 데일리 브리핑
 
 ### 오늘의 3줄 요약

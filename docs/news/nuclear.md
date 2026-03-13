@@ -1,5 +1,15 @@
 # 일반 원자력 뉴스
 
+## 2026-03-13 업데이트 (데일리)
+
+### DOE, UPRISE로 기존 원전 5GW 증강 추진
+- 출처: [U.S. Department of Energy](https://www.energy.gov/ne/articles/nations-nuclear-reactor-fleet-rise)
+- 한 줄 요약: DOE가 UPRISE 이니셔티브를 통해 계속운전, 출력증강, 휴지 원전 재가동, 첨단연료 도입으로 2029년까지 추가 5GW 확보를 추진하며 미국 기존 원전의 증설·효율화 로드맵을 공식화.
+
+### Westinghouse AP1000 10기, 美 경제효과 1조달러 분석
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/study-highlights-economic-impact-of-us-fleet-of-ap1000s)
+- 한 줄 요약: PwC 분석을 인용한 WNN 보도에 따르면 미국 내 AP1000 10기 도입은 80년 기준 1조달러 이상의 GDP와 대규모 일자리를 창출할 수 있어, 대형원전 신규 건설 논리를 경제성·산업정책 관점에서 다시 밀어 올리고 있음.
+
 ## 2026-03-12 업데이트 (데일리)
 
 ### EDF, 글로벌 원전 투자·금융 자문보드 출범
