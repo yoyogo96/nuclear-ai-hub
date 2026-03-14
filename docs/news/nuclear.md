@@ -1,5 +1,15 @@
 # 일반 원자력 뉴스
 
+## 2026-03-14 업데이트 (데일리)
+
+### 영국, 신규 원전 규제·인허가 체계 전면 손질 착수
+- 출처: [UK Government](https://www.gov.uk/government/news/overhaul-of-nuclear-system-to-speed-up-building-and-cut-costs)
+- 한 줄 요약: 영국 정부가 "과도하게 복잡하고 관료적인" 원전 규제·계획 체계를 2027년 말까지 전면 개편하겠다고 발표하며, 대형원전·SMR 모두에서 건설 기간과 비용을 줄이는 방향으로 인허가 병목 해소에 나섬.
+
+### 영국 재무장관, 규제기관·업계에 "중복·골드플레이팅 제거" 공개 요구
+- 출처: [UK Government](https://www.gov.uk/government/publications/chancellor-letter-to-nuclear-regulators-and-industry)
+- 한 줄 요약: 영국 재무장관이 규제기관과 업계에 위험관리·심사 절차를 다시 점검해 중복 규정과 과잉 절차를 걷어내라고 공개 서한을 보내며, 원전 프로젝트의 지연·고비용 구조를 직접 손보겠다는 신호를 줌.
+
 ## 2026-03-13 업데이트 (데일리)
 
 ### DOE, UPRISE로 기존 원전 5GW 증강 추진
