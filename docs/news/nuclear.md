@@ -1,5 +1,15 @@
 # 일반 원자력 뉴스
 
+## 2026-03-15 업데이트 (데일리)
+
+### 중국 산아오 1호기, 첫 계통연계 성공
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/first-sanao-unit-connected-to-the-grid)
+- 한 줄 요약: 중국 저장성 산아오 원전의 첫 Hualong One 원자로가 처음으로 전력망에 연결되며, 중국의 대형 3세대 원전 신규 물량이 실운전 단계로 한 걸음 더 전진함.
+
+### 롤스로이스 SMR, 영국 규제 적합성 근거문서 공개
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/regulatory-justification-for-rolls-royce-smr)
+- 한 줄 요약: 롤스로이스 SMR이 영국 규제기관 심사를 뒷받침할 ‘규제 적합성’ 근거문서를 공개하며, 설계심사와 향후 부지·인허가 절차를 위한 사전 준비를 한층 구체화함.
+
 ## 2026-03-14 업데이트 (데일리)
 
 ### 영국, 신규 원전 규제·인허가 체계 전면 손질 착수
