@@ -1,3 +1,29 @@
+# 2026-03-16 업데이트
+
+## [Recent advances and trends in pattern recognition and data analysis for RICH detectors](https://arxiv.org/abs/2603.13000)
+- 저자: Luka Santelj
+- 연도/학회(저널): 2026-03-13, *Nuclear Instruments and Methods in Physics Research A* / arXiv
+- 한 줄 요약: 핵·입자물리 실험의 RICH 검출기에서 체렌코프 링 복원과 입자식별 정확도를 높이기 위해 전통적 패턴인식 기법과 최신 생성형 머신러닝 기반 빠른 시뮬레이션·재구성 흐름을 함께 정리한 최신 리뷰.
+
+### 핵심 기여
+1. RICH 검출기 재구성에서 likelihood/Hough 기반 전통 기법과 ML 기반 접근을 체계 비교
+2. 운영 중인 핵·입자물리 실험 사례를 통해 패턴인식 알고리즘의 성능 개선 방향 정리
+3. 생성형 ML을 활용한 고속 시뮬레이션·재구성의 실험 적용 가능성을 제시
+
+---
+
+## [First Estimation of Model Parameters for Neutrino-Induced Nucleon Knockout Using Simulation-Based Inference](https://arxiv.org/abs/2603.09778)
+- 저자: Karla Tame-Narvaez 외
+- 연도/학회(저널): 2026-03-10, arXiv
+- 한 줄 요약: MicroBooNE가 조정한 GENIE 중성미자-핵 상호작용 모델을 시뮬레이션 기반 추론(SBI)으로 다시 추정해, 복잡한 핵반응 파라미터 튜닝을 더 자동화·정밀화할 수 있음을 보인 연구.
+
+### 핵심 기여
+1. 중성미자-핵 상호작용 모델 파라미터 추정에 SBI를 적용해 기존 수동 튜닝 절차를 대체·보완
+2. MicroBooNE 데이터에서 채택값과 유사하면서도 더 나은 적합도를 보이는 파라미터 조합 제시
+3. 다른 이벤트 생성기(NuWro) 일부 조건에도 근사 가능한 ML 기반 핵물리 시뮬레이션 보정 가능성 확인
+
+---
+
 # 2026-03-15 업데이트
 
 - 지난 24시간 기준으로 원자력+인공지능 주제의 신규 논문/프리프린트를 arXiv 중심으로 재확인했지만, 기존 반영본과 중복되지 않는 유의미한 신규 건은 확인되지 않았습니다.

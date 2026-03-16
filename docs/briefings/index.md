@@ -1,5 +1,21 @@
 # 주간 브리핑
 
+## 2026-03-16 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 영국은 원전 규제개혁 권고안을 2027년 말까지 이행하겠다고 밝히고 단일 리드 규제기관 체계와 대규모 인력·R&D 투자를 병행하며 신규 원전과 SMR 속도전을 제도적으로 밀어붙이고 있음.
+2. 같은 흐름에서 와일파 부지의 첫 영국 SMR 프로젝트가 초기 기초설계·부지특화 엔지니어링 단계에 들어가며, 정책 발표가 실제 프로젝트 실행 단계로 연결되고 있음.
+3. 논문 쪽에서는 핵·입자물리 계측의 패턴인식 고도화와 중성미자-핵 상호작용 모델의 ML 기반 파라미터 추정이 추가되며, 핵실험 데이터 해석 자동화가 오늘의 연구 포인트로 확인됨.
+
+### 오늘 반영 뉴스 (3건)
+- 영국, 원전 규제개혁 이행 로드맵 공식화 (WNN)
+- 영국 와일파 첫 SMR 부지, 초기 설계·기초엔지니어링 착수 (WNN)
+- 러시아 나마루 우라늄 광상, 인프라 공사 본격화 (WNN)
+
+### 오늘 반영 논문 (2건)
+- Recent advances and trends in pattern recognition and data analysis for RICH detectors (arXiv/NIM A, 2026-03-13)
+- First Estimation of Model Parameters for Neutrino-Induced Nucleon Knockout Using Simulation-Based Inference (arXiv, 2026-03-10)
+
 ## 2026-03-15 데일리 브리핑
 
 ### 오늘의 3줄 요약

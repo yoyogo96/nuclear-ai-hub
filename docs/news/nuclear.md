@@ -1,5 +1,19 @@
 # 일반 원자력 뉴스
 
+## 2026-03-16 업데이트 (데일리)
+
+### 영국, 원전 규제개혁 이행 로드맵 공식화
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/uk-implementing-nuclear-regulatory-review-recommendations)
+- 한 줄 요약: 영국 정부가 원전 규제 태스크포스 권고 47개를 2027년 말까지 이행하겠다고 밝히고, 단일 리드 규제기관 모델과 박사인력·연구투자를 함께 추진하며 신규 원전·SMR 인허가 속도전의 제도 틀을 구체화함.
+
+### 영국 와일파 첫 SMR 부지, 초기 설계·기초엔지니어링 착수
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/arup-to-support-delivery-of-the-uks-first-smr)
+- 한 줄 요약: Great British Energy-Nuclear이 Arup 컨소시엄을 와일파 SMR 초기 기초설계 파트너로 선정하면서, 롤스로이스 SMR 기반 영국 첫 SMR 프로젝트가 부지 특화 설계·인허가 준비의 실무 단계로 진입함.
+
+### 러시아 나마루 우라늄 광상, 인프라 공사 본격화
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/infrastructure-work-begins-for-namaru-uranium-deposit)
+- 한 줄 요약: Rosatom 산하 Khiagda가 도로·전력선·배관 등 나마루 우라늄 광상 기반시설 공사를 시작하며, 2026년 말 가동을 목표로 러시아 핵연료 원료 공급능력 확대를 추진함.
+
 ## 2026-03-15 업데이트 (데일리)
 
 ### 중국 산아오 1호기, 첫 계통연계 성공
