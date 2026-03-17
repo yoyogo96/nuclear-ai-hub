@@ -1,3 +1,17 @@
+# 2026-03-17 업데이트
+
+## [Multifidelity Surrogate Modeling of Depressurized Loss of Forced Cooling in High-temperature Gas Reactors](https://arxiv.org/abs/2603.14143)
+- 저자: Ryan W. Christensen 외
+- 연도/학회(저널): 2026-03-14, arXiv (cs.LG)
+- 한 줄 요약: 고온가스로(HTGR) 감압 상실강제냉각(Depressurized LOFC) 과도해석에서 고충실도 CFD를 직접 반복하지 않고, 다중 충실도 Gaussian Process·신경망 대리모델로 자연순환 개시 시점과 이후 온도를 빠르게 예측하는 방법을 제시.
+
+### 핵심 기여
+1. 고·중·저충실도 CFD 데이터를 결합해 HTGR 안전 과도현상 예측 비용을 줄이는 다중충실도 ML 프레임워크 비교
+2. 자연순환 개시 시점(ONC)과 ONC 이후 온도를 대상으로, 입력변수 선택과 fidelity 조합이 성능에 미치는 영향을 정량 평가
+3. 다중충실도 GP가 가장 견고한 성능을 보였고, 일부 신경망은 더 짧은 학습시간으로 유사 정확도를 달성해 원자로 안전해석 가속 가능성 제시
+
+---
+
 # 2026-03-16 업데이트
 
 ## [Recent advances and trends in pattern recognition and data analysis for RICH detectors](https://arxiv.org/abs/2603.13000)

@@ -1,5 +1,11 @@
 # 일반 원자력 뉴스
 
+## 2026-03-17 업데이트 (데일리)
+
+### X-energy·IHI, 미·일 Xe-100 SMR 공급망 확대 협력
+- 출처: [X-energy](https://x-energy.com/media/news-releases/x-energy-ihi-corporation-partner-to-advance-us-japan-smr-supply-chain-development)
+- 한 줄 요약: X-energy와 일본 IHI가 Xe-100 고온가스로 SMR용 핵심 장주기 부품의 상업 규모 제조 협력 MOU를 체결하며, 미국 내 부족한 원자력급 제조역량을 미·일 공급망 연계로 보강하려는 흐름이 더 분명해짐.
+
 ## 2026-03-16 업데이트 (데일리)
 
 ### 영국, 원전 규제개혁 이행 로드맵 공식화

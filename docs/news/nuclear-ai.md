@@ -1,5 +1,15 @@
 # 원자력 AI 뉴스
 
+## 2026-03-17 업데이트 (데일리)
+
+### AtkinsRéalis·NVIDIA, ‘원자력 기반 AI 팩토리’ 설계·배치 협력
+- 출처: [AtkinsRéalis / PR Newswire](https://www.morningstar.com/news/pr-newswire/20260316mo11206/atkinsralis-collaborates-with-nvidia-to-accelerate-deployment-of-nuclearpowered-ai-factories)
+- 한 줄 요약: AtkinsRéalis가 NVIDIA와 손잡고 CANDU 등 원자력 인프라 설계 역량에 Omniverse·가속컴퓨팅 기반 디지털트윈을 결합해 대규모 AI 데이터센터용 ‘원자력 기반 AI 팩토리’ 배치 속도와 설계 최적화를 노리기 시작함.
+
+### 영국 UKAEA, 핵융합 연구용 AI 슈퍼컴퓨터 ‘Sunrise’에 4,500만 파운드 투자
+- 출처: [Nuclear Industry Association / UK Fusion Strategy](https://www.niauk.org/45m-for-the-uks-first-ai-supercomputer-to-accelerate-fusion-energy/)
+- 한 줄 요약: 영국 정부가 UKAEA 컬럼 캠퍼스에 1.4MW급 AI 슈퍼컴퓨터 ‘Sunrise’를 구축해 플라즈마 난류·재료·삼중수소 연료주기 디지털트윈을 가속하겠다고 밝히며, 핵융합 연구 인프라에 AI 전용 계산자원을 본격 투입함.
+
 ## 2026-03-13 업데이트 (데일리)
 
 ### Centrus·Palantir, 미국 우라늄 농축 증설에 AI 운영 최적화 적용

@@ -1,5 +1,20 @@
 # 주간 브리핑
 
+## 2026-03-17 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. X-energy와 일본 IHI가 Xe-100 SMR 핵심 부품의 상업 제조 협력을 공식화하면서, 첨단원전 상용화의 병목인 원자력급 공급망 확보가 미·일 산업협력 단계로 더 구체화됨.
+2. AtkinsRéalis-NVIDIA 협력과 영국 UKAEA의 AI 슈퍼컴퓨터 Sunrise 투자는, 원자력이 AI 데이터센터 전력원일 뿐 아니라 원전·핵융합 설계와 연구개발 자체를 AI로 가속하는 흐름이 동시에 커지고 있음을 보여줌.
+3. 논문 쪽에서는 HTGR 감압 LOFC 안전해석에 다중충실도 ML 대리모델을 적용한 새 연구가 추가되며, 고비용 원자로 열유동 해석을 더 빠르게 돌리는 실무형 AI 접근이 눈에 띔.
+
+### 오늘 반영 뉴스 (3건)
+- X-energy·IHI, 미·일 Xe-100 SMR 공급망 확대 협력 (X-energy)
+- AtkinsRéalis·NVIDIA, ‘원자력 기반 AI 팩토리’ 설계·배치 협력 (AtkinsRéalis / PR Newswire)
+- 영국 UKAEA, 핵융합 연구용 AI 슈퍼컴퓨터 ‘Sunrise’에 4,500만 파운드 투자 (NIA / UK Fusion Strategy)
+
+### 오늘 반영 논문 (1건)
+- Multifidelity Surrogate Modeling of Depressurized Loss of Forced Cooling in High-temperature Gas Reactors (arXiv, 2026-03-14)
+
 ## 2026-03-16 데일리 브리핑
 
 ### 오늘의 3줄 요약
