@@ -1,5 +1,19 @@
 # 일반 원자력 뉴스
 
+## 2026-03-18 업데이트 (데일리)
+
+### 프랑스 핵정책위원회, 신규 원전·SMR·연료주기 폐쇄 전략 재확인
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/french-ministerial-council-reiterates-need-for-nuclear-revival)
+- 한 줄 요약: 프랑스 핵정책위원회가 EPR2 6기 건설, 차세대 고속로 설계 검토, SMR 프로젝트 추가 지원, 장기 연료주기 폐쇄 프로그램을 다시 확인하며 유럽의 원전 부흥이 선언 단계를 넘어 실행 로드맵과 재원 뒷받침 단계로 진입하고 있음을 보여줌.
+
+### 영국 STEP 핵융합 실증로·H3AT 삼중수소 설비 핵심 계약 확정
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/key-contracts-awarded-in-uk-fusion-programme) / [UK Government](https://www.gov.uk/government/news/britain-to-lead-fusion-energy-race-to-deliver-energy-security)
+- 한 줄 요약: 영국이 STEP 핵융합 실증로 건설 파트너(ILIOS 컨소시엄)와 UKAEA-Eni H3AT Tritium Loop Facility 설계·제작 파트너(Kinectrics)를 확정하고 Fusion Energy Strategy를 공개하면서, 핵융합 상용화 준비가 연구개발에서 실물 인프라 발주 단계로 넘어가고 있음.
+
+### 워싱턴주립대 트라이시티즈, Xe-100 기반 SMR 제어실 시뮬레이터 개소
+- 출처: [WSU Tri-Cities](https://tricities.wsu.edu/new-smr-simulator-boosts-nuclear-education-and-workforce-development-in-the-tri-cities/)
+- 한 줄 요약: WSU Tri-Cities가 Energy Northwest·Columbia Basin College와 함께 X-energy Xe-100 기반 SMR 제어실 시뮬레이터를 열어 차세대 원전 운전·훈련 인력 양성을 본격화하면서, 미국 서북부 첨단원전 인력 파이프라인 구축이 구체화됨.
+
 ## 2026-03-17 업데이트 (데일리)
 
 ### X-energy·IHI, 미·일 Xe-100 SMR 공급망 확대 협력
