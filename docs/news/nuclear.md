@@ -1,5 +1,19 @@
 # 일반 원자력 뉴스
 
+## 2026-03-19 업데이트 (데일리)
+
+### 부셰르 원전 인근 구조물 피격, IAEA “원자로 손상 없음” 확인
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/iran-tells-iaea-a-projectile-hit-bushehr-nuclear-plant-premises)
+- 한 줄 요약: IAEA가 이란 부셰르 원전 부지에서 원자로 약 350m 떨어진 구조물이 피격·파손됐지만 원자로 본체 손상과 인명피해는 없었다고 확인하면서, 무력충돌 상황에서 원전 주변 군사행동의 안전·보안 리스크를 다시 경고함.
+
+### NANO Nuclear, HALEU 운송 패키지 핵심 설계 진척 공개
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/nano-outlines-progress-on-haleu-transport-package)
+- 한 줄 요약: NANO Nuclear가 TRISO·산화물·질화물·용융염 연료까지 포괄할 수 있는 HALEU 운송 패키지의 적재 바스켓·오버팩 개념설계를 공개하며, 첨단원전 상용화의 병목인 연료 물류 인프라 구축을 구체화함.
+
+### Oklo Aurora-INL·동위원소 시험로, DOE 안전설계 승인 단계 진전
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/licensing-of-oklo-pilot-reactor-facilities-advances)
+- 한 줄 요약: Oklo가 Idaho National Laboratory의 첫 Aurora 발전로와 텍사스 동위원소 시험로에 대해 DOE Nuclear Safety Design Agreement 승인을 확보하며, 첨단 고속로 실증과 의료·연구용 동위원소 생산 인프라 구축을 동시에 진전시킴.
+
 ## 2026-03-18 업데이트 (데일리)
 
 ### 프랑스 핵정책위원회, 신규 원전·SMR·연료주기 폐쇄 전략 재확인
