@@ -1,5 +1,19 @@
 # 일반 원자력 뉴스
 
+## 2026-03-20 업데이트 (데일리)
+
+### 핀란드, 1987년 원자력법 전면 개정 추진
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/finland-looks-to-reform-nuclear-energy-legislation)
+- 한 줄 요약: 핀란드 정부가 1987년 제정된 원자력법을 전면 개정해 SMR을 포함한 신규 원전의 인허가·보고 절차를 단순화하고, 수요지 인근 배치까지 가능하게 하려 하면서 차세대 원전 투자 유치 경쟁에 본격적으로 나섬.
+
+### 카자흐스탄, 발하쉬 원전·우라늄 확장 2026 우선과제 제시
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/kazakhstan-updates-on-nuclear-energy-uranium-plans)
+- 한 줄 요약: 카자흐스탄 원자력청이 러시아와의 발하쉬 원전 정부간 협정·EPC 계약, 2050 원자력 전략, 방사성폐기물 법제, 신규 우라늄 탐사 확대를 2026 핵심 과제로 제시하며 원전·핵연료 밸류체인을 동시에 키우겠다는 방향을 분명히 함.
+
+### 체르노빌 부지, 비상전원 보강용 2MW 태양광 설비 착수
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/work-begins-on-solar-power-plant-at-chernobyl)
+- 한 줄 요약: 체르노빌 부지가 전쟁 중 외부전원 상실에 대비해 2MW 태양광 설비 구축에 착수하면서, 해체·안전관리 현장의 에너지 회복탄력성과 필수 시스템 연속운전 능력을 높이려는 움직임이 구체화됨.
+
 ## 2026-03-19 업데이트 (데일리)
 
 ### 부셰르 원전 인근 구조물 피격, IAEA “원자로 손상 없음” 확인
