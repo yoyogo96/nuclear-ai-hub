@@ -1,3 +1,17 @@
+# 2026-03-21 업데이트
+
+## [Deep neural network for high-precision global predictions of nuclear charge density](https://bioengineer.org/deep-learning-model-delivers-high-precision-global-predictions-of-nuclear-charge-density-across-diverse-nuclei/)
+- 저자: Jilin University 연구진
+- 연도/학회(저널): 2026-03, Jilin University Press Release
+- 한 줄 요약: 길림대학이 물리 기반 딥러닝 모델로 핵전하 밀도 분포를 고정밀 전역 예측하는 시스템을 개발, 기존 밀도범함수이론과 평균장 모델의 한계를 넘어 수천 개 핵종에 대한 체계적 예측을 실현함.
+
+### 핵심 기여
+1. 이단계 "물리 기반" 학습 패러다임으로 RCHB 이론 데이터 학습 + 실험 데이터 파인튜닝
+2. 양성자 수(Z), 중성자 수(N), 매직 넘버 근접도, 핵자 쌍효과 등 기본 핵 매개변수만으로 17개 Fourier-Bessel 계수 예측
+3. 천 개 이상 핵종의 실험 전하 반지름 데이터로 검증해 기존 이론 모델 대비 예측 정확도 대폭 향상
+
+---
+
 # 2026-03-20 업데이트
 
 ## [Low-dimensional geometry learning for turbulence prediction in optimized stellarators](https://arxiv.org/abs/2603.17366)

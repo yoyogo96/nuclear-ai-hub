@@ -1,5 +1,20 @@
 # 주간 브리핑
 
+## 2026-03-21 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. Meta가 Vistra·TerraPower·Oklo와 6.6 GW 규모 원자력 전력 계약을 체결하며 빅테크의 AI 데이터센터용 원자력 확보 경쟁이 구체화되고 있음.
+2. Guidehouse-IP3-Cybernetic Intelligence 파트너십과 EU AI Act 규제 본격화로 원자력+AI+규제 교차 영역에서 새로운 시장과 준수 의무가 동시에 형성됨.
+3. 학술 쪽은 길림대학 연구진이 물리 기반 딥러닝으로 핵전하 밀도 예측 정밀도를 획기적으로 높인 연구를 추가해, 핵물리 데이터 예측에 ML이 실질적 돌파구를 제시함.
+
+### 오늘 반영 뉴스 (3건)
+- Meta, AI 데이터센터용 6.6 GW 원자력 프로젝트 발표 — Vistra·TerraPower·Oklo 협력 (NucNet)
+- Guidehouse·IP3·Cybernetic Intelligence, 원자력 기반 보안 컴퓨팅 인프라 파트너십 체결 (PR Newswire)
+- EU AI Act, 2026년 8월부터 원자력 분야 고위험 AI 시스템 규제 본격화 (Baker Botts)
+
+### 오늘 반영 논문 (1건)
+- Deep neural network for high-precision global predictions of nuclear charge density (Jilin University, 2026-03)
+
 ## 2026-03-20 데일리 브리핑
 
 ### 오늘의 3줄 요약

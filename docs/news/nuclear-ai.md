@@ -1,5 +1,19 @@
 # 원자력 AI 뉴스
 
+## 2026-03-21 업데이트 (데일리)
+
+### Meta, AI 데이터센터용 6.6 GW 원자력 프로젝트 발표 — Vistra·TerraPower·Oklo와 협력
+- 출처: [NucNet](https://www.nucnet.org/news/meta-announces-6-6-gw-of-nuclear-energy-projects-to-power-ai-revolution-1-5-2026)
+- 한 줄 요약: Meta가 Vistra(기존 원전), TerraPower(차세대 원자로), Oklo(SMR)와 6.6 GW 규모 원자력 전력 공급 계약을 체결하며 빅테크가 AI 데이터센터 전력 확보를 위해 대규모 원자력 투자에 본격적으로 나섰음을 보여줌.
+
+### Guidehouse·IP3·Cybernetic Intelligence, 원자력 기반 보안 컴퓨팅 인프라 파트너십 체결
+- 출처: [PR Newswire](https://www.prnewswire.com/news-releases/guidehouse-ip3-and-cybernetic-intelligence-form-strategic-partnership-to-develop-nuclearpowered-compute-infrastructure-302716818.html)
+- 한 줄 요약: Guidehouse, IP3 Corp, Cybernetic Intelligence가 안전하고 회복탄력적인 원자력 기반 컴퓨팅 인프라를 개발하는 전략적 파트너십을 구축해 원자력+AI+국가안보 교차 영역에서 신규 시장을 창출하려 함.
+
+### EU AI Act, 2026년 8월부터 원자력 분야 고위험 AI 시스템 규제 본격화
+- 출처: [Baker Botts](https://www.bakerbotts.com/thought-leadership/publications/2026/march/the-eu-ai-act)
+- 한 줄 요약: EU AI Act가 2026년 8월부터 고위험 AI 시스템에 대한 엄격한 의무조치를 부과하며 원자력 발전 제어·안전 시스템, 전력망 관리, 시설 출입 통제 등에도 직접적 영향을 미칠 전망임.
+
 ## 2026-03-17 업데이트 (데일리)
 
 ### AtkinsRéalis·NVIDIA, ‘원자력 기반 AI 팩토리’ 설계·배치 협력
