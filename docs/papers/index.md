@@ -1,3 +1,24 @@
+# 2026-03-24 업데이트
+
+- 지난 24시간 기준으로 arXiv 및 주요 학술 소스를 재확인했지만, 기존 반영본과 중복되지 않는 원자력+인공지능 핵심 신규 논문/프리프린트는 확인되지 않았습니다.
+- 따라서 오늘은 논문 목록을 추가하지 않고 "신규 없음" 상태로 갱신합니다.
+
+---
+
+# 2026-03-23 업데이트
+
+## [Bridging Theory and Data: Correcting Nuclear Mass Models with Interpretable Machine Learning](https://arxiv.org/abs/2603.15203)
+- 저자: (arXiv 저자팀)
+- 연도/학회(저널): 2026-03, arXiv (nucl-th)
+- 한 줄 요약: 작은 표본·고복잡도 핵질량 데이터 문제에 새로운 Kolmogorov-Arnold Network(KAN) 아키텍처를 도입, 기존 이론 모델(WS4)의 잔차를 보정해 RMSE를 0.3→0.16 MeV로 대폭 개선하고 양성자 수가 가장 중요한 특성임을 해석 가능하게 식별함.
+
+### 핵심 기여
+1. 핵질량 예측에 KAN 아키텍처를 처음 도입해 소량·고복잡 데이터셋에서 효율적·해석 가능한 솔루션 제시
+2. KAN-WS4 하이브리드 모델로 기존 이론 모델 대비 예측 정확도 대폭 향상 (RMSE 0.3→0.16 MeV)
+3. KAN의 고유 해석가능성을 활용해 양성자 관련 항의 잠재적 체계적 편향을 발견, 5개 질량 모델에서 일반화 성능 입증
+
+---
+
 # 2026-03-21 업데이트
 
 ## [Deep neural network for high-precision global predictions of nuclear charge density](https://bioengineer.org/deep-learning-model-delivers-high-precision-global-predictions-of-nuclear-charge-density-across-diverse-nuclei/)

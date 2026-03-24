@@ -1,5 +1,19 @@
 # 일반 원자력 뉴스
 
+## 2026-03-23 업데이트 (데일리)
+
+### 미국 행정부, AI 전력용 $80B 원자력 보조금 + 규제 패스트트랙 추진
+- 출처: [Los Angeles Times](https://www.latimes.com/business/story/2026-03-10/nuclear-power-promised-to-fuel-ai-soaring-costs-delays-tell-another-story) / [Asia Times-ProPublica](https://asiatimes.com/2026/03/trump-invited-silicon-valley-into-the-us-nuclear-power-regulator/)
+- 한 줄 요약: 트럼프 행정부가 AI 데이터센터 전력 확보를 위해 $80B 규모 신규 원전 보조금과 실험 설계 패스트트랙을 추진하고, NRC 규제 체계를 실리콘밸리 친화적으로 개편하며 원자력 확산 속도를 높이는 동시에 안전·건강 전문가 우려도 제기됨.
+
+### X-energy·Talen, 미국 다중 SMR 배치 협력 착수
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/x-energy-talen-to-assess-deployment-of-multiple-smr-plants)
+- 한 줄 요약: X-energy와 Talen이 펜실베이니아·PJM 시장에 다중 Xe-100 SMR 배치 타당성 평가에 착수하며 미국 동부 청정 기저전원 확보와 SMR 상용화 동시 진전을 추구함.
+
+### 러시아 Kursk II VVER-TOI 1호기, 100% 출력 도달
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/)
+- 한 줄 요약: 러시아 최초 VVER-TOI 형 원자로인 Kursk II 1호기가 시운전 과정에서 100% 출력에 도달하며 차세대 러시아 원전 기술의 실증이 한 단계 더 진전됨.
+
 ## 2026-03-20 업데이트 (데일리)
 
 ### 핀란드, 1987년 원자력법 전면 개정 추진
