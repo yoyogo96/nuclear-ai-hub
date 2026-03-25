@@ -1,5 +1,19 @@
 # 일반 원자력 뉴스
 
+## 2026-03-25 업데이트 (데일리)
+
+### 우즈베키스탄-러시아, SMR 건설 본격화 — 첫 콘크리트 타설
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/uzbekistan-russia-mark-smr-construction-progress)
+- 한 줄 요약: 우즈베키스탄 첫 원전 부지에서 RITM-200N SMR 2기 + VVER-1000 2기(총 2.1GW) 건설을 위한 기초 콘크리트 타설이 시작되며 러시아 첫 SMR 수출 프로젝트가 실제 시공 단계로 진입함.
+
+### Nucleareurope, EU 원자력 투자 활성화 행동계획 발표
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/nucleareurope-releases-action-plan-to-stimulate-eu-nuclear-investments)
+- 한 줄 요약: EU 원자력 산업협의체 Nucleareurope이 주요 EU 정책을 활용해 원자력 배치를 가속화하는 행동계획을 발표하며 유럽 원전 투자 모멘텀을 제도적으로 뒷받침함.
+
+### 베트남-러시아, 신규 원전 건설 정부간 협정 체결
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/vietnam-russia-intergovernmental-agreement-on-new-nuclear)
+- 한 줄 요약: 베트남과 러시아가 새로운 원자력 발전소 건설을 위한 정부간 협정을 체결하며 아시아 원전 시장 확대 움직임이 구체화됨.
+
 ## 2026-03-23 업데이트 (데일리)
 
 ### 미국 행정부, AI 전력용 $80B 원자력 보조금 + 규제 패스트트랙 추진

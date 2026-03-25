@@ -1,5 +1,19 @@
 # 원자력 AI 뉴스
 
+## 2026-03-25 업데이트 (데일리)
+
+### Microsoft-NVIDIA, "AI for Nuclear Energy" 협업 발표 — 원전 전 수명주기 AI 도구 제공
+- 출처: [Microsoft Industry Blog](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) / [Tom's Hardware](https://www.tomshardware.com/tech-industry/microsoft-and-nvidia-launch-ai-tools-to-speed-up-nuclear-power-plant-permitting-and-construction)
+- 한 줄 요약: Microsoft와 NVIDIA가 원자력 발전소의 부지 선정·설계·인허가·건설·운영 전 수명주기를 AI로 가속화하는 종합 도구(Omniverse·Digital Twin·Generative AI for Permitting 등)를 제공하며, Aalo Atomics는 인허가 시간 92% 단축·연 $80M 절감 효과를 입증함.
+
+### Aalo Atomics, Microsoft AI로 인허가 시간 92% 단축 실적 공개
+- 출처: [Microsoft Industry Blog](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/)
+- 한 줄 요약: Aalo Atomics가 Microsoft Generative AI for Permitting을 활용해 복잡한 원전 인허가 문서 작업을 자동화, 시간 소요를 92% 줄이고 연간 약 8천만 달러 비용 절감을 달성해 AI 기반 원전 개발 가속화의 실제 사례를 제시함.
+
+### Southern Nuclear, Microsoft Copilot 전 함대 배치로 운전 일관성·의사결정 개선
+- 출처: [Microsoft Industry Blog](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/)
+- 한 줄 요약: Southern Nuclear이 원전 함대 전반에 Microsoft Copilot 에이전트를 배포해 엔지니어링·인허가 등 핵심 업무에서 지식 재사용과 의사결정 일관성을 높이며 AI 기반 운영 최적화를 실현함.
+
 ## 2026-03-21 업데이트 (데일리)
 
 ### Meta, AI 데이터센터용 6.6 GW 원자력 프로젝트 발표 — Vistra·TerraPower·Oklo와 협력
