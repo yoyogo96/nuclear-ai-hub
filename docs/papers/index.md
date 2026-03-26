@@ -1,3 +1,17 @@
+# 2026-03-26 업데이트
+
+## [Deep learning approaches to extract nuclear deformation parameters from initial-state information in heavy-ion collisions](https://arxiv.org/abs/2603.24088)
+- 저자: Jun-Qi Tao 외
+- 연도/학회(저널): 2026-03-25, arXiv (nucl-th)
+- 한 줄 요약: 중이온 충돌 초기상태 데이터에서 핵변형도($β_2$, $β_4$)를 추정하기 위해 point-cloud 네트워크와 simulation-based inference를 적용해, 이벤트별 잡음이 큰 핵물리 문제에서도 딥러닝으로 변형 정보를 안정적으로 복원할 수 있음을 보인 연구.
+
+### 핵심 기여
+1. deformed Woods-Saxon 분포로 생성한 핵자 구성과 TRENTo 초기 엔트로피 밀도 이미지에서 핵변형 파라미터를 복원하는 딥러닝 프레임 제시
+2. 단순 회귀뿐 아니라 conditional normalizing flow 기반 simulation-based inference를 적용해 점추정과 posterior uncertainty를 함께 제공
+3. 다중 이벤트 평균이 확률적 요동을 억제해 핵변형 식별력을 크게 높인다는 점을 정량적으로 보여, 향후 보다 완전한 동역학·최종상태 관측치 확장 기반 제공
+
+---
+
 # 2026-03-25 업데이트
 
 - 지난 24시간 기준으로 arXiv 및 주요 학술 소스를 재확인했지만, 기존 반영본과 중복되지 않는 원자력+인공지능 핵심 신규 논문/프리프린트는 확인되지 않았습니다.

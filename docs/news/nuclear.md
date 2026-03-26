@@ -1,5 +1,19 @@
 # 일반 원자력 뉴스
 
+## 2026-03-26 업데이트 (데일리)
+
+### 싱가포르, 원자력 안전기준·환경영향 3개 연구 발주 추진
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/singapore-to-bolster-nuclear-safety-capabilities)
+- 한 줄 요약: 싱가포르 환경청(NEA)이 국제 안전기준, 원전 환경규제, 역내 도입 시 환경영향을 다루는 3개 연구를 발주하며 SMR 등 첨단원전의 안전성·적합성을 독립적으로 평가할 역량 구축에 본격 착수함.
+
+### Newcleo, 미국 NRC와 납냉각고속로·MOX 연료시설 사전 인허가 협의 개시
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/newcleo-kicks-off-us-regulatory-interactions)
+- 한 줄 요약: Newcleo가 미국 NRC와 납냉각고속로(LFR) 및 MOX 연료 제조시설에 대한 pre-application 협의를 시작하며, 미국 내 차세대 고속로와 재처리 연계 연료 인프라의 규제 경로를 조기에 구체화하기 시작함.
+
+### Rolls-Royce SMR·Studsvik, 연료시험·수명관리·규제지원까지 공급망 협력 확대
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/rolls-royce-smr-studsvik-enhance-collaboration)
+- 한 줄 요약: Rolls-Royce SMR이 스웨덴 Studsvik과 MOU를 체결해 연료 검증, 핫셀 기술, 코어 설계, 운전 모델링, 인허가 지원까지 협력 범위를 넓히며 유럽 SMR 공급망과 배치 준비를 한 단계 더 구체화함.
+
 ## 2026-03-25 업데이트 (데일리)
 
 ### 우즈베키스탄-러시아, SMR 건설 본격화 — 첫 콘크리트 타설

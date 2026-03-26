@@ -1,5 +1,22 @@
 # 주간 브리핑
 
+## 2026-03-26 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 싱가포르가 원자력 안전기준·환경영향 연구 3건을 발주하며, 동남아에서도 첨단원전 도입 가능성을 실제 규제·평가 역량 축적으로 연결하는 단계에 들어감.
+2. Newcleo와 Rolls-Royce SMR은 각각 미국 인허가 초기 협의와 유럽 공급망 협력을 확대하며, 차세대 원전 배치의 병목인 규제 경로·기술서비스 체계를 동시에 앞당기고 있음.
+3. 학술 쪽에서는 중이온 충돌 초기상태에서 핵변형 정보를 딥러닝과 simulation-based inference로 복원하는 새 arXiv 논문 1건을 반영해, 핵물리 해석에서 '정확도+불확실성 추정' 결합 흐름이 이어짐.
+
+### 오늘 반영 뉴스 (3건)
+- 싱가포르, 원자력 안전기준·환경영향 3개 연구 발주 추진 (World Nuclear News)
+- Newcleo, 미국 NRC와 납냉각고속로·MOX 연료시설 사전 인허가 협의 개시 (World Nuclear News)
+- Rolls-Royce SMR·Studsvik, 연료시험·수명관리·규제지원 협력 확대 (World Nuclear News)
+
+### 오늘 반영 논문 (1건)
+- Deep learning approaches to extract nuclear deformation parameters from initial-state information in heavy-ion collisions (arXiv, 2026-03-25)
+
+---
+
 ## 2026-03-24 데일리 브리핑
 
 ### 오늘의 3줄 요약
