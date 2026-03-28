@@ -1,18 +1,15 @@
-## 2026-03-27 업데이트 (데일리)
+## 2026-03-28 업데이트 (데일리)
 
-### 체르노빌 신형 차폐구조(NSC) 보수평가 완료 — 복구비 약 5억유로 추산
-- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/assessment-completed-of-chernobyl-shelter-repair-works)
-- 한 줄 요약: 체르노빌 원전 4호기 신형 차폐구조(NSC)의 드론 공격 피해에 대한 예비 기술평가가 완료돼, 완전 기능 복구에 약 5억유로와 2030년까지의 장기 보수가 필요하다는 전망이 제시되며 우크라이나 원자력 안전 인프라 복구의 규모가 구체화됨.
+### 인도 Mahi Banswara 1·2호기, 본격 굴착 전 단계 승인
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/excavation-work-approved-for-indias-mahi-banswara-units)
+- 한 줄 요약: 인도 원자력규제위원회가 라자스탄 Mahi Banswara 원전 1·2호기(각 700MWe PHWR)의 굴착 착수 전 활동을 승인하면서, 인도의 표준형 700MWe 원전 ‘fleet mode’ 확대 전략이 또 한 단계 실제 건설 단계로 진입함.
 
-### 싱가포르, 원자력 안전기준·환경영향 3개 연구 발주 추진
-- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/singapore-to-bolster-nuclear-safety-capabilities)
-- 한 줄 요약: 싱가포르 환경청(NEA)이 국제 안전기준, 원전 환경규제, 역내 도입 시 환경영향을 다루는 3개 연구를 발주하며 SMR 등 첨단원전의 안전성·적합성을 독립적으로 평가할 역량 구축에 본격 착수함.
-
-### 브라질 NBEPar·Rosatom, 핵심광물 탐사·채굴 합작사 설립
-- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/brazils-nbepar-and-rosatom-create-joint-venture)
-- 한 줄 요약: 브라질 NBEPar와 Rosatom Uranium One이 핵심광물 탐사·추출 합작사 ‘Nadina Minerals’를 설립해 우라늄을 포함한 원자력·첨단산업 공급망 협력을 확대하면서, 브라질의 핵연료주기 자립과 자원개발 전략이 한 단계 구체화됨.
+### Orano, 테네시 Project IKE 우라늄 농축시설 NRC 인허가 신청서 제출 완료
+- 출처: [Orano USA](https://www.orano.group/usa/en/our-news/news-releases/2026/orano-finishes-scheduled-license-submission-for-project-ike-uranium-enrichment-facility-to-NRC)
+- 한 줄 요약: Orano가 미국 테네시 오크리지의 대형 원심분리 우라늄 농축시설 ‘Project IKE’에 대한 기술 인허가 신청까지 NRC에 제출 완료하며, 미국 내 핵연료 공급망·에너지안보 강화를 위한 농축 인프라 확충이 규제 심사 단계로 넘어감.
 
 # 일반 원자력 뉴스
+
 
 ## 2026-03-26 업데이트 (데일리)
 

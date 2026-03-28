@@ -1,3 +1,20 @@
+## 2026-03-28 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 인도 Mahi Banswara 신규 700MWe 원전 1·2호기가 굴착 전 단계 승인을 받으면서, 인도의 표준형 PHWR 대량건설 전략이 다시 실제 공정 단계로 전진함.
+2. Orano의 미국 Project IKE 농축시설 인허가 신청 완료는 원전 확대의 병목인 핵연료 공급망을 미국 내에서 강화하려는 움직임이 규제 심사 단계로 넘어갔다는 신호임.
+3. AI 쪽에서는 DOE가 원자로 인허가 문서 초안을 하루 만에 생성하는 시연을 공개했고, 논문 쪽에서는 하이브리드 ML로 고에너지 핵종 전하·위치를 정밀 측정한 새 arXiv 논문 1건을 반영함.
+
+### 오늘 반영 뉴스 (3건)
+- 인도 Mahi Banswara 1·2호기, 본격 굴착 전 단계 승인 (World Nuclear News)
+- Orano, 테네시 Project IKE 우라늄 농축시설 NRC 인허가 신청서 제출 완료 (Orano USA)
+- 美 DOE, AI로 원자로 인허가 문서 작성 1일 시연 (U.S. Department of Energy)
+
+### 오늘 반영 논문 (1건)
+- A Telescope System for Charge and Position Measurement of High Energy Nuclei (arXiv, 2026-03-26)
+
+---
+
 ## 2026-03-27 데일리 브리핑
 
 ### 오늘의 3줄 요약

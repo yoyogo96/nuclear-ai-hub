@@ -1,5 +1,11 @@
 # 원자력 AI 뉴스
 
+## 2026-03-28 업데이트 (데일리)
+
+### 美 DOE, AI로 원자로 인허가 문서 작성 1일 시연
+- 출처: [U.S. Department of Energy](https://www.energy.gov/ne/articles/department-energy-unleashes-ai-reduce-reactor-licensing-timelines)
+- 한 줄 요약: DOE가 INL·Argonne·Microsoft·Everstar와 함께 고온가스로(HTGR) 안전해석 문서를 NRC 신청서 형식으로 변환하는 208쪽 초안을 AI로 단 하루 만에 생성해, 원자로 인허가 준비를 수주 단위에서 일 단위로 줄일 수 있는 가능성을 공식 시연함.
+
 ## 2026-03-25 업데이트 (데일리)
 
 ### Microsoft-NVIDIA, "AI for Nuclear Energy" 협업 발표 — 원전 전 수명주기 AI 도구 제공
