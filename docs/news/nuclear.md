@@ -10,6 +10,19 @@
 
 # 일반 원자력 뉴스
 
+## 2026-03-29 업데이트 (데일리)
+
+### 핀란드 정부, 신규 원전 확대 옵션·비용·전력시장 영향 분석 보고서 제출받아
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/study-outlines-finnish-options-for-new-nuclear-capacity)
+- 한 줄 요약: 핀란드 정부가 신규 원전 확대 시나리오의 비용과 전력시장 파급효과를 정리한 AFRY 보고서를 제출받으면서, 유럽 내 원전 증설 논의가 선언을 넘어 구체적 투자·시장 설계 검토 단계로 진입하고 있음을 보여줌.
+
+### 대만 Taipower, 마안산 원전 재가동 신청
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/taipower-applies-to-restart-maanshan-plant)
+- 한 줄 요약: 대만 전력공사 Taipower가 마안산 원전 재가동을 신청하며 전력수급 안정과 탈탄소 전원 확보를 위해 기존 원전의 수명·운영 전략을 다시 전면 검토하는 흐름이 가시화됨.
+
+### 켄터키주, 레이저 우라늄 농축시설 유치 인센티브 지원
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/kentucky-incentives-support-laser-enrichment-plant)
+- 한 줄 요약: 미국 켄터키주가 레이저 기반 우라늄 농축시설 유치를 위한 인센티브를 지원하면서, 첨단원전 확산의 병목인 HALEU·농축 공급망을 주정부 차원에서 선제적으로 확보하려는 경쟁이 강화되고 있음.
 
 ## 2026-03-26 업데이트 (데일리)
 
