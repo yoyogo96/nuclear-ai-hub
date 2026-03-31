@@ -10,6 +10,24 @@
 
 # 일반 원자력 뉴스
 
+## 2026-03-31 업데이트 (데일리)
+
+### 뉴햄프셔주, 차세대 원자로 도입 로드맵 수립 착수
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/new-hampshire-to-assess-deployment-of-advanced-reactors) / [뉴햄프셔 주지사실](https://www.governor.nh.gov/news/governor-ayotte-issues-executive-order-foster-next-generation-nuclear-new-hampshire)
+- 한 줄 요약: 뉴햄프셔가 차세대 원자로 도입을 위한 규제·재무·시장 여건을 종합 검토하고 주 단위 원자력 로드맵 수립에 착수하면서, 미국 주정부 차원의 SMR·첨단원전 유치 경쟁이 한층 구체화되고 있음.
+
+### 미국 FluxPoint Energy, 70년 만의 신규 우라늄 전환시설 추진
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/new-us-company-plans-uranium-conversion-facility)
+- 한 줄 요약: FluxPoint Energy가 미국 내 약 70년 만의 신규 우라늄 전환시설을 추진하며 U3O8를 UF6로 전환하는 자국 연료주기 인프라 복원에 나서, 첨단원전 확대의 병목인 핵연료 공급망 강화 움직임이 이어지고 있음.
+
+### 중국 산먼 3호기, 격납건물 건전성·누설률 시험 완료
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/containment-tests-completed-at-sanmen-3)
+- 한 줄 요약: 중국 저장성 산먼 원전 3호기가 격납건물 구조건전성시험(SIT)과 통합누설률시험(ILRT)을 마치며 2027년 계통연계를 향한 핵심 시운전 관문을 통과했고, AP1000 계열 신규 원전 건설이 예정대로 진전되고 있음을 보여줌.
+
+### 불가리아 방사성폐기물 처분시설, 시운전 허가 직전 단계 진입
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/bulgarian-repository-moves-closer-to-commissioning)
+- 한 줄 요약: 불가리아의 저·중준위 방사성폐기물 국가 처분시설이 시운전 적합 인증을 받으면서, 신규 원전 확대의 전제조건인 폐기물 관리 인프라가 동유럽에서도 실제 운영 단계에 가까워지고 있음.
+
 ## 2026-03-29 업데이트 (데일리)
 
 ### 핀란드 정부, 신규 원전 확대 옵션·비용·전력시장 영향 분석 보고서 제출받아
