@@ -1,3 +1,22 @@
+## 2026-04-01 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 한국 고리 2호기 재가동 허가와 방글라데시 Rooppur 1호기 시운전 진전은, 아시아에서 기존 원전 계속운전과 신규 원전 준공이 동시에 속도를 내고 있음을 보여줌.
+2. 폴란드의 첫 원전 건설허가 신청과 Holtec SMR-300의 영국 규제 2단계 통과는, 유럽에서 대형원전과 SMR이 나란히 규제 심사 문턱을 넘고 있다는 신호임.
+3. 학술 쪽에서는 자화된 QCD 물질 파라미터를 물리정보 기반 머신러닝으로 추정한 논문과 초전도 자석 설계 최적화에 AI를 적용한 논문 2건을 반영함.
+
+### 오늘 반영 뉴스 (4건)
+- 한국 고리 2호기, 계속운전 승인 후 재가동 허가 (World Nuclear News)
+- 폴란드 첫 원전, 건설허가 신청서 제출 (World Nuclear News)
+- 방글라데시 Rooppur 1호기, 연료장전 전 붕산 플러싱 완료 (World Nuclear News)
+- Holtec SMR-300, 영국 규제평가 2단계 통과 (World Nuclear News)
+
+### 오늘 반영 논문 (2건)
+- Determining the NJL Coupling and AMM in Magnetized QCD Matter via Machine Learning (arXiv, 2026-03-31)
+- Data-Driven Optimisation of Superconducting Magnets at CEA Paris-Saclay (arXiv, 2026-03-31)
+
+---
+
 ## 2026-03-31 데일리 브리핑
 
 ### 오늘의 3줄 요약

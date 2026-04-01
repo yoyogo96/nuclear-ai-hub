@@ -1,3 +1,21 @@
+## 2026-04-01 업데이트 (데일리)
+
+### 한국 고리 2호기, 계속운전 승인 후 재가동 허가
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/korean-reactor-gets-go-ahead-to-restart)
+- 한 줄 요약: 한국 규제당국이 2023년 4월부터 멈춰 있던 고리 2호기의 재가동을 허가하면서, 노후 원전 계속운전 심사와 필수 안전설비 보강을 거친 기존 원전 활용 전략이 실제 재가동 단계로 이어지고 있음.
+
+### 폴란드 첫 원전, 건설허가 신청서 제출
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/application-lodged-for-polands-first-nuclear-power-plant)
+- 한 줄 요약: 폴란드 국영 원전회사 PEJ가 AP1000 3기 건설허가 신청서를 예정보다 6개월 앞당겨 제출하며, 폴란드의 첫 상업용 원전 프로젝트가 본격적인 규제 심사 국면에 들어감.
+
+### 방글라데시 Rooppur 1호기, 연료장전 전 붕산 플러싱 완료
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/rooppur-1-boron-flushes-completed-ahead-of-fuel-loading)
+- 한 줄 요약: 방글라데시 첫 원전인 Rooppur 1호기가 연료장전 직전 핵심 시운전 절차인 1차계통 붕산 플러싱을 마치며, 연내 상업운전 준비가 한 단계 더 진전됨.
+
+### Holtec SMR-300, 영국 규제평가 2단계 통과
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/holtec-smr-design-clears-key-uk-regulatory-stage)
+- 한 줄 요약: Holtec의 SMR-300 설계가 영국 Generic Design Assessment 2단계에서 근본적 안전·환경 결함이 없다는 판단을 받으면서, 영국 내 차세대 SMR 배치 가능성이 한층 현실화됨.
+
 ## 2026-03-28 업데이트 (데일리)
 
 ### 인도 Mahi Banswara 1·2호기, 본격 굴착 전 단계 승인
