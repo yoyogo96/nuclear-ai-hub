@@ -1,3 +1,39 @@
+## 2026-04-03 업데이트 (데일리)
+
+### OPG, Darlington BWRX-300 SMR 운영허가 신청 제출
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/opg-applies-for-operating-licence-for-bwrx-300-smr)
+- 한 줄 요약: 캐나다 OPG가 다얼링턴 부지 첫 BWRX-300에 대한 20년 운영허가를 신청하며, G7 최초 상업용 SMR 가동 경쟁이 건설 단계를 넘어 실제 운전 인허가 단계로 진입했다.
+
+### 뉴잉글랜드 6개 주지사, 기존 원전 유지·첨단원전 검토 공동성명 발표
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/new-england-governors-unite-for-nuclear)
+- 한 줄 요약: 미국 뉴잉글랜드 6개 주가 기존 원전의 안정적 운영 유지와 함께 첨단원전 배치 가능성을 공동 검토하기로 하면서, 지역 단위 전력·산업 전략에서 원자력이 다시 핵심 옵션으로 올라섰다.
+
+### 중국 Lianjiang 2호기, 원자로 압력용기 설치 완료
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/reactor-vessel-installed-at-lianjiang-unit-2)
+- 한 줄 요약: 중국 광둥성 Lianjiang 원전 2호기가 원자로 압력용기 설치를 마치며 본격 장비설치 단계로 넘어가, CAP1000 계열 대형원전 건설이 예정 일정대로 진전되고 있음을 보여줬다.
+
+### Constellation, Crane Clean Energy Center 2027 재가동 위해 규제 지원 추진
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/constellation-seeks-regulators-help-for-2027-plant-restart)
+- 한 줄 요약: Constellation이 옛 Three Mile Island 1호기인 Crane Clean Energy Center의 2027 재가동을 위해 FERC에 계통연계 권리 이전을 요청하며, 데이터센터 전력수요와 맞물린 미국 휴지 원전 복귀 전략을 밀어붙이고 있다.
+
+## 2026-04-02 업데이트 (데일리)
+
+### 미국 Palisades 원전, 재가동 위한 1차계통 고온·고압 복원 완료
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/milestone-for-palisades-restart)
+- 한 줄 요약: Holtec이 2022년 정지한 Palisades 원전의 1차계통을 운전 온도·압력 조건까지 복원하는 passivation을 마치며, 미국 내 대형 상업원전 재가동 프로젝트가 실제 연료장전 전 최종 준비 단계로 진입했다.
+
+### 우크라이나 내각, 자국 원전연료 생산시설 건설계획 승인
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/ukraines-cabinet-approves-nuclear-fuel-production-plan)
+- 한 줄 요약: 우크라이나 정부가 Westinghouse 기술 기반 자국 원전연료 조립체 생산시설 계획을 승인하며, 러시아 의존도를 줄이고 전시 상황에서도 핵연료 공급망 자립도를 높이려는 전략을 공식화했다.
+
+### EU 집행위, 프랑스 신규 원전 6기 공적지원안 심층 조사 착수
+- 출처: [European Commission](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_744)
+- 한 줄 요약: EU 집행위원회가 EDF의 EPR2 6기 건설·운영을 위한 프랑스의 대규모 공적지원 패키지를 국가보조금 규정 관점에서 심층 심사하기 시작하며, 유럽 원전 확대의 핵심 변수가 금융구조·경쟁정책으로 이동하고 있음을 보여줬다.
+
+### 미국-에콰도르, 전략적 민간 원자력 협력 MOU 체결
+- 출처: [U.S. Department of State](https://www.state.gov/releases/office-of-the-spokesperson/2026/04/united-states-and-ecuador-sign-memorandum-of-understanding-concerning-strategic-civil-nuclear-cooperation/)
+- 한 줄 요약: 미국과 에콰도르가 평화적 민간 원자력 협력 MOU를 체결해 발전·연구로·의료동위원소 분야 협력 기반을 마련하면서, 중남미에서도 미국 주도의 신규 원자력 협력 네트워크가 확장되고 있다.
+
 ## 2026-04-01 업데이트 (데일리)
 
 ### 한국 고리 2호기, 계속운전 승인 후 재가동 허가

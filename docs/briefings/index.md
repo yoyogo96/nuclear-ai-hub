@@ -1,3 +1,41 @@
+## 2026-04-03 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 캐나다 OPG의 BWRX-300 운영허가 신청과 미국 동북부 6개 주지사의 공동성명은, 북미에서 기존 원전 유지와 차세대 SMR 도입 논의가 동시에 제도권으로 깊게 들어오고 있음을 보여준다.
+2. 중국 Lianjiang 2호기의 원자로용기 설치와 미국 Constellation의 2027 재가동 추진은, 신규 건설과 휴지 원전 복귀가 함께 원전 공급 확대의 양축으로 작동하고 있음을 보여준다.
+3. 학술 쪽에서는 핵융합 블랭킷 MHD 대리모델, 핵물리 생성모델 검증, 토카막 플라즈마 형상제어용 신경망 surrogate 등 AI 기반 시뮬레이션·제어 가속 논문 3건을 반영했다.
+
+### 오늘 반영 뉴스 (4건)
+- OPG, Darlington BWRX-300 SMR 운영허가 신청 제출 (World Nuclear News)
+- 뉴잉글랜드 6개 주지사, 기존 원전 유지·첨단원전 검토 공동성명 발표 (World Nuclear News)
+- 중국 Lianjiang 2호기, 원자로 압력용기 설치 완료 (World Nuclear News)
+- Constellation, Crane Clean Energy Center 2027 재가동 위해 규제 지원 추진 (World Nuclear News)
+
+### 오늘 반영 논문 (3건)
+- Application of parametric Shallow Recurrent Decoder Network to magnetohydrodynamic flows in liquid metal blankets of fusion reactors (arXiv, 2026-04-02)
+- JetPrism: diagnosing convergence for generative simulation and inverse problems in nuclear physics (arXiv, 2026-04-01)
+- Real-time virtual circuits for plasma shape control via neural network surrogates: dynamic validation in closed-loop simulations (arXiv, 2026-04-01)
+
+---
+
+## 2026-04-02 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 미국 Palisades 원전의 계통 복원 진전과 우크라이나의 자국 연료공장 승인으로, 기존 원전 재가동과 핵연료 공급망 자립이 동시에 핵심 이슈로 부상했다.
+2. EU의 프랑스 신규 원전 지원안 심층조사와 미국-에콰도르 민간 원자력 협력 MOU는, 원전 확대 경쟁이 이제 외교·금융·규제 프레임까지 넓어지고 있음을 보여준다.
+3. 학술 쪽에서는 핵분열 생성물 수율과 실험오차를 함께 예측하는 멀티태스크 딥러닝 논문 1건을 반영해, 핵데이터 불확실성 정량화에 AI를 붙이는 흐름이 이어졌다.
+
+### 오늘 반영 뉴스 (4건)
+- 미국 Palisades 원전, 재가동 위한 1차계통 고온·고압 복원 완료 (World Nuclear News)
+- 우크라이나 내각, 자국 원전연료 생산시설 건설계획 승인 (World Nuclear News)
+- EU 집행위, 프랑스 신규 원전 6기 공적지원안 심층 조사 착수 (European Commission)
+- 미국-에콰도르, 전략적 민간 원자력 협력 MOU 체결 (U.S. Department of State)
+
+### 오늘 반영 논문 (1건)
+- Multi-task deep neural network for predicting both nuclear fission yields and their experimental errors in peak-shaped data (arXiv, 2026-03-31)
+
+---
+
 ## 2026-04-01 데일리 브리핑
 
 ### 오늘의 3줄 요약

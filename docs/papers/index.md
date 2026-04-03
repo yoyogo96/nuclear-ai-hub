@@ -1,3 +1,51 @@
+# 2026-04-03 업데이트
+
+## [Application of parametric Shallow Recurrent Decoder Network to magnetohydrodynamic flows in liquid metal blankets of fusion reactors](https://arxiv.org/abs/2604.02139)
+- 저자: Nicola Demo 외
+- 연도/학회(저널): 2026-04-02, arXiv (cs.LG)
+- 한 줄 요약: 핵융합로 액체금속 블랭킷의 복잡한 MHD 유동을 SHRED 기반 신경망 대리모델로 재구성해, 고비용 다물리 계산을 실시간 제어·설계 탐색에 가깝게 가속하는 방법을 제시했다.
+
+### 핵심 기여
+1. SVD 차원축소와 SHRED 순환 신경망을 결합해 희소 시계열 센서만으로 3차원 액체금속 블랭킷 유동장을 복원
+2. 자기장 세기·방향이 달라지는 미관측 파라미터 조건까지 일반화하는 데이터 기반 MHD 상태재구성 프레임 제시
+3. 핵융합 블랭킷 설계 최적화, 디지털 트윈, 실시간 상태감시용 대리모델로 확장 가능한 기반 제공
+
+## [JetPrism: diagnosing convergence for generative simulation and inverse problems in nuclear physics](https://arxiv.org/abs/2604.01313)
+- 저자: Ziheng Wang 외
+- 연도/학회(저널): 2026-04-01, arXiv (cs.LG, nucl-ex)
+- 한 줄 요약: 핵물리 생성 시뮬레이션과 검출기 unfolding에 쓰이는 조건부 생성모델이 표준 loss만으로는 제대로 수렴 판정이 안 된다는 점을 보이고, 물리 지표 중심의 평가 프로토콜을 제안했다.
+
+### 핵심 기여
+1. Conditional Flow Matching 기반 생성·역문제 모델에서 학습 loss와 실제 물리 충실도 사이의 괴리를 체계적으로 진단
+2. 제퍼슨랩 산란 데이터셋을 포함한 핵물리 사례로 주변분포 χ², Wasserstein 거리, 상관행렬 거리 등 다중 지표 평가 필요성 입증
+3. 향후 핵실험 시뮬레이션 가속, detector unfolding, 생성형 대리모델 검증에서 더 신뢰도 높은 수렴 판단 기준 제시
+
+## [Real-time virtual circuits for plasma shape control via neural network surrogates: dynamic validation in closed-loop simulations](https://arxiv.org/abs/2604.00781)
+- 저자: Pablo M. J. Chinchilla 외
+- 연도/학회(저널): 2026-04-01, arXiv (physics.plasm-ph)
+- 한 줄 요약: 토카막 플라즈마 형상 제어용 virtual circuits를 신경망으로 대체·에뮬레이션해, 폐루프 시뮬레이션에서도 저지연·적응형 제어가 가능함을 보였다.
+
+### 핵심 기여
+1. Grad-Shafranov 평형 라이브러리로 학습한 신경망이 플라즈마 형상 파라미터별 독립 제어용 virtual circuits를 정확히 근사
+2. FreeGSNKE 기반 폐루프 시뮬레이션에서 형상 추종성과 강건성을 검증해 실시간 플라즈마 제어 적용 가능성 제시
+3. 고정 스케줄형 제어기보다 변화하는 평형 상태에 더 유연하게 대응하는 AI 기반 핵융합 제어 구조를 제안
+
+---
+
+# 2026-04-02 업데이트
+
+## [Multi-task deep neural network for predicting both nuclear fission yields and their experimental errors in peak-shaped data](https://arxiv.org/abs/2603.29100)
+- 저자: Chikako Ishizuka 외
+- 연도/학회(저널): 2026-03-31, *Journal of Nuclear Science and Technology* 게재 예정 / arXiv (nucl-th)
+- 한 줄 요약: 핵분열 생성물 수율(FPY)의 피크형 분포와 실험오차를 동시에 예측하는 멀티태스크 딥러닝 모델을 제안해, 측정이 어려운 핵종의 수율과 불확실성을 함께 추정하는 핵데이터 예측 정확도를 높였다.
+
+### 핵심 기여
+1. 핵분열 생성물 수율과 실험 오차를 동시에 학습하는 multi-task DNN으로 기존 단일목표 학습보다 peak-shaped 데이터 예측 성능 개선
+2. odd-even effect와 새로운 손실함수를 반영해 핵분열 수율 분포의 물리적 특성을 더 잘 포착
+3. 미측정 FPY와 그 오차를 함께 추정할 수 있어 핵데이터 평가·원자로 해석·방사화 계산용 입력자료 보강 가능성 제시
+
+---
+
 # 2026-04-01 업데이트
 
 ## [Determining the NJL Coupling and AMM in Magnetized QCD Matter via Machine Learning](https://arxiv.org/abs/2603.29269)
