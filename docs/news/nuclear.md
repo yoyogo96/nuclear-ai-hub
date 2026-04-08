@@ -1,3 +1,21 @@
+## 2026-04-08 업데이트 (데일리)
+
+### 중국 Jinqimen 2호기, 원전 섬 첫 안전등급 콘크리트 타설
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/construction-of-second-jinqimen-unit-begins)
+- 한 줄 요약: 중국 저장성 Jinqimen 원전 2호기가 원전 섬 첫 안전등급 콘크리트 타설에 들어가며, 6기 규모 Hualong One 대형 원전 단지가 실제 토목·구조 시공 단계로 본격 진입했다.
+
+### 인도 PFBR, 첫 임계 도달로 고속증식로 단계 진입
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/first-criticality-for-indian-fast-breeder-reactor)
+- 한 줄 요약: 인도 500MWe 원형고속증식로(PFBR)가 첫 임계에 도달하면서, 장기적으로 토륨 연료주기까지 겨냥한 인도의 3단계 원자력 프로그램이 실증 단계의 중대한 이정표를 넘었다.
+
+### 미국 Diablo Canyon, 20년 추가 운전 위한 NRC 초기 면허갱신 승인
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/diablo-canyon-receives-licence-renewals)
+- 한 줄 요약: 미국 NRC가 Diablo Canyon 1·2호기에 20년 초기 면허갱신을 승인하며, 캘리포니아 전력망의 핵심 무탄소 기저전원인 기존 원전의 중장기 활용 가능성이 크게 확대됐다.
+
+### AMPERA·Scorpio, 해운용 마이크로원자로 상용화 협력
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/ampera-scorpio-team-up-for-maritime-microreactors)
+- 한 줄 요약: AMPERA와 Scorpio Tankers가 해운·해양 인프라용 마이크로원자로 공동개발에 나서며, 원자력이 육상 전력망을 넘어 선박·부유식 전원 시장으로 확장되는 흐름을 보여줬다.
+
 ## 2026-04-03 업데이트 (데일리)
 
 ### OPG, Darlington BWRX-300 SMR 운영허가 신청 제출

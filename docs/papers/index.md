@@ -1,3 +1,37 @@
+# 2026-04-08 업데이트
+
+## [Thermodynamic and Transport Properties of Quark-Gluon Plasma at Finite Chemical Potential with a DNN framework](https://arxiv.org/abs/2604.05858)
+- 저자: Raghunath Sahoo 외
+- 연도/학회(저널): 2026-04-07, arXiv (hep-ph / nucl-ex / nucl-th)
+- 한 줄 요약: 연구진이 딥러닝 보조 준입자 모델로 유한 바리온 화학퍼텐셜 조건의 쿼크-글루온 플라즈마 열역학·수송 특성을 빠르게 에뮬레이션해, 격자 QCD 기반 핵물질 해석을 더 넓은 조건으로 확장하는 방법을 제시했다.
+
+### 핵심 기여
+1. 온도와 바리온 화학퍼텐셜에 따라 달라지는 준입자 열질량을 신경망으로 학습해 lattice QCD 방정식 상태를 효과적으로 재현
+2. 속도음, 비열, 점도, 전도도 등 핵심 수송·열역학 지표를 유한 밀도 조건까지 빠르게 추정하는 DNN 기반 에뮬레이터 제시
+3. 고밀도 핵물질·중이온 충돌 해석에서 계산비용이 큰 현상론 모델을 보완하는 AI 기반 surrogate 접근 가능성 제시
+
+## [Development of a 3D-CNN-based Prediction Model for Migration Barriers in Plasma-Wall Interactions](https://arxiv.org/abs/2604.05521)
+- 저자: Seiki Saito 외
+- 연도/학회(저널): 2026-04-07, arXiv (physics.plasm-ph)
+- 한 줄 요약: 핵융합로 플라즈마-벽 상호작용에서 텅스텐 내 수소 동위원소 이동장벽을 3D-CNN으로 즉시 예측해, 고비용 NEB 계산 없이도 동적 MD-kMC 하이브리드 시뮬레이션을 가능하게 하는 대리모델을 제안했다.
+
+### 핵심 기여
+1. 국소 3차원 퍼텐셜 에너지 분포와 트랩 위치 정보를 2채널 볼류메트릭 입력으로 받아 이동장벽을 직접 추정하는 3D-CNN 구조 설계
+2. 텅스텐-수소 구성 데이터에서 MAE 0.124 eV, 결정계수 0.890을 달성해 기존 반복 최적화 기반 계산을 높은 정확도로 대체
+3. GPU 추론 기준 약 2.7ms, 기존 NEB 대비 2만3000배 이상 가속해 대규모 플라즈마-벽 상호작용 동적 모사 기반 마련
+
+## [Predictions of charge density distributions for nuclei with $Z \geq 8$](https://arxiv.org/abs/2604.05312)
+- 저자: Yundong Wang 외
+- 연도/학회(저널): 2026-04-07, *Nuclear Science and Techniques* 37, 93 (2026) / arXiv (nucl-th)
+- 한 줄 요약: 양성자 수 8 이상 핵종의 전하밀도 분포를 딥신경망으로 정밀 예측해, 기존 RCHB 계산보다 더 정확한 핵반경·전하분포 복원을 달성한 핵구조 데이터 기반 모델링 연구다.
+
+### 핵심 기여
+1. Fourier-Bessel 전개 계수를 출력하는 DNN을 학습해 핵전하밀도 분포를 직접 복원하는 전역 예측 프레임 제시
+2. RCHB 이론 계산 기반 대규모 데이터셋을 활용해 학습·검증 세트에서 핵반경 RMSD를 각각 0.0123 fm, 0.0198 fm 수준으로 개선
+3. 핵구조·원자물리·핵천체 분야에서 필요한 고정밀 전하분포 입력자료를 빠르게 생성하는 AI 기반 대체 경로 제시
+
+---
+
 # 2026-04-04 업데이트
 
 - 지난 24시간 기준으로 arXiv 및 주요 학술 소스를 재확인했지만, 기존 반영본과 중복되지 않는 원자력+인공지능 핵심 신규 논문/프리프린트는 확인되지 않았습니다.

@@ -1,3 +1,23 @@
+## 2026-04-08 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 중국 Jinqimen 2호기 착공 진전, 인도 PFBR 첫 임계, 미국 Diablo Canyon 면허갱신 승인까지 이어지며 아시아의 신규 건설과 미국의 기존 원전 장수명화가 동시에 진전됐다.
+2. 해운용 마이크로원자로 협력까지 등장하면서 원자력 적용처가 육상 발전소를 넘어 해양 전력·추진 인프라로 넓어지는 흐름도 확인됐다.
+3. 학술 쪽에서는 쿼크-글루온 플라즈마, 핵전하밀도, 핵융합 플라즈마-벽 상호작용을 대상으로 한 딥러닝 기반 surrogate/예측 논문 3건이 새로 나와 원자력+AI 접점이 다시 강해졌다.
+
+### 오늘 반영 뉴스 (4건)
+- 중국 Jinqimen 2호기, 원전 섬 첫 안전등급 콘크리트 타설 (World Nuclear News)
+- 인도 PFBR, 첫 임계 도달로 고속증식로 단계 진입 (World Nuclear News)
+- 미국 Diablo Canyon, 20년 추가 운전 위한 NRC 초기 면허갱신 승인 (World Nuclear News)
+- AMPERA·Scorpio, 해운용 마이크로원자로 상용화 협력 (World Nuclear News)
+
+### 오늘 반영 논문 (3건)
+- Thermodynamic and Transport Properties of Quark-Gluon Plasma at Finite Chemical Potential with a DNN framework (arXiv, 2026-04-07)
+- Development of a 3D-CNN-based Prediction Model for Migration Barriers in Plasma-Wall Interactions (arXiv, 2026-04-07)
+- Predictions of charge density distributions for nuclei with $Z \geq 8$ (Nuclear Science and Techniques / arXiv, 2026-04-07)
+
+---
+
 ## 2026-04-04 데일리 브리핑
 
 ### 오늘의 3줄 요약
