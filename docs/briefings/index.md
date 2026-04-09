@@ -1,3 +1,22 @@
+## 2026-04-09 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. Westinghouse가 AP1000 표준 설계문서를 NRC에 제출하고 뉴저지가 40년 원전 금지를 해제하는 등, 미국의 원전 확대를 위한 제도적 기반이 속도감 있게 정비되고 있다.
+2. NextEra-TerraPower가 Google·Microsoft AI 데이터센터용 SMR 2.5~3GW 배치 파트너십을 발표하며, 빅테크-원자력 인프라 결합이 구체적 대규모 프로젝트로 진화했다.
+3. 미 공군이 마이크로원자로 배치 후보지를 선정하고 Nano Nuclear가 건설허가를 신청하는 등, 소형원자로 상용화 경쟁이 규제 절차 단계까지 빠르게 진전되고 있다.
+
+### 오늘 반영 뉴스 (4건 + AI 뉴스 1건)
+- Westinghouse, AP1000 함량규모 배치 위한 표준 설계문서 NRC 제출 (World Nuclear News)
+- 미국 뉴저지주, 40년 만에 신규 원전 건설 금지 조치 해제 (Patch / Canary Media)
+- 미 공군, Buckley·Malmstrom 기지에 핵마이크로원자로 배치 후보지 선정 (Mirage News)
+- Nano Nuclear, KRONOS 마이크로원자로 건설허가 신청 NRC 제출 (SEC Filing)
+- [AI] NextEra·TerraPower, Google·Microsoft AI 데이터센터용 SMR 대규모 배치 파트너십 발표 (Financial Content)
+
+### 오늘 반영 논문 (0건)
+- 신규 원자력+AI 논문 없음 (전일 반영 3건 유지)
+
+---
+
 ## 2026-04-08 데일리 브리핑
 
 ### 오늘의 3줄 요약

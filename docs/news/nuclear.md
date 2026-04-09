@@ -1,3 +1,21 @@
+## 2026-04-09 업데이트 (데일리)
+
+### Westinghouse, AP1000 함량규모 배치 위한 표준 설계문서 NRC 제출
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/westinghouse-sets-standards-to-support-fleet-scale-ap1000-deployment)
+- 한 줄 요약: Westinghouse가 Vogtle 4호기를 표준 참조원전으로 하는 AP1000 설계관리문서(DCD) 개정판을 NRC에 제출해, Vogtle 3·4호기 건설 경험을 반영한 함량규모 다동 건설 가속화의 제도적 기반을 마련했다.
+
+### 미국 뉴저지주, 40년 만에 신규 원전 건설 금지 조치 해제
+- 출처: [Patch](https://patch.com/new-jersey/montclair/nj-going-nuclear-sherrill-lifts-40-year-ban-new-nuke-plants) / [Canary Media](https://www.canarymedia.com/articles/nuclear/new-jersey-lifts-nuclear-moratorium)
+- 한 줄 요약: 뉴저지 주지사가 1970년대 이어진 신규 원전 허가 사실상 금지조치를 법률 개정으로 공식 해제하며, 전력비 급등에 대응하고 기존 Salem·Hope Creek 원전에 이은 새로운 원자력 발전 가능성을 열었다.
+
+### 미 공군, Buckley·Malmstrom 기지에 핵마이크로원자로 배치 후보지 선정
+- 출처: [Mirage News](https://www.miragenews.com/buckley-malmstrom-afbs-chosen-for-nuclear-power-1652062/)
+- 한 줄 요약: 미 국방부 혁신부서(DIU)와 공군이 콜로라도 Buckley 우주군기지와 몬태나 Malmstrom 공군기지를 ANPI 프로그램의 핵마이크로원자로 배치 후보지로 선정해, 군사 기지 에너지 자립을 위한 소형 원자로 실증이 2030년 이전 배치를 목표로 본격화됐다.
+
+### Nano Nuclear, KRONOS 마이크로원자로 건설허가 신청 NRC 제출
+- 출처: [Stock Titan / SEC Filing](https://www.stocktitan.net/sec-filings/NNE/8-k-nano-nuclear-energy-inc-reports-material-event-110563b40bc3.html)
+- 한 줄 요약: Nano Nuclear Energy가 자체 개발한 KRONOS MMR™ 마이크로원자로에 대한 건설허가 신청(CPA)을 NRC에 제출하며, 초소형 원자로 상용화 레이스에서 규제 절차에 선제 돌입했다.
+
 ## 2026-04-08 업데이트 (데일리)
 
 ### 중국 Jinqimen 2호기, 원전 섬 첫 안전등급 콘크리트 타설

@@ -1,5 +1,11 @@
 # 원자력 AI 뉴스
 
+## 2026-04-09 업데이트 (데일리)
+
+### NextEra·TerraPower, Google·Microsoft AI 데이터센터용 SMR 대규모 배치 파트너십 발표
+- 출처: [Financial Content](https://www.financialcontent.com/article/marketminute-2026-4-8-nextera-energy-and-terrapower-announce-landmark-smr-partnership-to-fuel-google-and-microsoft-ai-data-centers)
+- 한 줄 요약: NextEra Energy와 TerraPower가 Google·Microsoft의 AI 데이터센터 전력 수요를 충족하기 위해 Natrium™ SMR(345MW, 최대 500MW) 2.5~3GW 규모 미국 전역 배치를 발표하며, 빅테크-원자력 인프라 결합의 가장 구체적 대규모 계획이 부지선정 단계에 진입했다.
+
 ## 2026-03-28 업데이트 (데일리)
 
 ### 美 DOE, AI로 원자로 인허가 문서 작성 1일 시연
