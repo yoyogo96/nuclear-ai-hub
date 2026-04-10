@@ -1,3 +1,21 @@
+## 2026-04-10 업데이트 (데일리)
+
+### 경북도, 원자력 산업 선도기업 육성 본격화
+- 출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260410042300053)
+- 한 줄 요약: 경상북도가 원자력 산업 생태계 조성을 위해 선도기업 육성 및 경쟁력 강화 사업을 추진하며, 기술·투자·판로 개척 등 전방위 지원과 기업 지원 설명회 개최를 예고했다.
+
+### 한국원자력의학원, IAEA 마리 퀴리 펠로우십 국내 첫 선발
+- 출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260410048200017)
+- 한 줄 요약: 한국원자력의학원이 IAEA 마리 퀴리 펠로우십 프로그램에 국내 최초로 5명이 최종 선발되었으며, 방사선의학·핵의학 분야 여성 인재 육성의 이정표가 됐다.
+
+### ARPA-E, 핵융합 상용화에 1.35억 달러 역대 최대 투자 발표
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-04-09/article-7923/arpae-commits-135-million-for-fusion-commercialization/) / [ARPA-E](https://arpa-e.energy.gov/news-and-events/news-and-insights/arpa-e-announces-135-million-commitment-fusion-technology-largest-fusion-investment-agencys-history)
+- 한 줄 요약: ARPA-E가 18개월간 1.35억 달러를 핵융합 상용화에 투자하겠다고 발표, 2014년 ALPHA 프로그램 이후 누적 투자를 두 배로 늘리며 플라즈마 가열·연료·발전설계 등 핵심 기술장벽 돌파를 목표로 한다.
+
+### GE Vernova Hitachi·AFRY, 유럽 BWRX-300 SMR 배치 파트너십 체결
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/ge-vernova-hitachi-afry-to-collaborate-on-smr-deployment) / [AFRY](https://afry.com/en/newsroom/press-releases/afry-and-ge-vernova-hitachi-signs-collaboration-agreement-deploy-bwrx-300)
+- 한 줄 요약: GE Vernova Hitachi와 스웨덴 AFRY가 유럽 전역 BWRX-300(300MWe) 배치를 위한 협력協約을 체결, 스웨덴 원자력안전청(SSM) 인허가 신청 준비와 유럽 공급망 구축에 착수했다.
+
 ## 2026-04-09 업데이트 (데일리)
 
 ### Westinghouse, AP1000 함량규모 배치 위한 표준 설계문서 NRC 제출

@@ -1,3 +1,35 @@
+## 2026-04-10 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 경북도가 원자력 산업 선도기업 육성에 나서고 한국원자력의학원이 IAEA 마리 퀴리 펠로우십 국내 첫 선발을 기록하는 등, 국내 원자력 인프라·인재 육성이 가속화되고 있다.
+2. ARPA-E가 1.35억 달러를 핵융합 상용화에 투자하겠다고 발표, 2014년 이후 누적 투자를 두 배로 늘리며 플라즈마 가열·연료·발전설계 등 핵심 기술장벽 돌파에 나선다.
+3. GE Vernova Hitachi와 AFRY가 유럽 BWRX-300 SMR 배치 파트너십을 체결, 스웨덴 인허가 준비와 유럽 공급망 구축에 착수했다.
+
+### 주요 뉴스 상세
+
+#### 🇰🇷 경북도, 원자력 산업 선도기업 육성 본격화
+경상북도가 원자력 산업 생태계 조성을 위해 선도기업 육성 및 경쟁력 강화 사업을 추진한다. 기술·투자·판로 개척 등 전방위 지원과 기업 지원 설명회 개최를 예고했다.
+- 출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260410042300053)
+
+#### 🇰🇷 IAEA 마리 퀴리 펠로우십 국내 첫 선발
+한국원자력의학원이 IAEA 마리 퀴리 펠로우십에 국내 최초로 5명이 선발되었다. 서울과학기술대-원자력의학원 4명, UST-원자력의학원 1명으로 방사선의학·핵의학 분야 여성 인재 육성의 이정표.
+- 출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260410048200017)
+
+#### ☢️ ARPA-E, 핵융합 상용화에 1.35억 달러 역대 최대 투자
+ARPA-E가 18개월간 1.35억 달러를 핵융합 상용화에 투자, ALPHA(2014) 이후 누적 투자를 두 배로 늘린다. 플라즈마 가열·연료·발전설계 등 기술장벽 돌파 목표. 미국 핵융합 기업은 12개→50개 이상으로 성장, 15억 달러 이상 민간 후속 투자를 촉진.
+- 출처: [ANS](https://www.ans.org/news/2026-04-09/article-7923/arpae-commits-135-million-for-fusion-commercialization/) / [ARPA-E](https://arpa-e.energy.gov/news-and-events/news-and-insights/arpa-e-announces-135-million-commitment-fusion-technology-largest-fusion-investment-agencys-history)
+
+#### 🔬 GE Vernova Hitachi·AFRY, 유럽 BWRX-300 배치 협력
+GE Vernova Hitachi와 스웨덴 AFRY가 유럽 전역 BWRX-300(300MWe) 배치를 위한 협력協約 체결. 캐나다 Darlington 건설 중인 동 설계의 유럽 진출 본격화. 스웨덴 SSM 인허가 준비 착수.
+- 출처: [WNN](https://www.world-nuclear-news.org/articles/ge-vernova-hitachi-afry-to-collaborate-on-smr-deployment) / [AFRY](https://afry.com/en/newsroom/press-releases/afry-and-ge-vernova-hitachi-signs-collaboration-agreement-deploy-bwrx-300)
+
+### 논문 업데이트
+- 지난 24시간 기준 원자력+AI 신규 논문 없음 (arXiv nucl-ex 최근 제출 없음)
+
+> 최종 업데이트: 2026-04-10
+
+---
+
 ## 2026-04-09 데일리 브리핑
 
 ### 오늘의 3줄 요약
