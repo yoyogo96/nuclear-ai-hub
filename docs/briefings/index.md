@@ -1,3 +1,47 @@
+## 2026-04-11 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 한국 새울 3호기가 원안위 가동 허가를 받고, INL DOME 시험시설이 세계 최초 민간 첨단원자로 시험·실증 인프라로 가동을 시작하는 등 신규 원전 운영과 실증 인프라가 동시에 전진했다.
+2. Forbes의 "AI가 원자력을 재편하는 방식" 종합 분석, NRC의 DOE 사전승인 설계 상용화 가속 인허가 경로 제안, IAEA의 4/28 AI/ML/LLM 웨비나 시리즈 개최까지 원자력+AI 정책·산업·기술 교류가 전방위로 확대 중이다.
+3. 학술 쪽은 arXiv 최신 제출본을 재확인했으나 기존 반영본 이후 추가할 핵심 신규 논문은 확인되지 않아 논문은 신규 없음으로 유지한다.
+
+### 주요 뉴스 상세
+
+#### 🇰🇷 새울 3호기 기동 허가
+한국 원안위가 새울 3호기의 가동 전 검사를 모두 완료하고 기동을 승인하며 국내 신규 원전 운영 확대가 한 단계 더 진전됐다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/)
+
+#### 🔬 INL DOME 시험시설 가동 개시
+세계 최초로 민간 개발 첨단 원자로를 시험·실증할 수 있는 INL DOME 시설이 본격 가동에 들어갔다.
+- 출처: [Eurasia Review](https://www.eurasiareview.com/11042026-dome-worlds-first-nuclear-reactor-test-bed-ready-for-privately-developed-advanced-reactors/)
+
+#### 🇫🇷🇮🇳 EDF·NTPC, 인도 신규 원전 MOU 체결
+프랑스 EDF와 인도 NTPC가 인도 내 신규 원전 공동 탐색 MOU를 체결, 인도-프랑스 원자력 협력이 사업 개발 단계로 진입했다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/)
+
+#### 🇨🇿 ČEZ, Dukovany 80년 운전수명 검토
+체코 ČEZ가 Dukovany 원전 80년 운전수명 연장을 검토하며 유럽 초장기 운전 논의가 구체화.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/)
+
+#### 🤖 Forbes: AI가 원자력과 핵의학 재편
+Forbes가 AI 예측정비·이상탐지·방사성의약품 개발 가속 등 원자력 전반의 AI 변혁을 종합 분석.
+- 출처: [Forbes](https://www.forbes.com/councils/forbesbusinesscouncil/2026/04/10/how-ai-is-reshaping-nuclear-energy-and-nuclear-medicine/)
+
+#### 📋 NRC, 사전승인 설계 상용화 가속 인허가 경로 제안
+NRC가 DOE 실증 사업 승인 설계의 상용 인허가를 빠르게 진행할 수 있는 새 규제 경로를 제안.
+- 출처: [JD Supra](https://www.jdsupra.com/legalnews/nrc-proposes-accelerated-licensing-6691831/)
+
+#### 🌐 IAEA, AI/ML/LLM 웨비나 시리즈 개최 (4/28)
+IAEA가 원자력 AI·ML·LLM 혁신 주제 웨비나를 개최해 글로벌 기술 공유의 장을 마련.
+- 출처: [IAEA](https://www.iaea.org/about/organizational-structure/department-of-nuclear-energy/division-of-nuclear-power/innovations-in-artificial-intelligence-machine-learning-and-large-language-models-28-april-2026)
+
+### 논문 업데이트
+- 지난 24시간 기준 원자력+AI 신규 논문 없음
+
+> 최종 업데이트: 2026-04-11
+
+---
+
 ## 2026-04-10 데일리 브리핑
 
 ### 오늘의 3줄 요약

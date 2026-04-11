@@ -1,3 +1,21 @@
+## 2026-04-11 업데이트 (데일리)
+
+### 한국 새울 3호기, 원안위 가동 전 검사 완료 후 기동 허가
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/)
+- 한 줄 요약: 한국 원자력안전위원회가 새울 3호기의 가동 전 필수 검사를 모두 완료하고 기동을 승인하며, 국내 신규 원전 운영 확대가 한 단계 더 진전됐다.
+
+### INL DOME 시험시설 가동 — 민간 첨단원자로 시험·실증 시대 개막
+- 출처: [Eurasia Review](https://www.eurasiareview.com/11042026-dome-worlds-first-nuclear-reactor-test-bed-ready-for-privately-developed-advanced-reactors/)
+- 한 줄 요약: 아이다호국립연구소(INL)의 DOME(Demonstration of Microreactor Experiments) 시험시설이 가동을 시작해, 세계 최초로 민간 개발 첨단 원자로의 시험·실증을 지원하는 인프라가 본격 운영에 들어갔다.
+
+### EDF·NTPC, 인도 신규 원전 프로젝트 탐색 MOU 체결
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/)
+- 한 줄 요약: 프랑스 EDF와 인도 NTPC가 인도 내 신규 원전 프로젝트 공동 탐색을 위한 양해각서(MOU)를 체결하며, 인도-프랑스 원자력 협력이 구체적 사업 개발 단계로 진입했다.
+
+### 체코 ČEZ, Dukovany 원전 80년 운전수명 검토
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/)
+- 한 줄 요약: 체코 전력사 ČEZ가 Dukovany 원전의 운전수명을 80년까지 연장하는 방안을 검토 중으로, 유럽에서 기존 원전의 초장기 운전 가능성 논의가 한층 구체화됐다.
+
 ## 2026-04-10 업데이트 (데일리)
 
 ### 경북도, 원자력 산업 선도기업 육성 본격화

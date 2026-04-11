@@ -1,5 +1,19 @@
 # 원자력 AI 뉴스
 
+## 2026-04-11 업데이트 (데일리)
+
+### Forbes: AI가 원자력 에너지와 핵의학을 재편하는 방식
+- 출처: [Forbes](https://www.forbes.com/councils/forbesbusinesscouncil/2026/04/10/how-ai-is-reshaping-nuclear-energy-and-nuclear-medicine/)
+- 한 줄 요약: Forbes가 AI 기반 예측정비·이상탐지·방사성의약품 개발 가속·규제 자동화 등 원자력 에너지와 핵의학 전반에서 AI가 운영 효율성·안전성·인력 역할을 근본적으로 바꾸고 있다는 종합 분석을 게재했다.
+
+### NRC, DOE 사전승인 원자로 설계의 상용화 가속 인허가 경로 제안
+- 출처: [JD Supra](https://www.jdsupra.com/legalnews/nrc-proposes-accelerated-licensing-6691831/)
+- 한 줄 요약: NRC가 DOE 실증 사업으로 이미 승인된 원자로 설계의 상용 인허가를 빠르게 진행할 수 있는 새로운 규제 경로를 제안하며, AI 기반 인허가 신청 프로세스 혁신과 맞물려 첨단원전 배치 가속이 기대된다.
+
+### IAEA, 원자력 AI/ML/LLM 혁신 웨비나 시리즈 개최 (4/28)
+- 출처: [IAEA](https://www.iaea.org/about/organizational-structure/department-of-nuclear-energy/division-of-nuclear-power/innovations-in-artificial-intelligence-machine-learning-and-large-language-models-28-april-2026)
+- 한 줄 요약: IAEA가 4월 28일 원자력 발전에 대한 AI·머신러닝·LLM 혁신을 주제로 웨비나 시리즈를 개최하며, 글로벌 원자력+AI 기술 공유와 모범사례 논의의 장을 마련한다.
+
 ## 2026-04-09 업데이트 (데일리)
 
 ### NextEra·TerraPower, Google·Microsoft AI 데이터센터용 SMR 대규모 배치 파트너십 발표
