@@ -1,3 +1,47 @@
+## 2026-04-12 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 인도 500MWe 고속증식로 PFBR이 최초 임계를 달성하고, NRC가 차세대 원전 인허가 간소화 규칙 Part 53을 4/29 발효 예고하는 등 글로벌 원전 확대가 속도를 더하고 있다.
+2. 트럼프 행정부가 AI 기업 대상 원전 승인 3주 단축을 제안하고, Meta·Amazon·Google 등 빅테크가 SMR에 수 GW 규모 투자를 발표하며 AI 전력 수요 대응이 본격화했다.
+3. 학술 쪽은 arXiv 최신 제출본을 재확인했으나 기존 반영본 이후 추가할 핵심 신규 논문은 확인되지 않아 논문은 신규 없음으로 유지한다.
+
+### 주요 뉴스 상세
+
+#### 🇮🇳 인도 PFBR 최초 임계달성
+인도 칼파캄의 500MMe prototype 고속증식로(PFBR)가 4월 6일 최초 임계를 달성했다. 인도 3단계 원자력 프로그램(토륨→우라늄-233 증식)의 핵심 이정표.
+- 출처: [Wikipedia](https://en.wikipedia.org/wiki/Prototype_Fast_Breeder_Reactor)
+
+#### 🇺🇸 NRC Part 53, 4/29 발효
+NRC가 리스크 기반·기술 포괄적 새 인허가 규칙(10 CFR Part 53)을 4월 29일 발효한다. SMR·마이크로리액터 등 차세대 설계 인허가 가속화 전망. AMPERA 등 스타트업이 이미 신규 프레임워크 하에 규제기관과 소통 중.
+- 출처: [Morgan Lewis](https://www.morganlewis.com/pubs/2026/04/nrc-launches-fresh-licensing-framework-for-new-reactors) / [Environment & Energy Leader](https://environmentenergyleader.com/stories/nrc-rule-shift-opens-door-for-next-gen-nuclear-designs,121761)
+
+#### 🇺🇸 텍사스 3.5억 달러 첨단원자력 기금
+텍사스주가 TANDF를 통해 3.5억 달러를 첨단원자력 개발에 지원한다. Dow-X-energy Xe-100 4기(Seadrift) 및 Texas A&M-ZettaJoule 프로젝트가 대상.
+- 출처: [ANS](https://www.ans.org/news/article-7920/texas-opens-350m-in-nuclear-funding/)
+
+#### 🇨🇳 금기문 원전 2호기 착공
+CNNC가 닝보 진기문 원전 2호기 첫 콘크리트 타설 완료. 화룽원(HPR1000) 6기, 총 7.2GWe.
+- 출처: [WNN](https://www.world-nuclear-news.org/articles/construction-of-second-jinqimen-unit-begins)
+
+#### 🤖 트럼프, AI 기업 원전 승인 3주 단축 제안
+AI 혁명 전력 공급을 위해 첨단기업 대상 원전 인허가를 3주 내 처리하는 방안 제안. 통상 4~5년 NRC 승인 기간의 획기적 단축.
+- 출처: [National Today](https://nationaltoday.com/us/ga/atlanta/news/2026/04/11/trump-proposes-fast-tracking-nuclear-power-for-tech-giants/)
+
+#### 💰 빅테크 SMR 대규모 투자
+Meta(테라파워·오클로), Amazon(X-에너지, 2039년까지 5GW+), Google(카이로스, 2030년 첫 SMR)이 AI 데이터센터 전력을 위해 SMR에 수조 원 규모 투자.
+- 출처: [Energy News](https://energynews.oedigital.com/energy-markets/2026/04/10/big-tech-invests-in-nextgeneration-nuclear-power-as-ai-demand-soars) / [Newspim](https://gam.newspim.com/news/view/20260411000007)
+
+#### 🇰🇷 KAP·PBNC 2026, "AI 시대를 여는 원자력"
+4/22~24 부산 벡스코에서 한국원자력연차대회(KAP 2026)와 태평양연안국 원자력회의(PBNC 2026) 동시 개최. 주제: "Nuclear Energy for an AI-powered World".
+- 출처: [인플뉴스](https://www.inpnews.kr/news/articleView.html?idxno=6719)
+
+### 논문 업데이트
+- 지난 24시간 기준 원자력+AI 신규 논문 없음
+
+> 최종 업데이트: 2026-04-12
+
+---
+
 ## 2026-04-11 데일리 브리핑
 
 ### 오늘의 3줄 요약

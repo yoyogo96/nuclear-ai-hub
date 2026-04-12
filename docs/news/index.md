@@ -1,3 +1,41 @@
+## 2026-04-12 데일리 반영
+- 일반 원자력 뉴스: 4건
+- 원자력 AI 뉴스: 3건
+
+### 일반 원자력 뉴스
+
+#### 🇮🇳 인도 PFBR 최초 임계달성
+인도 칼파캄의 500MWe prototype 고속증식로(PFBR)가 4월 6일 최초 임계를 달성했다. 인도 3단계 원자력 프로그램의 핵심 이정표로, 토륨 기반 우라늄-233 증식을 목표로 한다.
+- 출처: [Wikipedia](https://en.wikipedia.org/wiki/Prototype_Fast_Breeder_Reactor)
+
+#### 🇺🇸 NRC, 10 CFR Part 53 신규 인허가 프레임워크 발효 예정
+NRC가 리스크 기반·기술 포괄적 접근의 새 인허가 규칙 Part 53을 4월 29일 발효한다. 기존 규제보다 덜 규범적이어서 SMR·마이크로리액터 등 차세대 설계 인허가 가속화가 기대된다.
+- 출처: [Morgan Lewis](https://www.morganlewis.com/pubs/2026/04/nrc-launches-fresh-licensing-framework-for-new-reactors) / [Environment & Energy Leader](https://environmentenergyleader.com/stories/nrc-rule-shift-opens-door-for-next-gen-nuclear-designs,121761)
+
+#### 🇺🇸 텍사스, 3.5억 달러 첨단원자력 개발기금 개방
+텍사스주가 TANDF(Texas Advanced Nuclear Development Fund)를 통해 3.5억 달러를 지원한다. Dow-X-energy Xe-100 4기 및 Texas A&M-ZettaJoule 프로젝트가 대상.
+- 출처: [ANS](https://www.ans.org/news/article-7920/texas-opens-350m-in-nuclear-funding/)
+
+#### 🇨🇳 중국 금기문 원전 2호기 착공
+중국 핵공업집단(CNNC)이 닝보 진기문 원전 2호기의 첫 콘크리트 타설을 완료했다. 화룽원(HPR1000) 6기 총 7.2GWe 규모.
+- 출처: [WNN](https://www.world-nuclear-news.org/articles/construction-of-second-jinqimen-unit-begins)
+
+### 원자력 AI 뉴스
+
+#### 🤖 트럼프, AI 기업 원전 승인 3주 단축 제안
+트럼프가 AI 혁명 전력 공급을 위해 첨단기업 대상 원전 인허가를 3주 내 처리하는 방안을 제안했다. 통상 4~5년 걸리는 NRC 승인을 획기적으로 단축하려는 계획.
+- 출처: [National Today](https://nationaltoday.com/us/ga/atlanta/news/2026/04/11/trump-proposes-fast-tracking-nuclear-power-for-tech-giants/)
+
+#### 💰 빅테크, SMR 대규모 투자 본격화
+Meta(테라파워 690MW×2기, 오클로 1.2GW), Amazon(X-에너지 5GW+), Google(카이로스 2030년 첫 SMR) 등이 AI 데이터센터 전력을 위해 SMR에 막대한 투자를 진행 중.
+- 출처: [Energy News](https://energynews.oedigital.com/energy-markets/2026/04/10/big-tech-invests-in-nextgeneration-nuclear-power-as-ai-demand-soars) / [Newspim](https://gam.newspim.com/news/view/20260411000007)
+
+#### 🇰🇷 KAP 2026, "AI 시대를 여는 원자력" 주제로 개최 예고
+4월 22~24일 부산 벡스코에서 한국원자력연차대회(KAP 2026)와 태평양연안국 원자력회의(PBNC 2026)가 동시 개최된다. 공식 주제는 "Nuclear Energy for an AI-powered World".
+- 출처: [인플뉴스](https://www.inpnews.kr/news/articleView.html?idxno=6719)
+
+> 최종 업데이트: 2026-04-12
+
 ## 2026-04-11 데일리 반영
 - 일반 원자력 뉴스: 4건
 - 원자력 AI 뉴스: 3건
