@@ -1,3 +1,19 @@
+## 2026-04-13 업데이트 (데일리)
+
+### 미국 우라늄 광산 프로젝트, 본격 생산 개시
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/production-begins-at-us-uranium-project)
+- 한 줄 요약: 미국 내 우라늄 프로젝트가 생산을 시작하며, 해외 의존도를 낮추고 국내 핵연료 공급망 자립을 강화하는 이정표를 세웠다.
+
+### 리투아니아 이그날리나 2호기, 원자로 채널 해체 착수
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/dismantling-of-reactor-channels-to-begin-at-second-ignalina-unit)
+- 한 줄 요약: 리투아니아가 이그날리나 원전 2호기의 원자로 채널 해체에 착수하며, RBMK형 원전 폐로 프로세스의 핵심 단계에 진입했다.
+
+### 네덜란드 원자력 공급망, 확대 기회 분석 연구 발표
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/study-highlights-opportunities-for-dutch-nuclear-supply-chain)
+- 한 줄 요약: 네덜란드의 원자력 공급망 역량과 확대 기회를 분석한 연구가 발표되어, 유럽 원전 르네상스 속 네덜란드 산업 참여 가능성이 주목받고 있다.
+
+---
+
 ## 2026-04-11 업데이트 (데일리)
 
 ### 한국 새울 3호기, 원안위 가동 전 검사 완료 후 기동 허가

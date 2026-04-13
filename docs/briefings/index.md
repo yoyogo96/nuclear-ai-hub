@@ -1,3 +1,40 @@
+## 2026-04-13 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 미국 내 우라늄 프로젝트가 본격 생산에 들어가고 리투아니아 이그날리나 2호기 해체가 착수되는 등, 핵연료 공급망 자립과 구형 원전 폐로 두 축이 동시에 진전 중이다.
+2. Nano Nuclear Energy가 AI 데이터센터 전력공급용 소형원자로 상용화를 가속하고, 한국원자력학회가 AI 전력수요 대응을 위한 추가 원전 건설 필요성을 공식 제기하며 원자력-AI 연계가 한·미 양쪽에서 구체화되고 있다.
+3. 학술 쪽에서는 ab initio 핵구조 계산의 ML 기반 고정밀 외삽 리뷰와 플라즈마 시뮬레이션 파라미터 선택을 GraphRAG+LLM으로 자동화하는 논문 2건이 새로 반영됐다.
+
+### 주요 뉴스 상세
+
+#### ⛏️ 미국 우라늄 프로젝트 본격 생산 개시
+미국 내 우라늄 프로젝트가 생산을 시작하며 핵연료 해외 의존도를 낮추는 이정표를 세웠다.
+- 출처: [WNN](https://www.world-nuclear-news.org/articles/production-begins-at-us-uranium-project)
+
+#### 🇱🇹 이그날리나 2호기 원자로 채널 해체 착수
+리투아니아가 이그날리나 원전 2호기 RBMK형 원자로 채널 해체에 착수, 폐로 핵심 단계 진입.
+- 출처: [WNN](https://www.world-nuclear-news.org/articles/dismantling-of-reactor-channels-to-begin-at-second-ignalina-unit)
+
+#### 🇳🇱 네덜란드 원자력 공급망 확대 기회 연구
+네덜란드의 원자력 공급망 역량·확대 기회를 분석한 연구가 발표, 유럽 원전 르네상스 속 참여 가능성 주목.
+- 출처: [WNN](https://www.world-nuclear-news.org/articles/study-highlights-opportunities-for-dutch-nuclear-supply-chain)
+
+#### 🤖 Nano Nuclear, AI 혁명 전력공급 위한 소형원자로 가속
+Nano Nuclear Energy가 소형·이동식 원자로로 AI 데이터센터 전력 수요를 충족시키겠다는 비전 구체화.
+- 출처: [National Today](https://nationaltoday.com/us/ny/niagara-falls/news/2026/04/12/nano-nuclear-energy-aims-to-power-the-ai-revolution/)
+
+#### 🇰🇷 한국원자력학회, AI 전력수요 대응 추가 원전 필요성 공식 주장
+AI·데이터센터 전력 폭증과 2050 탄소중립 달성을 위해 기존 계획 이상의 신규 원전 건설이 필요하다고 주장.
+- 출처: [한국경제](https://www.hankyung.com/article/202604085757i)
+
+### 논문 업데이트 (2건)
+- High-precision ab initio nuclear theory: Learning to overcome model-space limitations (arXiv:2604.08253, 2026-04-09)
+- Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations (arXiv:2604.06279, 2026-04-07)
+
+> 최종 업데이트: 2026-04-13
+
+---
+
 ## 2026-04-12 데일리 브리핑
 
 ### 오늘의 3줄 요약

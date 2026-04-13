@@ -1,3 +1,27 @@
+# 2026-04-13 업데이트
+
+## [High-precision ab initio nuclear theory: Learning to overcome model-space limitations](https://arxiv.org/abs/2604.08253)
+- 저자: Marco Knöll
+- 연도/학회(저널): 2026-04-09, arXiv (nucl-th)
+- 한 줄 요약: 제일원리 핵구조 계산에서 절단된 모델공간의 수렴 패턴을 인공신경망으로 학습해, 기존 방법의 한계를 넘는 고정밀 외삽을 가능하게 하는 ML 프레임워크를 종합 리뷰했다.
+
+### 핵심 기여
+1. No-core shell model 등 ab initio 핵구조 계산의 모델공간 수렴 한계를 ML로 극복하는 방법론 체계 정리
+2. 에너지 스펙트럼, 반경, 전자기 관측량에 대한 ML 외삽 성능과 불확실성 추정 전략 비교 평가
+3. 통계·상관관계 기반 불확실성 정량화를 통해 ab initio 핵이론의 정밀도 도구상자에서 ML의 역할 정립
+
+## [Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations](https://arxiv.org/abs/2604.06279)
+- 저자: Ruichen Zhang, Feda AlMuhisen, Chenguang Wan 외
+- 연도/학회(저널): 2026-04-07, arXiv (physics.plasm-ph)
+- 한 줄 요약: 플라즈마 물리 문헌으로 구축한 도메인 특화 지식그래프와 LLM을 결합한 GraphRAG 프레임워크로, 자이로키네틱 시뮬레이션 파라미터 선택의 정확도를 기존 RAG 대비 10% 이상 향상시키고 환각률을 25%까지 줄였다.
+
+### 핵심 기여
+1. 플라즈마 물리 문헌 기반 도메인 특화 지식그래프를 구축해 LLM의 컨텍스트 인식 파라미터 추천 실현
+2. 기존 RAG 대비 포괄성·다양성·근거성 등 전 지표에서 10% 이상 품질 향상, 환각률 최대 25% 감소
+3. 복잡한 데이터 집약적 과학 분야에서 AI 기반 시뮬레이션 설정 자동화·가속 방법론 제시
+
+---
+
 # 2026-04-12 업데이트
 
 - 지난 24시간 기준으로 arXiv nucl-th·nucl-ex·physics.plasm-ph를 재확인했으나, 기존 반영본(2026-04-08 3건)과 중복되지 않는 원자력+AI 핵심 신규 논문은 확인되지 않았습니다.

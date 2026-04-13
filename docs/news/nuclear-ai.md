@@ -1,5 +1,17 @@
 # 원자력 AI 뉴스
 
+## 2026-04-13 업데이트 (데일리)
+
+### Nano Nuclear Energy, AI 혁명 전력공급 위한 소형원자로 사업 가속
+- 출처: [National Today](https://nationaltoday.com/us/ny/niagara-falls/news/2026/04/12/nano-nuclear-energy-aims-to-power-the-ai-revolution/)
+- 한 줄 요약: Nano Nuclear Energy가 소형·이동식 원자로를 통해 AI 데이터센터의 급증하는 전력 수요를 충족시키겠다는 비전을 구체화하며, 마이크로리액터 상용화 경쟁에 박차를 가하고 있다.
+
+### 한국원자력학회, AI 전력수요 폭증에 추가 신규 원전 건설 필요 주장
+- 출처: [한국경제](https://www.hankyung.com/article/202604085757i)
+- 한 줄 요약: 한국원자력학회가 AI 및 데이터센터의 전력 수요 폭증에 대응하고 2050 탄소중립 달성을 위해 기존 계획을 넘어서는 추가 신규 원전 건설이 필요하다고 공식 주장했다.
+
+---
+
 ## 2026-04-11 업데이트 (데일리)
 
 ### Forbes: AI가 원자력 에너지와 핵의학을 재편하는 방식
