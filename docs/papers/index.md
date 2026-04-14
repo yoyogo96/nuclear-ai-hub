@@ -1,3 +1,17 @@
+# 2026-04-14 업데이트
+
+## [Unified Extraction of In-Medium Heavy Quark Potentials from RHIC to LHC Energies via Deep Learning](https://arxiv.org/abs/2604.09198)
+- 저자: (다수저자)
+- 연도/학회(저널): 2026-04-10, arXiv (nucl-th)
+- 한 줄 요약: CNN 기반 딥러닝과 베이지안 역추론을 결합해 RHIC~LHC 에너지 범위에서 바텀특 핵수정인자(R_AA)로부터 매질 내 heavy quark 포텐셜을 통합 추출하는 프레임워크를 개발했다.
+
+### 핵심 기여
+1. 핵충돌 실험데이터(RHIC 200GeV, LHC 2.76·5.02TeV)를 동시 학습하는 CNN 구조 설계
+2. Stochastic Gradient Langevin Dynamics로 베이지안 사후분포 추정, 포텐셜 실수부는 진공 Cornell 형태 유지·허수부가 억제에 지배적 기여임을 정량 도출
+3. 시간의존 슈뢰딩거 방정식 + 유체역학 매질 모델과 결합한 딥러닝 기반 핵물리 역문제 해결 방법론 제시
+
+---
+
 # 2026-04-13 업데이트
 
 ## [High-precision ab initio nuclear theory: Learning to overcome model-space limitations](https://arxiv.org/abs/2604.08253)

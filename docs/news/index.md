@@ -1,3 +1,39 @@
+## 2026-04-14 데일리 반영
+- 일반 원자력 뉴스: 4건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇬🇧 영국, Rolls-Royce SMR과 최초 SMR 납품 계약 체결
+Great British Energy-Nuclear이 Rolls-Royce SMR과 정식 계약을 체결, 북웨일스 Wylfa 부지에 3기(총 1.4GW) SMR 건설을 위한 기술설계 활동을 개시했다. 2025년 예산배정 £26억, 국부펀드 £5.99억 지원으로 60년 이상 가동 예상.
+- 출처: [WNN](https://world-nuclear-news.org/articles/contract-signed-for-delivery-of-uks-first-smrs) / [Rolls-Royce](https://www.rolls-royce.com/media/press-releases/2026/13-04-2026-rr-welcomes-contract-with-uk-government-for-delivery-of-small-modular-reactors.aspx)
+
+#### 🇺🇸 한포드, 최초 유리화 저준위 방폐물 영구처분 개시
+DOE 환경관리본부가 한포드 부지에서 유리화 저준위 방폐물 캐니스터(7.5톤 스테인리스)의 영구처분을 시작했다. 미국 방폐물 처분 역사상 중요한 이정표.
+- 출처: [ANS](https://www.ans.org/news/2026-04-13/article-7929/hanford-places-first-vitrified-waste-canisters-in-disposal-cell/)
+
+#### 🇺🇸 NRC, 원전 환경심사 간소화 최종 규칙 발표
+NRC가 NEPA 기반 환경심사 간소화를 위한 두 건의 최종 규칙을 발표했다. 범주적 면제 항목 업데이트와 모든 원전 유형에 적용 가능한 범용 환경영향평가서(GEIS) 프레임워크를 확정.
+- 출처: [NRC.gov](https://www.nrc.gov)
+
+#### 🇺🇸 아이다호 국립연구소, 마이크로리액터 시험시설 DOME 개소
+INL의 DOME(Demonstration of Microreactor Experiments) 시험시설이 본격 가동을 시작했다. 폐쇄된 EBR-II 격납건물을 재활용한 시설로, 민간 개발 첨단원자로의 신속한 실증·테스트가 가능. 올해 첫 핵연료 실험 예정.
+- 출처: [NucNet](https://www.nucnet.org/news/first-of-a-kind-microreactor-test-bed-open-for-business-at-us-idaho-laboratory-4-1-2026) / [Eurasia Review](https://www.eurasiareview.com/14042026-us-first-of-a-kind-microreactor-test-bed-open-for-business-in-idaho/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 Computerworld: "원자력 안전 규정, AI 위해 조용히 개정"
+AI 데이터센터 전력 수급을 촉진하기 위해 원자력 안전 규정이 완화되고 있다는 분석 보도. 환경 보호와 감시 약화에 대한 우려도 제기.
+- 출처: [Computerworld](https://www.computerworld.com/article/4124056/nuclear-safety-rules-quietly-rewritten-to-favor-ai.html)
+
+#### 🤖 Forbes: "AI가 원자력 에너지와 핵의학을 어떻게 재편하는가"
+AI가 원자력 설비 운영 최적화, 예지보전, 안전 이상 탐지, 규제 문서 자동화 등에 실질적으로 활용되고 있으며 핵의학 분야까지 확대 적용되고 있다는 종합 분석.
+- 출처: [Forbes](https://www.forbes.com/councils/forbesbusinesscouncil/2026/04/10/how-ai-is-reshaping-nuclear-energy-and-nuclear-medicine/)
+
+> 최종 업데이트: 2026-04-14
+
+---
+
 ## 2026-04-13 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 2건

@@ -1,3 +1,43 @@
+## 2026-04-14 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 영국이 Rolls-Royce SMR과 정식 계약을 체결해 북웨일스 Wylfa에 3기(1.4GW) SMR 건설에 돌입하고, 미국 INL이 마이크로리액터 실증시험시설 DOME를 개소하는 등 서방권 SMR 실증이 가속화하고 있다.
+2. NRC가 환경심사 간소화 최종 규칙을 발표하고 한포드가 유리화 방폐물 영구처분을 시작하는 등, 미국 내 원전 인허가 효율화와 방폐물 처분이 동시 진전 중이다.
+3. 학술 쪽에서는 딥러닝+베이지안 역추론으로 매질 내 heavy quark 포텐셜을 추출하는 핵물리+AI 논문이 새로 반영됐다.
+
+### 주요 뉴스 상세
+
+#### 🇬🇧 영국, Rolls-Royce SMR과 최초 SMR 납품 계약 체결
+Great British Energy-Nuclear이 Rolls-Royce SMR과 정식 계약 체결. 북웨일스 Wylfa에 3기(1.4GW) SMR 건설 위한 기술설계 착수. £26억 예산 지원, 60년 이상 가동 예상.
+- 출처: [WNN](https://world-nuclear-news.org/articles/contract-signed-for-delivery-of-uks-first-smrs)
+
+#### 🇺🇸 한포드, 최초 유리화 저준위 방폐물 영구처분 개시
+DOE 환경관리본부가 한포드 부지에서 7.5톤 스테인리스 유리화 방폐물 캐니스터의 영구처분을 시작. 미국 방폐물 처분의 중요 이정표.
+- 출처: [ANS](https://www.ans.org/news/2026-04-13/article-7929/hanford-places-first-vitrified-waste-canisters-in-disposal-cell/)
+
+#### 🇺🇸 NRC, 원전 환경심사 간소화 최종 규칙 발표
+NEPA 기반 환경심사 간소화: 범주적 면제 항목 업데이트 + 범용 환경영향평가서(GEIS) 프레임워크 확정. 모든 원전 유형에 적용.
+- 출처: [NRC.gov](https://www.nrc.gov)
+
+#### 🇺🇸 INL DOME 마이크로리액터 시험시설 개소
+아이다호 국립연구소의 DOME 시험시설이 본격 가동. 폐 EBR-II 격납건물 재활용, 민간 첨단원자로 신속 실증 가능. 올해 첫 핵연료 실험 예정.
+- 출처: [NucNet](https://www.nucnet.org/news/first-of-a-kind-microreactor-test-bed-open-for-business-at-us-idaho-laboratory-4-1-2026)
+
+#### 🤖 원자력 안전 규정, AI 위해 조용히 개정
+AI 데이터센터 전력 수급 촉진을 위해 원자력 안전 규정이 완화되고 있다는 분석. 환경보호·감시 약화 우려도 제기.
+- 출처: [Computerworld](https://www.computerworld.com/article/4124056/nuclear-safety-rules-quietly-rewritten-to-favor-ai.html)
+
+#### 🤖 Forbes: AI가 원자력과 핵의학을 재편
+AI가 원전 운영 최적화, 예지보전, 안전 이상 탐지, 규제 문서 자동화에 실질 활용 중이며 핵의학까지 확대 적용.
+- 출처: [Forbes](https://www.forbes.com/councils/forbesbusinesscouncil/2026/04/10/how-ai-is-reshaping-nuclear-energy-and-nuclear-medicine/)
+
+### 논문 업데이트 (1건)
+- Unified Extraction of In-Medium Heavy Quark Potentials from RHIC to LHC Energies via Deep Learning (arXiv:2604.09198, 2026-04-10)
+
+> 최종 업데이트: 2026-04-14
+
+---
+
 ## 2026-04-13 데일리 브리핑
 
 ### 오늘의 3줄 요약
