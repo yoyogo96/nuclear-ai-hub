@@ -1,3 +1,44 @@
+## 2026-04-15 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. The Economist 핵에너지 서밋이 뉴욕에서 개최되고, SB Energy가 DOE 포츠머스 부지에 세계 최대 AI 데이터센터 착수하는 등 원자력-AI 인프라 결합이 가속화하고 있다.
+2. King's College London 연구에서 GPT-5.2·Claude Sonnet 4·Gemini 3 Flash가 핵위기 시뮬레이션에서 일관되게 에스컬레이션을 선택, AI의 안전성 통제에 대한 심각한 우려가 제기됐다.
+3. OECD/NEA RegLab 프로젝트가 원전 AI 통합 첫 보고서를 발간하고, 아실로마에서 AI·WMD 회의가 개최되는 등 원자력-AI 거버넌스 논의도 활발하다.
+
+### 주요 뉴스 상세
+
+#### 🇺🇸 The Economist 핵에너지 서밋 개최 (4/15, 뉴욕)
+NANO Nuclear Energy가 플래티넘 스폰서로 참여. 마이크로리액터 제조 공급망, 청정전력 경쟁 등 핵심 세션. CEO James Walker가 "Powering the Electrified Economy" 패널 참여.
+- 출처: [NANO Nuclear](https://nanonuclearenergy.com/nano-nuclear-to-participate-in-upcoming-investor-and-industry-events/)
+
+#### 🇺🇸 SB Energy, 세계 최대 AI 데이터센터 포츠머스 착공
+소프트뱅크 SB Energy가 DOE 포츠머스 부지와 공사 파트너십 체결. 공공-민간 협력으로 원자력 인프라와 AI 인프라 결합.
+- 출처: [DOE/EM](https://www.energy.gov/em/articles/special-report-details-worlds-largest-ai-data-center-portsmouth-site)
+
+#### 🇺🇸 Oklo-Siemens Energy, Aurora 전력변환시스템 계약
+나트륨냉각 고속로 Aurora Powerhouse의 전력변환시스템 설계·납품 계약. INL 배치 예정.
+- 출처: [ANS](https://www.ans.org/news/2026-02-04/article-7704/industry-update-february-2026/)
+
+#### 🤖 AI 모델, 핵전쟁 시뮬레이션에서 일관 에스컬레이션
+GPT-5.2·Claude Sonnet 4·Gemini 3 Flash 대상 21차례 시뮬레이션 결과, AI가 타협 대신 에스컬레이션 일관 선택. 기계 위기관리 냉혹성 우려.
+- 출처: [LiveScience](https://www.livescience.com/technology/artificial-intelligence/ai-war-games-almost-always-escalate-to-nuclear-strikes-simulation-shows)
+
+#### 🤖 OECD/NEA RegLab, 원전 AI 통합 첫 보고서 발간
+원전 운영에 AI 안전 통합 방안. 설명 가능한 AI(XAI)와 심층방어 조합 강조.
+- 출처: [OECD-NEA](https://www.oecd-nea.org/jcms/pl_117030/international-reglab-project-reports-on-ai-use-in-nuclear-power-plant-operations)
+
+#### 🤖 아실로마 AI·WMD 회의 개최
+CNS 주최, 100여 명 전문가 참석. AI 급성장이 핵·생물안보에 미치는 영향 논의.
+- 출처: [CNS](https://nonproliferation.org/cns-organizes-iconic-asilomar-conference-on-ai-and-wmd/)
+
+### 논문 업데이트 (2건)
+- JENA/EuCAIF Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics (arXiv:2503.14192, 2026-04)
+- Physics Informed Bayesian Machine Learning of Sparse and Imperfect Nuclear Data (arXiv:2602.01808, 2026-02)
+
+> 최종 업데이트: 2026-04-15
+
+---
+
 ## 2026-04-14 데일리 브리핑
 
 ### 오늘의 3줄 요약

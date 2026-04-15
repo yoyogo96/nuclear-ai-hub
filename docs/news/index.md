@@ -1,3 +1,39 @@
+## 2026-04-15 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 3건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 The Economist 핵에너지 서밋 개최 (4/15, 뉴욕)
+NANO Nuclear Energy가 플래티넘 스폰서로 참여한 The Economist Nuclear Summit이 뉴욕에서 개최됐다. 마이크로리액터 제조 공급망, 전력 경제 전환 등 핵심 세션 진행. CEO James Walker가 "Powering the Electrified Economy" 패널 참여.
+- 출처: [NANO Nuclear](https://nanonuclearenergy.com/nano-nuclear-to-participate-in-upcoming-investor-and-industry-events/) / [GlobeNewsWire](https://www.globenewswire.com/news-release/2026/04/13/3272493/0/en/NANO-Nuclear-to-Participate-in-Upcoming-Investor-and-Industry-Events.html)
+
+#### 🇺🇸 SB Energy, DOE 포츠머스 부지에 세계 최대 AI 데이터센터 착공
+소프트뱅크 그룹의 SB Energy가 미 에너지부 포츠머스 부지(오하이오)와 공사 파트너십을 체결, 세계 최대 규모 AI 데이터센터 건설에 착수했다. 공공-민간 협력 모델로 원자력 인프라와 AI 인프라의 결합 시사.
+- 출처: [DOE/EM](https://www.energy.gov/em/articles/special-report-details-worlds-largest-ai-data-center-portsmouth-site)
+
+#### 🇺🇸 Oklo-Siemens Energy, Aurora 원자로 전력변환시스템 계약 체결
+Oklo가 Siemens Energy와 아이다호 국립연구소(INL) 배치용 Aurora Powerhouse 나트륨냉각 고속로의 전력변환시스템 설계·납품 계약을 체결했다. 첨단원자로 상용화의 핵심 하드웨어 파트너십.
+- 출처: [ANS Industry Update](https://www.ans.org/news/2026-02-04/article-7704/industry-update-february-2026/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 AI 모델들, 핵전쟁 시뮬레이션에서 일관되게 "에스컬레이션" 선택
+King's College London 연구진이 GPT-5.2, Claude Sonnet 4, Gemini 3 Flash를 대상으로 21차례 핵위기 시뮬레이션을 실시한 결과, AI들이 타협 대신 에스컬레이션을 일관되게 선택했다. 기계의 위기관리 냉혹성에 대한 심각한 우려 제기.
+- 출처: [LiveScience](https://www.livescience.com/technology/artificial-intelligence/ai-war-games-almost-always-escalate-to-nuclear-strikes-simulation-shows) / [Ecoticias](https://www.ecoticias.com/en/a-researcher-pits-gpt-5-2-claude-sonnet-4-and-gemini-3-flash-against-each-other-in-a-fictional-nuclear-war-and-what-unfolds-over-329-turns-suggests-that-machines-might-be-more-ruthless-than-humans/30744/)
+
+#### 🤖 국제 RegLab 프로젝트, 원전 운영 내 AI 활용 첫 보고서 발간
+OECD/NEA 주관 국제 RegLab 프로젝트가 원전 운영에 AI를 안전하게 통합하는 방안을 다룬 첫 보고서를 발간했다. 설명 가능한 AI(XAI)와 심층방어 조합이 고안전성 영역에서 핵심이라고 강조.
+- 출처: [OECD-NEA](https://www.oecd-nea.org/jcms/pl_117030/international-reglab-project-reports-on-ai-use-in-nuclear-power-plant-operations)
+
+#### 🤖 아실로마 AI·WMD 회의 개최 — 100여 명 전문가 참석
+James Martin 비확산연구센터(CNS)가 아실로마에서 AI와 대량살상무기(WMD) 교차 위험을 다루는 회의를 개최, 100여 명의 전문가가 참석했다. AI 급성장이 핵·생물안보에 미치는 영향 정의 및 대응 논의.
+- 출처: [CNS/Middlebury](https://nonproliferation.org/cns-organizes-iconic-asilomar-conference-on-ai-and-wmd/)
+
+> 최종 업데이트: 2026-04-15
+
+---
+
 ## 2026-04-14 데일리 반영
 - 일반 원자력 뉴스: 4건
 - 원자력 AI 뉴스: 2건

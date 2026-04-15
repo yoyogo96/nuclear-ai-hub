@@ -1,3 +1,27 @@
+# 2026-04-15 업데이트
+
+## [Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics: Insights from JENA and EuCAIF](https://arxiv.org/abs/2503.14192)
+- 저자: JENA/EuCAIF 컨소시엄
+- 연도/학회(저널): 2026-04, arXiv (physics.ins-det / hep-ex / nucl-ex)
+- 한 줄 요약: 입자·핵·천체물리 연구에서 AI 인프라 전략을 다루는 백서로, 딥러닝 기반 데이터분석·시뮬레이션·신호탐지의 변혁적 역할과 제한된 컴퓨팅 자원·전용 펀딩 부족 등 과제를 정리했다.
+
+### 핵심 기여
+1. 유럽 핵·입자물리 커뮤니티 대상 AI 인프라 요구사항 종합 조사 및 전략적 제언
+2. 딥러닝 기반 실시간 데이터 분석, 시뮬레이션 가속, 신호 탐지 최적화 사례 정리
+3. 기초물리 분야에서 AI 투자를 위한 협력 구조 및 펀딩 모델 제시
+
+## [Physics Informed Bayesian Machine Learning of Sparse and Imperfect Nuclear Data](https://arxiv.org/abs/2602.01808)
+- 저자: (다수저자)
+- 연도/학회(저널): 2026-02, arXiv (nucl-th / physics.data-an)
+- 한 줄 요약: 물리 모델 기반 베이지안 머신러닝으로 희소·불완전 핵데이터(핵분열 생성물 수율의 에너지 의존성 등)를 평가하는 방법을 제시해, 첨단 원자력 응용에서 데이터 부족 문제를 해결하는 새 경로를 열었다.
+
+### 핵심 기여
+1. 포괄적 물리 지식을 베이지안 ML에 통합해 핵분열 생성물 수율의 에너지 의존성 평가
+2. 희소·불완전 핵데이터 활용 한계를 ML로 극복하는 방법론 제시
+3. 차세대 원자로 설계 및 핵연료 주기 해석의 데이터 기반 정밀도 향상 기여
+
+---
+
 # 2026-04-14 업데이트
 
 ## [Unified Extraction of In-Medium Heavy Quark Potentials from RHIC to LHC Energies via Deep Learning](https://arxiv.org/abs/2604.09198)
