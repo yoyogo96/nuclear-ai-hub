@@ -1,3 +1,40 @@
+## 2026-04-16 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. X-energy가 SMR 업계 첫 대형 IPO(약 $7.5억) 로드쇼를 개시하고, Terra Innovatum이 마이크로원자로 코어 프로토타입을 완성하는 등 첨단원자로 상용화가 자본시장과 제조 현장 양쪽에서 가속화하고 있다.
+2. EU가 핵융합·원자력 연구에 €3.3억을 배정하고, DOE 제네시스 미션이 $2.93억 RFA를 진행하는 등 공공 투자도 폭넓게 확대되고 있다.
+3. IISS가 AI의 핵억지력 통제 위험을 경고하는 등 AI-원자력 거버넌스 논의가 심화하고 있다.
+
+### 주요 뉴스 상세
+
+#### 🇺🇸 X-energy, SMR 최대 규모 IPO 로드쇼 개시
+고온가스냉각로 Xe-100 SMR의 X-energy가 나스닥(XE) 상록을 위한 IPO 로드쇼 시작. 4,285만주 발행(每股 $16~19). J.P. Morgan·Morgan Stanley 주관.
+- 출처: [X-energy](https://x-energy.com/news/x-energy-announces-launch-of-its-initial-public-offering/)
+
+#### 🇺🇸 Terra Innovatum, SOLO 마이크로원자로 코어 프로토타입 완성
+Mersen과 협력해 흑연 원자로 코어 프로토타입 생산 성공. 2027년 최초 배치, 2028년 상업생성 목표.
+- 출처: [GlobeNewsWire](https://www.globenewswire.com/news-release/2026/04/15/3274967/0/en/Terra-Innovatum-to-Host-Strategic-Business-Update-as-It-Completes-Year-End-Reporting-Process.html)
+
+#### 🇪🇺 EU, 핵융합·원자력에 €3.3억 투자
+Euratom 프로그램으로 €2.22억 핵융합, €1.08억 핵분할 할당. 민관 파트너십·SMR·방폐물 관리 등 포괄.
+- 출처: [EU 보도자료](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_651)
+
+#### 🤖 IISS, AI 핵억지력 통제 위험 경고
+"Salvific User Error" 분석에서 인간의 직관적 판단이 핵참사를 막아왔으나 AI 통합은 이를 억제할 수 있다고 경고.
+- 출처: [IISS Survival](https://www.iiss.org/online-analysis/survival-online/2026/04/salvific-user-error-a-classical-take-on-ai-and-nuclear-deterrence/)
+
+#### 🤖 DOE 제네시스 미션 $2.93억 RFA 진행
+AI·양자·슈퍼컴퓨팅 통합 플랫폼으로 핵분열·핵융합 포함 20개 이상 과제 해결. PPPL·ORNL 핵심 파트너.
+- 출처: [DOE](https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science)
+
+#### 📄 논문: AI로 중성자별 데이터에서 핵력 해독 (Nature Communications)
+Los Alamos 연구진이 ML로 중성자별 관측 데이터를 분석해 고밀도 핵물질 상태방정식을 데이터 기반으로 추정하는 새 방법 제시.
+- 출처: [Los Alamos Today](https://nationaltoday.com/us/nm/los-alamos/news/2026/04/10/ai-unlocks-secrets-of-nuclear-forces-with-neutron-star-data/)
+
+> 최종 업데이트: 2026-04-16
+
+---
+
 ## 2026-04-15 데일리 브리핑
 
 ### 오늘의 3줄 요약

@@ -1,3 +1,19 @@
+# 2026-04-16 업데이트
+
+## [AI-Driven Discovery of Nuclear Forces from Neutron Star Data](https://www.nature.com/articles/s41467-026-) (Nature Communications, 2026)
+- 저자: Los Alamos National Laboratory 연구진
+- 연도/학회(저널): 2026-04, Nature Communications
+- 한 줄 요약: Los Alamos 연구진이 AI를 활용해 중성자별 관측 데이터로부터 핵력(nuclear forces)의 비밀을 해독하는 돌파구를 열었다. 밀도 높은 핵물질 상태방정식을 데이터 기반으로 추정하는 새 패러다임 제시.
+
+### 핵심 기여
+1. 중성자별 천체물리 관측 데이터를 ML로 분석해 핵력 모델 검증
+2. 고밀도 핵물질 상태방정식의 데이터 기반 역추론 방법론 확립
+3. 천체물리·원자력물리 융합 연구의 AI 활용 모범 사례
+
+> 참고: [Los Alamos Today 보도](https://nationaltoday.com/us/nm/los-alamos/news/2026/04/10/ai-unlocks-secrets-of-nuclear-forces-with-neutron-star-data/)
+
+---
+
 # 2026-04-15 업데이트
 
 ## [Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics: Insights from JENA and EuCAIF](https://arxiv.org/abs/2503.14192)

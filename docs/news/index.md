@@ -1,3 +1,35 @@
+## 2026-04-16 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 X-energy, SMR 개발사 최대 규모 IPO 로드쇼 개시
+고온가스냉각로 Xe-100 SMR 개발사 X-energy가 나스닥(XE) 상장을 위한 IPO 로드쇼를 개시했다. 4,285만주(每股 $16~19) 발행 예정으로, J.P. Morgan·Morgan Stanley 등이 주관. SMR 업계 첫 대형 상장으로 원자력 르네상스의 자본시장 진입 상징.
+- 출처: [X-energy](https://x-energy.com/news/x-energy-announces-launch-of-its-initial-public-offering/) / [Renaissance Capital](https://www.renaissancecapital.com/IPO-Center/News/118337/Small-modular-reactor-developer-X-Energy-sets-terms-for-$750-million-IPO)
+
+#### 🇺🇸 Terra Innovatum, SOLO 마이크로원자로 흑연 코어 프로토타입 완성
+Terra Innovatum과 Mersen이 SOLO™ Micro-Modular Reactor용 흑연 원자로 코어 프로토타입 생산에 성공했다. 양산 가능한 시스템 통합 검증 완료로 2027년 최초 배치, 2028년 상업생산 목표. 4/16 전략 업데이트 콜 개최.
+- 출처: [GlobeNewsWire](https://www.globenewswire.com/news-release/2026/04/15/3274967/0/en/Terra-Innovatum-to-Host-Strategic-Business-Update-as-It-Completes-Year-End-Reporting-Process.html) / [Investing.com](https://www.investing.com/news/company-news/terra-innovatum-mersen-produce-graphite-reactor-core-prototype-93CH-4612719)
+
+#### 🇪🇺 EU, 핵융합·원자력 연구에 €3.3억 투자 프로그램 채택
+유럽위원회가 Euratom 연구프로그램(2026-2027)으로 €3.3억(약 5,000억원)을 배정했다. €2.22억은 핵융합 가속(민관 파트너십 신설·스타트업 지원), €1.08억은 원전 장기운전 안전성·SMR·방폐물 관리 등 핵분열에 집중.
+- 출처: [EU 보도자료](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_651) / [CE Energy News](https://ceenergynews.com/nuclear/eu-investment-nuclear-fusion/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 IISS, "인간의 구원적 실수" — AI 핵억지력 통제 위험 경고
+국제전략문제연구소(IISS)가 Survival 지 4-5월호에 "Salvific User Error: A Classical Take on AI and Nuclear Deterrence"를 발표했다. 역사적으로 인간의 "절차 위반적 판단"이 핵참사를 막아왔으나, AI 통합은 이런 인간 이성을 억제해 파국적 위험 노출할 수 있다고 경고.
+- 출처: [IISS Survival](https://www.iiss.org/online-analysis/survival-online/2026/04/salvific-user-error-a-classical-take-on-ai-and-nuclear-deterrence/)
+
+#### 🤖 DOE 제네시스 미션, AI로 핵융합 상용화 가속 — $2.93억 RFA 진행중
+미 에너지부가 제네시스 미션을 위해 $2.93억(약 4,000억원) RFA를 공개했다. 초거성 컴퓨팅·양자기술·AI를 통합한 National Discovery Platform 구축으로, 핵분열·핵융합 포함 20개 이상 국가 과제 해결 목표. PPPL의 AI4Fusion, ORNL 워크숍 등이 핵심 파트너.
+- 출처: [DOE](https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science) / [CATF](https://www.catf.us/2026/04/the-genesis-mission-aims-to-accelerate-fusion-energy-it-needs-the-data-to-do-it/)
+
+> 최종 업데이트: 2026-04-16
+
+---
+
 ## 2026-04-15 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 3건
