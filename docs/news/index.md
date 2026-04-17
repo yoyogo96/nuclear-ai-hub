@@ -1,3 +1,35 @@
+## 2026-04-17 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 3건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 백악관, 우주 원자력 발전 국가 이니셔티브 발표
+백악관이 2028년까지 궤도 원자로, 2030년까지 달 표면 원자로 배치를 목표로 하는 우주 원자력 발전 국가 이니셔티브를 발표했다. NASA·DOE 협력 체계 구축으로 우주 탐사용 원자력 동력원 상용화 가속.
+- 출처: [한국경제](https://www.hankyung.com/article/202604085757i) / [Investing.com](https://kr.investing.com/news/stock-market-news/article-1901429)
+
+#### 🇨🇳 중국 '인공 태양' 초고온 플라스마 1,337초 유지 신기록
+중국의 핵융합 장치 EAST가 초고온 플라스마를 1,337초간 유지하는 세계 신기록을 세웠다. AI 기반 플라스마 제어 시스템이 핵심 기여를 한 것으로 알려져 핵융합 상용화의 새 이정표.
+- 출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260416092100371)
+
+### 원자력 AI 뉴스
+
+#### 🤖 INL-NVIDIA, AI로 원자로 건설기간 50% 단축 '프로메테우스' 프로젝트 가동
+아이다호 국립연구소(INL)와 NVIDIA가 협력해 원자로 전 수명주기(설계·인허가·건설·운영)에 AI를 적용하는 프로메테우스 프로젝트를 시작했다. INL의 NRAD 및 MARVEL 초소형원자로에서 AI 시스템 테스트 예정.
+- 출처: [CarbonCredits](https://carboncredits.com/nvidia-and-idaho-national-laboratory-launch-ai-project-to-cut-nuclear-build-time-in-half/)
+
+#### 🤖 한국원자력산업협회, 4/22-24 원자력 연차대회 — "AI 시대를 여는 원자력"
+한국원자력산업협회가 부산 벡스코에서 'AI 시대를 여는 원자력(Nuclear Energy for an AI-powered World)'을 주제로 제41회 원자력 연차대회를 개최한다. 원전 계속운전·에너지 안보·SMR 등 핵심 주제 논의.
+- 출처: [조선비즈](https://biz.chosun.com/industry/company/2026/04/15/IDBU2R6Q7JATBCPNGVV3IENFBY/)
+
+#### 🤖 CNS, AI·대량살상무기 아실로마 회의 개최
+제임스마틴 비확산연구센터(CNS)가 "Silicon, Swords, and Ploughshares" 주제로 아실로마 회의를 개최해, AI 급속 발전이 핵·생물학적 안보에 미치는 위험과 거버넌스 방향을 논의했다.
+- 출처: [CNS](https://nonproliferation.org/cns-organizes-iconic-asilomar-conference-on-ai-and-wmd/)
+
+> 최종 업데이트: 2026-04-17
+
+---
+
 ## 2026-04-16 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 2건

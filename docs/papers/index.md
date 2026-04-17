@@ -1,3 +1,37 @@
+# 2026-04-17 업데이트
+
+## [Optimising Nuclear Energy with AI: Bridging India's Efficiency Gap](https://www.orfonline.org/expert-speak/optimising-nuclear-energy-with-ai-bridging-india-s-efficiency-gap) (ORF, 2026-04-16)
+- 저자: Debajyoti Chakravarty
+- 연도/학회(저널): 2026-04, Observer Research Foundation
+- 한 줄 요약: 인도 원자력 부문에 AI를 통합해 효율성 격차를 해소하는 전략적 필요성을 분석했다. 예지보전·운영최적화·안전모니터링 등 실제 적용 사례와 정책 제언 포함.
+
+### 핵심 기여
+1. 인도 원자력 산업의 AI 도입 현황 및 효율성 갭 분석
+2. 예지보전·운영최적화·안전모니터링 AI 적용 로드맵 제시
+3. 개도국 원자력 산업의 AI 전환을 위한 정책 프레임워크
+
+## [Utilization of AI/ML Technologies for Fuel Thermal-Hydraulic Methodology Development in Westinghouse](https://www.ans.org/pubs/journals/nt/article-60026/) (Nuclear Technology, 2026-01-22)
+- 저자: Emre Tatli et al.
+- 연도/학회(저널): 2026-01, Nuclear Technology (ANS)
+- 한 줄 요약: Westinghouse가 연료 열수력학 평가에 ML을 적용해 임계열유속(CHF) 예측 등 핵심 안전 분석 방법론을 혁신했다. 실제 원전 데이터 기반 모델 검증 포함.
+
+### 핵심 기여
+1. ML 기반 임계열유속(CHF) 예측 모델 개발 및 실증
+2. 기존 상관관계법 대비 향상된 예측 정확도 입증
+3. 원전 안전분석 방법론의 AI/ML 전환 사례
+
+## [New IAEA Research Project Uses Machine Learning to Better Predict Polymer Changes Under Radiation](https://www.iaea.org/newscenter/news/new-iaea-research-project-uses-machine-learning-to-better-predict-polymer-changes-under-radiation) (IAEA, 2026-03-23)
+- 저자: IAEA 협력연구프로젝트(CRP)
+- 연도/학회(저널): 2026-03, IAEA
+- 한 줄 요약: IAEA가 방사선 환경에서 고분재(polymer) 변화를 ML로 예측하는 새 협력연구프로젝트를 시작했다. 원전 케이블·밀봉재 등 안전관련 재료의 수명 예측 정확도 향상 목표.
+
+### 핵심 기여
+1. 방사선 조사 고분자 재료 노화 예측 ML 모델 개발 착수
+2. 원전 안전등급 케이블·밀봉재 수명 평가 체계 고도화
+3. 다국적 협력연구를 통한 원전 재료 데이터베이스 구축
+
+---
+
 # 2026-04-16 업데이트
 
 ## [AI-Driven Discovery of Nuclear Forces from Neutron Star Data](https://www.nature.com/articles/s41467-026-) (Nature Communications, 2026)

@@ -1,3 +1,48 @@
+## 2026-04-17 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. INL과 NVIDIA가 원자로 건설기간 50% 단축을 목표로 '프로메테우스' AI 프로젝트를 가동하고, 백악관이 우주 원자력 이니셔티브를 발표하는 등 AI-원자력 융합이 제도적 속도를 얻고 있다.
+2. 중국 EAST 핵융합 장치가 AI 플라스마 제어로 1,337초 플라스마 유지 신기록을 세웠다.
+3. 한국원자력산업협회가 "AI 시대를 여는 원자력" 주제로 제41회 연차대회(4/22-24, 부산)를 개최하고, CNS가 AI·WMD 아실로마 회의를 개최하는 등 거버넌스 논의도 활발하다.
+
+### 주요 뉴스 상세
+
+#### 🤖 INL-NVIDIA, 프로메테우스 AI 프로젝트 가동
+원자로 전 수명주기(설계·인허가·건설·운영) AI 적용으로 건설기간 50% 단축 목표. NRAD·MARVEL 초소형원자로에서 테스트.
+- 출처: [CarbonCredits](https://carboncredits.com/nvidia-and-idaho-national-laboratory-launch-ai-project-to-cut-nuclear-build-time-in-half/)
+
+#### 🇨🇳 중국 EAST, AI 플라스마 제어로 1,337초 신기록
+핵융합 장치에서 초고온 플라스마를 1,337초 유지하며 세계 기록 경신. AI 기반 제어가 핵심.
+- 출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260416092100371)
+
+#### 🇰🇷 제41회 원자력 연차대회 — "AI 시대를 여는 원자력" (4/22-24, 부산)
+원전 계속운전·에너지 안보·SMR 등 핵심 주제. 엘살바도르 국회부의장도 한국-원자력·AI 협력 희망 표명.
+- 출처: [조선비즈](https://biz.chosun.com/industry/company/2026/04/15/IDBU2R6Q7JATBCPNGVV3IENFBY/)
+
+#### 🇺🇸 백악관, 우주 원자력 발전 이니셔티브
+2028년 궤도 원자로, 2030년 달 표면 원자로 배치 목표. NASA·DOE 협력.
+- 출처: [한국경제](https://www.hankyung.com/article/202604085757i)
+
+#### 🤖 CNS, AI·WMD 아실로마 회의 개최
+"Silicon, Swords, and Ploughshares" 주제로 AI가 핵·생물학적 안보에 미치는 위험과 거버넌스 방향 논의.
+- 출처: [CNS](https://nonproliferation.org/cns-organizes-iconic-asilomar-conference-on-ai-and-wmd/)
+
+#### 📄 논문: 인도 원자력 AI 효율성 격차 분석 (ORF)
+인도 원자력 부문의 AI 도입 현황 분석 및 예지보전·운영최적화 로드맵 제시.
+- 출처: [ORF](https://www.orfonline.org/expert-speak/optimising-nuclear-energy-with-ai-bridging-india-s-efficiency-gap)
+
+#### 📄 논문: Westinghouse ML 기반 연료 열수력학 (Nuclear Technology)
+ML로 임계열유속(CHF) 예측 정확도 향상. 실제 원전 데이터 기반 검증.
+- 출처: [ANS](https://www.ans.org/pubs/journals/nt/article-60026/)
+
+#### 📄 IAEA, ML로 방사선 고분자 변화 예측 연구프로젝트 착수
+원전 케이블·밀봉재 등 안전재료 수명 예측 정확도 향상 목표.
+- 출처: [IAEA](https://www.iaea.org/newscenter/news/new-iaea-research-project-uses-machine-learning-to-better-predict-polymer-changes-under-radiation)
+
+> 최종 업데이트: 2026-04-17
+
+---
+
 ## 2026-04-16 데일리 브리핑
 
 ### 오늘의 3줄 요약
