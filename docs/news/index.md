@@ -1,3 +1,31 @@
+## 2026-04-18 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 1건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 Kairos Power, 세계 최초 4세대 원자로 Hermes 2 착공
+Kairos Power가 테네시 오크리지에서 Hermes 2 시험발전소 건설을 시작했다. NRC 건설허가를 받은 최초의 상업 규모 4세대 원자로로, 불화염 냉각 고온로(KP-FHR) 기술을 적용한다. TVA 전력망에 최대 50MW 전력 공급 예정이며, Google 데이터센터 전력 지원이 목표.
+- 출처: [Business Insider](https://markets.businessinsider.com/news/stocks/kairos-power-breaks-ground-on-hermes-2-demonstration-plant-1036034421)
+
+#### 🇺🇸 인디애나주-일라이릴리, SMR 개발 협력 발표
+인디애나주 Braun 주지사 행정부와 제약巨头 Eli Lilly가 원자력 에너지 프로젝트 공동 개발을 위한 비구속적 양해각서(LOI)를 체결했다. SMR 및 첨단 원자력 기술 배치 타당성 평가를 추진하며, 산업·연구·지역사회 기저부하 전력 확보가 목표.
+- 출처: [ANS](https://www.ans.org/news/2026-04-17/article-7947/eli-lilly-signs-loi-with-indiana-on-nuclear-power-projects/) / [Daily Journal](https://dailyjournal.net/2026/04/17/braun-administration-eli-lilly-to-collaborate-on-nuclear-power-development/)
+
+#### 🇺🇸 NuScale 주가 주간 40% 급등 — DOE 차관금 전망 견인
+SMR 개발사 NuScale Power(SMR)가 에너지부 장관의 "초기 5~10기 신규 원자로에 DOE 대출 지원 예상" 발언에 주가가 주간 40% 이상 급등했다. 연방 자금 지원이 초기 SMR 프로젝트 리스크 완화의 핵심 변수로 부상.
+- 출처: [Motley Fool](https://www.fool.com/investing/2026/04/17/why-nuscale-power-stock-jumped-over-40-this-week/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 미 에너지부 장관, "AI 반대 여론 매우 현실적 위험" 경고
+DOE 크리스 라이트 장관이 하원 예산 청문회에서 "미국 전체가 AI에 부정적으로 변하고 있으며, 특히 농촌 지역에서 반대가 확산 중"이라고 경고했다. 대규모 데이터센터 건설로 인한 토지·에너지비용·수자원 부담이 주민 반발을 유발하고 있어, AI 인프라 확장의 사회적 수용성이 새로운 과제로 부상.
+- 출처: [FedScoop](https://fedscoop.com/doe-budget-hearing-ai-opposition-risk/)
+
+> 최종 업데이트: 2026-04-18
+
+---
+
 ## 2026-04-17 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 3건

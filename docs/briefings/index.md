@@ -1,3 +1,34 @@
+## 2026-04-18 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. Kairos Power가 세계 최초 NRC 건설허가를 받은 4세대 원자로 Hermes 2 착공에 들어갔고, 인디애나주-Eli Lilly가 SMR 공동 개발 LOI를 체결하는 등 미국 첨단 원자력 실증이 가속화되고 있다.
+2. DOE 장관이 하원 청문회에서 AI 반대 여론의 "매우 현실적 위험"을 경고했다—대규모 데이터센터 건설이 에너지비용·수자원 부담으로 농촌 지역 반발을 유발 중.
+3. NuScale 주가가 DOE 대출 전망에 주간 40% 급등했고, 핵융합 AI 종합 리뷰 논문이 arXiv에 공개되었다.
+
+### 주요 뉴스 상세
+
+#### 🇺🇸 Kairos Power, Hermes 2 4세대 원자로 착공
+불화염 냉각 고온로(KP-FHR) 기술, 최대 50MW, TVA 전력망·Google 데이터센터 전력 지원. NRC 허가 최초 상업 규모 4세대 원자로.
+- 출처: [Business Insider](https://markets.businessinsider.com/news/stocks/kairos-power-breaks-ground-on-hermes-2-demonstration-plant-1036034421)
+
+#### 🇺🇸 인디애나-Eli Lilly, SMR 개발 LOI 체결
+제약巨头와 주정부가 협력해 SMR·첨단 원자력 기술 배치 타당성 평가. 산업·연구 기저부하 전력 확보 목표.
+- 출처: [ANS](https://www.ans.org/news/2026-04-17/article-7947/eli-lilly-signs-loi-with-indiana-on-nuclear-power-projects/)
+
+#### 🇺🇸 NuScale, DOE 대출 전망에 주간 40% 급등
+에너지부 장관 "초기 5~10기 신규 원자로에 DOE 대출 예상" 발언이 SMR 업계 전체에 긍정 신호.
+- 출처: [Motley Fool](https://www.fool.com/investing/2026/04/17/why-nuscale-power-stock-jumped-over-40-this-week/)
+
+#### 🤖 DOE 장관, AI 반대 여론 "매우 현실적 위험" 경고
+농촌 미국을 중심으로 데이터센터 건설 반대 확산. 토지·에너지비용·수자원 부담이 사회적 수용성 위협.
+- 출처: [FedScoop](https://fedscoop.com/doe-budget-hearing-ai-opposition-risk/)
+
+#### 📄 논문: 핵융합 상용화를 위한 AI 기회와 과제 (arXiv)
+UKAEA·STFC 워크숍 성과로 AI의 핵융합 적용(플라스마 제어·실시간 의사결정)과 데이터 희소성·견고성 과제를 종합 분석.
+- 출처: [arXiv](https://arxiv.org/abs/2603.25777)
+
+---
+
 ## 2026-04-17 데일리 브리핑
 
 ### 오늘의 3줄 요약

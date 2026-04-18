@@ -1,3 +1,17 @@
+# 2026-04-18 업데이트
+
+## [Challenges and Opportunities for AI to Help Deliver Fusion Energy](https://arxiv.org/abs/2603.25777) (arXiv, 2026-03-26)
+- 저자: Agnello et al. (UKAEA, STFC, 학계·산업 협력)
+- 연도/학회(저널): 2026-03, arXiv (physics.plasm-ph / cs.AI)
+- 한 줄 요약: 2025년 4월 UKAEA-STFC 주최 워크숍 성과로, 핵융합 상용화를 위한 AI의 역할과 한계를 종합 분석했다. 딥러닝·파운데이션 모델의 플라스마 제어·실시간 의사결정 적용과 데이터 희소성·견고성 과제를 논의.
+
+### 핵심 기여
+1. 핵융합 연구 전 주기에 걸친 AI 적용 기회와 위험 체계적 정리
+2. 밀리초 이하 실시간 플라스마 제어를 위한 딥강화학습 잠재력 실증
+3. 핵융합 전문가-AI 개발자 간 장기 협력 모델 및 책임있는 AI 방법론 제안
+
+---
+
 # 2026-04-17 업데이트
 
 ## [Optimising Nuclear Energy with AI: Bridging India's Efficiency Gap](https://www.orfonline.org/expert-speak/optimising-nuclear-energy-with-ai-bridging-india-s-efficiency-gap) (ORF, 2026-04-16)
