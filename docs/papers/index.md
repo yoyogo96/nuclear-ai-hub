@@ -1,3 +1,27 @@
+# 2026-04-19 업데이트
+
+## [AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda](https://www.rand.org/pubs/perspectives/PEA4611-1.html) (RAND Corporation, 2026-04)
+- 저자: RAND Corporation
+- 연도/학회(저널): 2026-04, RAND Perspectives
+- 한 줄 요약: AI 안전 및 CBRN 억지력 전문가 워크숍을 바탕으로 AI-CBRN 상호작용 연구 우선순위를 도출한 전략 연구의제. 위험 평가·위기 관리·억지력 강화를 위한 정책 제언 포함.
+
+### 핵심 기여
+1. AI-CBRN 상호작용에 대한 체계적 연구 의제 수립
+2. 위험 평가 및 위기 관리 역량 강화를 위한 AI 활용 방안
+3. 정책 입안자를 위한 CBRN 방어 분야 AI 거버넌스 권고
+
+## [Salvific User Error: A Classical Take on AI and Nuclear Deterrence](https://www.iiss.org/publications/survival/2026/survival-global-politics-and-strategy-aprmay-2026/) (Survival: Global Politics and Strategy, 2026-04/05)
+- 저자: Nathan Orlando
+- 연도/학회(저널): 2026-04, IISS Survival (Apr-May 2026)
+- 한 줄 요약: 핵 억지력의 역사적 맥락을 분석하며, AI가 핵 정책에서 인간의 역할을 대체하는 것에 대한 건전한 회의론을 주창했다. 고전적 억지 이론과 AI 의사결정의 충돌을 심층 논의.
+
+### 핵심 기여
+1. 고전적 핵 억지 이론 관점에서 AI 의사결정 개입에 대한 비판적 분석
+2. 핵 정책에서 인간의 역할 대체가 가져올 전략적 위험 경고
+3. AI-핵 억지력 교차 분야의 인문·전략적 관점 제시
+
+---
+
 # 2026-04-18 업데이트
 
 ## [Challenges and Opportunities for AI to Help Deliver Fusion Energy](https://arxiv.org/abs/2603.25777) (arXiv, 2026-03-26)

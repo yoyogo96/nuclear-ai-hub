@@ -1,3 +1,27 @@
+## 2026-04-19 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 1건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 AI 데이터센터 전력수요 2034년까지 4배 폭증 전망, 원자력이 핵심 해결책
+AI 데이터센터 전력소비가 2024년 400TWh에서 2034년 1,600TWh 이상으로 4배 증가할 것으로 전망됐다. Constellation Energy(미국 최대 21기 원전 운영)가 데이터센터 운영사와 장기 계약을 체결하며 원자력 르네상스의 즉각적 수혜주로 부상. Oklo·NuScale 등 SMR 순수 개발사는 아직 수익 창출 전이지만 장기적 핵심 플레이어로 평가.
+- 출처: [247 Wall St](https://247wallst.com/investing/2026/04/18/nuclears-ai-moment-is-here-there-is-only-1-play-for-the-4x-data-center-demand-explosion/)
+
+#### 🇺🇸 미국, 나미비아 우라늄 수입 확대 추진 — AI 원전 수요 대응
+미국이 세계 3위 우라늄 생산국 나미비아로부터 우라늄 수입을 늘리는 방안을 검토 중이다. AI 데이터센터 확산에 따른 원전 수요 급증으로 우라늄 공급망 다변화가 시급해진 배경. 에너지 안보와 원자력 르네상스의 공급 측면 과제가 부각.
+- 출처: [Mining.com](https://www.mining.com/web/us-eyes-more-namibian-uranium-imports-as-ai-drives-nuclear-push/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 NEA, 원자력 규제기관의 AI 활용 워크샵 결과 발표
+OECD 원자력에너지기구(NEA)가 15개 회원국 규제기관·AI 전문가가 참여한 워크샵(Nuclear Regulatory AI, 3/25-26) 결과를 발표했다. AI 프레임워크 수립, 명확한 성공 기준 설정, 인간 감독 보장 등 핵심 권고사항을 도출. 원자력 규제 분야의 AI 도입 가이드라인 발간 예정.
+- 출처: [OECD-NEA](https://www.oecd-nea.org/jcms/pl_117517/nea-explores-regulatory-use-of-artificial-intelligence)
+
+> 최종 업데이트: 2026-04-19
+
+---
+
 ## 2026-04-18 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 1건

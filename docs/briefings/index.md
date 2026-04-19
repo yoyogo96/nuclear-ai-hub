@@ -1,3 +1,34 @@
+## 2026-04-19 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. AI 데이터센터 전력수요가 2034년까지 4배(400→1,600TWh) 폭증할 것으로 전망되며, Constellation Energy가 장기 원전 계약으로 핵심 수혜주로 부상했다.
+2. 미국이 AI 원전 수요에 대응해 세계 3위 우라늄 생산국 나미비아의 수입 확대를 검토 중이다.
+3. NEA가 15개국 원자력 규제기관 AI 워크샵 결과를 발표하고, RAND가 AI-CBRN 방어 정책 연구의제를 공개했다.
+
+### 주요 뉴스 상세
+
+#### 🇺🇸 AI 데이터센터 전력수요 4배 폭증, 원자력 핵심 해결책
+2024년 400TWh → 2034년 1,600TWh 예상. Constellation Energy(21기 원전)가 데이터센터와 장기 계약 체결 완료. Oklo·NuScale 등 SMR 개발사는 상업화까지 시간 필요하지만 장기 핵심.
+- 출처: [247 Wall St](https://247wallst.com/investing/2026/04/18/nuclears-ai-moment-is-here-there-is-only-1-play-for-the-4x-data-center-demand-explosion/)
+
+#### 🇺🇸 미국, 나미비아 우라늄 수입 확대 검토
+AI 원전 수요 급증으로 우라늄 공급망 다변화 시급. 세계 3위 생산국 나미비아와 수입 확대 논의.
+- 출처: [Mining.com](https://www.mining.com/web/us-eyes-more-namibian-uranium-imports-as-ai-drives-nuclear-push/)
+
+#### 🤖 NEA, 원자력 규제 AI 워크샵 결과 발표
+15개국 규제기관 참여, AI 프레임워크·성공 기준·인간 감독 보장 등 권고 도출. 규제 분야 AI 가이드라인 발간 예정.
+- 출처: [OECD-NEA](https://www.oecd-nea.org/jcms/pl_117517/nea-explores-regulatory-use-of-artificial-intelligence)
+
+#### 📄 논문: AI-CBRN 방어 정책 전략 연구의제 (RAND)
+AI 안전·CBRN 전문가 워크숍 기반. 위험평가·위기관리·억지력 강화를 위한 정책 권고.
+- 출처: [RAND](https://www.rand.org/pubs/perspectives/PEA4611-1.html)
+
+#### 📄 논문: AI와 핵 억지력의 고전적 관점 (IISS Survival)
+핵 억지력에서 AI가 인간 역할을 대체하는 것에 대한 회의론. 고전적 전략 이론과 AI 의사결정의 충돌 분석.
+- 출처: [IISS](https://www.iiss.org/publications/survival/2026/survival-global-politics-and-strategy-aprmay-2026/)
+
+---
+
 ## 2026-04-18 데일리 브리핑
 
 ### 오늘의 3줄 요약
