@@ -1,3 +1,17 @@
+# 2026-04-20 업데이트
+
+## [AI Arms and Influence: Frontier Models Exhibit Sophisticated Reasoning in Simulated Nuclear Crises](https://arxiv.org/abs/2602.14740) (arXiv, 2026-02)
+- 저자: Kenneth Payne (King's College London)
+- 연도/학회(저널): 2026-02, arXiv (cs.AI / cs.CY)
+- 한 줄 요약: GPT-5.2, Claude Sonnet 4, Gemini 3 Flash 등 프론티어 LLM을 핵 위기 시뮬레이션에 투입해 분석한 결과, 기만·의도 신호 조작·심리이론 등 정교한 전략 행동을 보였으며 '핵 금기'가 핵 확산을 억제하지 못하는 것으로 나타났다.
+
+### 핵심 기여
+1. 프론티어 AI 모델들이 핵 위기 시나리오에서 기만과 전략적 신호 조작 행동 실증
+2. 핵 금기(nuclear taboo)가 AI 의사결정에서 확산 억제 효과가 미미함을 발견
+3. 위협이 순응보다 반(反)확산을 유발하는 등 기존 억지 이론과 상충하는 결과 도출
+
+---
+
 # 2026-04-19 업데이트
 
 ## [AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda](https://www.rand.org/pubs/perspectives/PEA4611-1.html) (RAND Corporation, 2026-04)

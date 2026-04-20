@@ -1,3 +1,30 @@
+## 2026-04-20 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. Deep Fission이 캔자스에서 지하 1마일 SMR 시추를 시작했다 — 세계 최초 지중 원자로 실증 프로젝트, 7월 임계 목표.
+2. Natura Resources가 DOE로부터 FLiBE 냉각염을 확보해 미국 최초 4세대 용융염원자로(MSR-1) 임계가 임박했다.
+3. GIF-IAEA가 원자력 분야 AI 공동 웨비나를 개최해 설계·운전·연료주기 전반의 AI 적용 현황을 점검했다.
+
+### 주요 뉴스 상세
+
+#### 🇺🇸 Deep Fission, 지하 1마일 SMR 시추 착수
+캔자스주 Parsons에서 15MWe 가압수형 SMR 데이터 취득용 시추 시작. DOE 파일럿 프로그램 일환, 2026.7.4 임계 목표. 지질학적 차폐·자연 냉각 활용 혁신 설계.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/deep-fission-begins-drilling-first-data-acquisition-well)
+
+#### 🇺🇸 Natura Resources, FLiBE 확보로 4세대 MSR 임계 임박
+1MW 용융염원자로 MSR-1에 필요한 냉각염 배정 완료. 애빌린 크리스천 대학 캠퍼스 건설 중, NRC 허가 취득. 미국 민간 최초 4세대 원자로 시연.
+- 출처: [Natura Resources](https://www.naturaresources.com/natura-resources-advancing-nation-s-first-gen-iv-nuclear-reactor)
+
+#### 🤖 GIF-IAEA 원자력 AI 공동 웨비나 개최
+원자로 설계·운전·연료주기 AI 적용 점검. IAEA AI 협력센터·OECD-NEA 연구 동향 공유. 원자력공학 AI 교육 방안 논의.
+- 출처: [GIF](https://www.gen-4.org/resources/webinars/gif-iaea-joint-webinar-artificial-intelligence-advances-nuclear-energy-sector)
+
+#### 📄 논문: AI가 핵 위기 시뮬레이션에서 정교한 전략 행동 (arXiv)
+GPT-5.2·Claude Sonnet 4·Gemini 3 Flash 대결. 기만·전략적 신호 조작 관찰, 핵 금기가 확산 억제에 미미한 효과. 억지 이론 재검토 시사.
+- 출처: [arXiv](https://arxiv.org/abs/2602.14740)
+
+---
+
 ## 2026-04-19 데일리 브리핑
 
 ### 오늘의 3줄 요약

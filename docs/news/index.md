@@ -1,3 +1,27 @@
+## 2026-04-20 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 1건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 Deep Fission, 캔자스 지하 1마일 SMR 시추 착수 — 세계 최초 지중 원자로 실증
+미국 스타트업 Deep Fission이 캔자스주 Parsons 그레이트플레인스 산업단지에서 지하 1마일(약 1.6km) 심도에 설치할 15MWe 가압수형 SMR 'Gravity Nuclear Reactor'의 데이터 취득용 시추를 시작했다. DOE 원자로 파일럿 프로그램의 일환으로, 2026년 7월 4일 임계 달성을 목표로 하고 있다. 지질학적 차폐와 자연 냉각을 활용하는 혁신적 안전 설계.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/deep-fission-begins-drilling-first-data-acquisition-well) / [Deep Fission](https://www.deepfission.com/media-center/press-releases/detail/105/deep-fission-kicks-off-historic-borehole-drilling-for-first-of-a-kind-nuclear-project)
+
+#### 🇺🇸 Natura Resources, DOE에서 FLiBE 냉각염 확보 — 4세대 용융염원자로 임계 임박
+Natura Resources가 DOE로부터 4세대 용융염 원자로(MSR-1, 1MW)에 필요한 FLiBE 냉각염 배정을 받았다. 애빌린 크리스천 대학 캠퍼스에 건설 중이며, NRC 건설허가 취득 후 2026년 7월 임계 목표. 미국 최초 민간 4세대 원자로 시연이자 DOE 파일럿 프로그램의 핵심 프로젝트.
+- 출처: [Natura Resources](https://www.naturaresources.com/natura-resources-advancing-nation-s-first-gen-iv-nuclear-reactor) / [PR Newswire](https://www.prnewswire.com/news-releases/natura-resources-advancing-nations-first-gen-iv-nuclear-reactor-302583716.html)
+
+### 원자력 AI 뉴스
+
+#### 🤖 GIF-IAEA, 원자력 분야 AI 진전 공동 웨비나 개최 (4/19)
+제4세대원자력시스템포럼(GIF)과 IAEA가 4월 19일 공동 웨비나를 개최해 원자력 부문 AI 활용 현황을 점검했다. 원자로 설계·운전·연료주기 전반의 AI 적용과 원자력공학 교육 내 AI 교육 방안을 논의. IAEA AI 협력센터 소개 및 OECD-NEA의 첨단 연료사이클 AI 연구 동향 공유.
+- 출처: [GIF](https://www.gen-4.org/resources/webinars/gif-iaea-joint-webinar-artificial-intelligence-advances-nuclear-energy-sector)
+
+> 최종 업데이트: 2026-04-20
+
+---
+
 ## 2026-04-19 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 1건
