@@ -1,3 +1,34 @@
+## 2026-04-21 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 영국이 £13억을 투입해 핵융합 상용화 전략을 공개하고, STEP 프로토타입 2026-2030 로드맵을 발표했다.
+2. Kairos Power가 미국 최초 상업급 4세대 원자로(Hermes 2) 건설을 시작했다 — Google 데이터센터 전력 공급 예정.
+3. NVIDIA-INL '프로메테우스' 프로젝트가 AI로 원전 건설기간 절반 단축을 목표로 시작됐다.
+
+### 주요 뉴스 상세
+
+#### 🇬🇧 영국, £13억 핵융합 상용화 전략 발표
+2026 국가 핵융합 전략으로 £1.3B 투입. UKAEA STEP 로드맵(2026-2030) 공개. Tokamak Energy £7천만 자석시스템 계약.
+- 출처: [UK Gov](https://www.gov.uk/government/news/ukaea-unveils-2026-2030-fusion-roadmap)
+
+#### 🇺🇸 Kairos Power Hermes 2 착공
+테네시 Oak Ridge에 50MW 용융염원자로. NRC 최초 상업급 4세대 건설허가. Google 데이터센터 전력 공급 예정.
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/kairos-breaks-ground-for-hermes-2-reactor)
+
+#### 🤖 NVIDIA-INL '프로메테우스' — AI로 원전 건설 절반 단축
+원자력 전주기 AI 적용. DOE Genesis Mission 일환. Microsoft Azure 연계 디지털 생태계.
+- 출처: [Carbon Credits](https://carboncredits.com/nvidia-and-idaho-national-laboratory-launch-ai-project-to-cut-nuclear-build-time-in-half/)
+
+#### 🤖 Forbes: AI 원자력·핵의학 재편
+실시간 운영 데이터 분석으로 계획외 정지 50% 감소, 유지보수비 30% 절감. 핵의학 공급망·방사성의약품 개발에도 AI 확대.
+- 출처: [Forbes](https://www.forbes.com/councils/forbesbusinesscouncil/2026/04/10/how-ai-is-reshaping-nuclear-energy-and-nuclear-medicine/)
+
+#### 📄 논문: 토륨원자로 안전거버넌스 AI 시스템 (ResearchGate)
+딥 앙상블·XGBoost·Conformal Prediction 결합. 제약우선 프레임워크로 안전경계 보장.
+- 출처: [ResearchGate](https://www.researchgate.net/publication/400581370)
+
+---
+
 ## 2026-04-20 데일리 브리핑
 
 ### 오늘의 3줄 요약

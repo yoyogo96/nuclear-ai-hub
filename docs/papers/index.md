@@ -1,3 +1,17 @@
+# 2026-04-21 업데이트
+
+## [Intelligent Computational System for Constraint-First Governance of Subcritical Thorium-U233 Reactors](https://www.researchgate.net/publication/400581370) (ResearchGate/Thesis, 2026-02)
+- 저자: (학위논문)
+- 연도/학회(저널): 2026-02, 박사학위 논문
+- 한 줄 요약: 아임계 토륨-U233 원자로의 안전거버넌스를 위해 딥 앙상블 신경망·XGBoost 회귀기·Conformal Prediction을 결합한 지능형 계산시스템을 제안했다. 설계-운전 전 단계에서 불확실성 정량화와 이상탐지로 안전경계를 보장.
+
+### 핵심 기여
+1. 원자로 설계·운전 안전거버넌스를 위한 제약우선(constraint-first) AI 프레임워크 제안
+2. Conformal Prediction 기반 불확실성 정량화 및 분포 외(out-of-distribution) 탐지 실증
+3. 아임계 토륨 원자로의 안전 운전 영역 보장을 위한 다중 모델 앙상블 접근법
+
+---
+
 # 2026-04-20 업데이트
 
 ## [AI Arms and Influence: Frontier Models Exhibit Sophisticated Reasoning in Simulated Nuclear Crises](https://arxiv.org/abs/2602.14740) (arXiv, 2026-02)

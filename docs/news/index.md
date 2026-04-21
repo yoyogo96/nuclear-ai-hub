@@ -1,3 +1,31 @@
+## 2026-04-21 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇬🇧 영국, £13억 투입 핵융합 상용화 전략 공개 — STEP 프로토타입 2026-2030 로드맵 발표
+영국 정부가 2026 국가 핵융합 에너지 전략을 공개하고 £1.3B(약 2조 원)를 투입해 핵융합 과학에서 상용 배전으로 전환하겠다고 발표했다. UKAEA가 STEP(Spherical Tokamak for Energy Production) 프로토타입 발전소를 위한 2026-2030 로드맵을 발표했고, Tokamak Energy가 £7천만 규모 자석시스템 파트너 계약을 체결했다.
+- 출처: [UK Gov](https://www.gov.uk/government/news/ukaea-unveils-2026-2030-fusion-roadmap) / [World Nuclear News](https://world-nuclear-news.org/articles/uk-awards-gbp100-million-in-contracts-for-prototype-fusion-plant)
+
+#### 🇺🇸 Kairos Power, Hermes 2 원자로 착공 — 미국 최초 상업급 4세대 원자로 건설허가 취득
+Kairos Power가 테네시 Oak Ridge에 50MW 출력의 Hermes 2 용융염원자로 건설을 시작했다. 미 규제위(NRC)로부터 상업 규모 4세대 원자로로는 최초로 건설허가를 받은 것으로, 완공 시 Google 데이터센터에 전력을 공급할 예정이다.
+- 출처: [World Nuclear News](https://world-nuclear-news.org/articles/kairos-breaks-ground-for-hermes-2-reactor)
+
+### 원자력 AI 뉴스
+
+#### 🤖 NVIDIA-미국 아이다호국립연구소, '프로메테우스' 프로젝트 시작 — AI로 원전 건설기간 절반 단축 목표
+NVIDIA와 Idaho National Laboratory가 원자력 전주기(설계·인허가·건설·운전)에 AI를 적용하는 'Prometheus' 프로젝트를 시작했다. 원전 건설 기간을 최대 50% 단축하고 운영비용 절감을 목표로 하며, DOE Genesis Mission의 일환이다. Microsoft Azure와 연계한 디지털 생태계 구축도 병행 진행.
+- 출처: [Carbon Credits](https://carboncredits.com/nvidia-and-idaho-national-laboratory-launch-ai-project-to-cut-nuclear-build-time-in-half/) / [Microsoft Blog](https://www.microsoft.com/en-us/microsoft-cloud/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/)
+
+#### 🤖 Forbes: AI가 원자력·핵의학 운영을 근본적으로 재편 — 예지보전·실시간 최적화 실증
+Forbes 비즈니스 위원회 기고에서 AI가 원자력 발전소 운영 데이터를 실시간 분석해 미세한 이상 징후를 조기 감지하고 예지보전으로 계획외 정지를 최대 50% 줄이며 유지보수비를 30% 절감하는 사례를 정리했다. 핵의학 공급망 최적화와 방사성의약품 개발 가속화에도 AI 활용이 확대되고 있다.
+- 출처: [Forbes](https://www.forbes.com/councils/forbesbusinesscouncil/2026/04/10/how-ai-is-reshaping-nuclear-energy-and-nuclear-medicine/)
+
+> 최종 업데이트: 2026-04-21
+
+---
+
 ## 2026-04-20 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 1건
