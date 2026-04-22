@@ -1,3 +1,29 @@
+# 2026-04-22 업데이트
+
+## [Verification Methods for Deploying Trustworthy Large Language Model Systems in Nuclear Operations and Maintenance](https://www.ans.org/pubs/journals/nse/) (ANS Student Conference, 2026-04)
+- 저자: J. Clifford, X. Wu, A. Heifetz, D. Kultgen
+- 연도/학회(저널): 2026-04, ANS Student Conference (College Station, TX)
+- 한 줄 요약: 원자력 운전·유지보수 분야에 LLM 시스템을 배포하기 위한 검증 방법론을 제안했다. 신뢰성·안전성 확보를 위한 체계적 테스트 프레임워크를 제시하며, 규제 요건 충족을 위한 검증 절차를 포함한다.
+
+### 핵심 기여
+1. 원자력 운전·유지보수 대상 LLM 신뢰성 검증 프레임워크 제안
+2. 안전규제 요건을 충족하는 LLM 배포 검증 절차 체계화
+3. 핵시설 환경에서의 LLM 오작동 리스크 완화 방안 제시
+
+---
+
+## [CORA: GraphRAG/Neo4J-Powered Cognitive Operator Reactor Assistant](https://ne.ncsu.edu/artisans/publications/transactions/) (ANS Student Conference, 2026-04)
+- 저자: M. Miles, J. Clifford, J. Mikouchi-Lopez, J. Hou, X. Wu
+- 연도/학회(저널): 2026-04, ANS Student Conference (College Station, TX)
+- 한 줄 요약: GraphRAG와 Neo4J 그래프 데이터베이스를 결합한 원자로 인지 보조 시스템(CORA)을 개발했다. 운전원이 복잡한 원자로 상태를 실시간으로 이해하고 의사결정을 내릴 수 있도록 지원하는 AI 어시스턴트다.
+
+### 핵심 기여
+1. GraphRAG + Neo4J 기반 원자로 운전 보조 AI 시스템 설계
+2. 원자로 운전 데이터의 그래프 구조화 및 실시간 질의 응답 실증
+3. 운전원 의사결정 지원을 위한 인지 AI(cognitive AI) 적용 사례
+
+---
+
 # 2026-04-21 업데이트
 
 ## [Intelligent Computational System for Constraint-First Governance of Subcritical Thorium-U233 Reactors](https://www.researchgate.net/publication/400581370) (ResearchGate/Thesis, 2026-02)

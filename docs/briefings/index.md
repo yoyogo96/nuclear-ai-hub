@@ -1,3 +1,36 @@
+## 2026-04-22 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 아이오와 Duane Arnold 원전 재가동이 본격화 — NRC 공청회 개최, 운전원 훈련센터 개소, 2029 Q1 목표.
+2. Denham Sustainable-FANCO 전략적 파트너십으로 AI 데이터센터에 SMR+가스 병행 전력 공급 체계 구축.
+3. Fermilab이 MOAT/Osprey AI로 입자가속기 작업을 100배 가속화 — DOE Genesis Mission 핵심 성과.
+
+### 주요 뉴스 상세
+
+#### 🇺🇸 Duane Arnold 원전 재가동 본격화
+NRC가 4월 14일 공청회를 열어 Duane Arnold 원전 재가동 라이선스 검토 현황을 공유했다. 2020년 폐지된 이 원전은 2029년 Q1 재가동을 목표로 하며, Hiawatha에 임시 훈련센터가 개소해 약 100명의 운전원 양성에 착수했다. 25년간 90억 달러 이상의 경제효과 예상.
+
+#### 🇺🇸 First American Nuclear, EAGL-1 SMR 규제계획 NRC 제출
+FANCO가 고속스펙트럼 SMR 'EAGL-1'의 규제 협력계획을 NRC에 제출했다. 건설허가 신청의 사전 단계로, AI 데이터센터 수요에 대응하는 유틸리티급 원자로 개발이 본격화되고 있다.
+
+#### 🤖 Denham-FANCO, AI 데이터센터 통합 전력 솔루션 구축
+Denham Sustainable Infrastructure가 FANCO와 파트너십을 맺고, Gray Oak Power의 가스발전으로 즉시 전력을 공급하면서 장기적으로 EAGL-1 SMR로 전환하는 하이브리드 모델을 제시했다. AI 수요 급증에 대응하는 실용적 접근.
+
+#### 🤖 Fermilab, AI로 입자가속기 100배 가속화
+DOE Genesis Mission의 일환으로 Fermilab 주도 MOAT 프로젝트가 AI 에이전트 도구 Osprey를 통해 특정 과학 작업을 100배 가속화하는 데모를 완료했다. 가속기 단지 디지털 트윈 개발도 진행 중으로, 수십억 달러 규모 비용 절감이 기대된다.
+
+### 오늘의 논문
+
+#### 📄 Verification Methods for Deploying Trustworthy LLM Systems in Nuclear O&M
+원자력 운전·유지보수에 LLM을 안전하게 배포하기 위한 검증 방법론 제안. ANS Student Conference(4/16-18) 발표.
+
+#### 📄 CORA: GraphRAG/Neo4J-Powered Cognitive Operator Reactor Assistant
+GraphRAG + Neo4J 기반 원자로 운전원 보조 AI 시스템. 실시간 그래프 질의로 복잡한 원자로 상태 파악 지원. ANS Student Conference 발표.
+
+> 최종 업데이트: 2026-04-22
+
+---
+
 ## 2026-04-21 데일리 브리핑
 
 ### 오늘의 3줄 요약

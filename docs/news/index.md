@@ -1,3 +1,31 @@
+## 2026-04-22 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 Duane Arnold 원전 재가동 본격화 — NRC 공청회 개최, 운전원 훈련센터 개소
+미국 아이오와주 Duane Arnold 원전(폐지 2020년)의 재가동 절차가 본격화되고 있다. NRC가 4월 14일 공청회를 열어 라이선스 검토·검사 현황을 공유했고, 2029년 Q1 재가동을 목표로 2026-2027년 현장 검사가 예정되어 있다. Hiawatha에 임시 운전원 훈련센터가 개소해 약 100명의 면허 운전원 양성에 착수했다. 25년간 90억 달러 이상의 경제효과가 예상된다.
+- 출처: [ANS](https://www.ans.org/news/2026-04-16/article-7942/nrc-shares-duane-arnold-restart-progress-at-public-hearing/) / [Corridor Business](https://corridorbusiness.com/nrc-to-hold-public-meeting-april-14-on-duane-arnold-restart/)
+
+#### 🇺🇸 First American Nuclear, 고속스펙트럼 SMR 'EAGL-1' NRC 규제계획 제출
+First American Nuclear(FANCO)이 자체 개발 중인 고속스펙트럼 SMR 'EAGL-1'의 규제 협력계획(Regulatory Engagement Plan)을 NRC에 제출했다(4/15). 건설허가 신청을 위한 사전 단계로, 원자력 규제 프로세스의 효율화를 도모한다. FANCO는 비용 경쟁력 있는 유틸리티급 출력을 목표로 하고 있다.
+- 출처: [PR Newswire](https://www.prnewswire.com/news-releases/first-american-nuclear-submits-regulatory-engagement-plan-for-fast-spectrum-small-modular-reactor-smr-302743110.html) / [NEI Magazine](https://www.neimagazine.com/news/fancos-eagl-1-enters-review/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 Denham-FANCO 전략적 파트너십 — AI 데이터센터 전력 위해 SMR+가스 병행 공급 체계 구축
+Denham Sustainable Infrastructure가 First American Nuclear와 전략적 파트너십을 체결(4/21)해 AI·하이퍼스케일 데이터센터를 위한 통합 전력 솔루션을 구축한다. FANCO의 EAGL-1 SMR이 가동될 때까지 Denham 산하 Gray Oak Power가 현장 가스발전으로 즉각 전력을 공급하고, 장기적으로는 원자력으로 전환하는 로드맵이다.
+- 출처: [PR Newswire](https://www.prnewswire.com/news-releases/denham-sustainable-infrastructure-executes-strategic-partnership-agreement-with-first-american-nuclear-to-accelerate-power-solutions-for-ai-and-hyperscale-data-centers-302748012.html) / [JSA](https://www.jsa.net/gray-oak-power-and-denham-capital-launch-strategic-alliance-with-first-american-nuclear-to-accelerate-power-solutions-for-ai-and-hyperscale-data-centers/)
+
+#### 🤖 Fermilab, MOAT/Osprey AI로 입자가속기 혁신 추진 — DOE Genesis Mission 일환
+Fermilab이 DOE Genesis Mission의 일환으로 7개 국립연구소와 협력해 입자가속기 전주기에 AI를 적용하는 MOAT(Multi-Office particle Accelerator Team) 프로젝트를 추진 중이다. AI 에이전트 기반 Osprey 도구로 특정 과학 작업을 100배 가속화하는 데모를 완료했고, 각 가속기 단지의 디지털 트윈도 개발 중이다.
+- 출처: [Fermilab News](https://news.fnal.gov/2026/04/fermilab-researchers-develop-ai-tools-to-advance-the-future-of-particle-accelerators/)
+
+> 최종 업데이트: 2026-04-22
+
+---
+
 ## 2026-04-21 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건
