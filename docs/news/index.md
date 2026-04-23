@@ -1,3 +1,31 @@
+## 2026-04-23 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 Blue Energy, $3.8억(약 5,200억 원) 시리즈B 확보 — 공장제작 원전으로 AI 데이터센터 전력 공급 목표
+MIT 원자력공학 출신 스타트업 Blue Energy가 VXI Capital 주도로 $380M를 유치했다. 공장에서 프리패브 방식으로 원전 부품을 제조·조립해 기존 수십 년 배치기간을 최소 48개월로 단축하는 모델이다. NRC가 건설단계 재배열 접근을 승인받았으며, 초기에는 가스터빈으로 발전 후 원자력으로 전환하는 로드맵. 텍사스에 최대 1.5GW급 공장제작 원전 건설을 계획 중이다.
+- 출처: [TechFundingNews](https://techfundingnews.com/blue-energy-380m-funding-vxi-capital-factory-built-nuclear-plants/) / [Blue Energy](https://blueenergy.co/april-2026-financing/)
+
+#### 🇺🇸 EarthX 댈러스 컨퍼런스: AI 데이터센터 전력수요 급증에 원자력이 핵심 해법으로 부상
+텍사스 댈러스에서 열린 연례 EarthX 컨퍼런스에서 데이터센터 전력소비와 청정에너지가 주요 의제로 다뤄졌다. 전문가들은 AI 작업부하 증가로 인한 전력수요 급증에 원자력 발전이 필수적이라고 강조했으며, 텍사스주가 첨단 원자력 용량 확충을 추진 중이라고 밝혔다. 전 세계 데이터센터 전력수요는 2034년까지 4배 증가 전망.
+- 출처: [KERA News](https://www.keranews.org/news/2026-04-22/data-centers-clean-energy-earthx-conference-north-texas)
+
+### 원자력 AI 뉴스
+
+#### 🤖 OECD-NEA RegLab 프로젝트, 원전 운전에 AI 적용 결과 보고서 발간 — 설명가능성·안전견고 핵심 과제로
+OECD 원자력에너지기관(NEA)의 국제 규제실험실(RegLab) 프로젝트가 원전 운전 데이터 실시간 이상탐지 AI 적용 결과를 보고했다. AI의 안전여유 향상·이상 조기감지·운영비 절감 잠재력을 인정하면서도, 설명가능성 부족·심층방어 유지·데이터 품질보증이 핵심 과제라고 지적했다. 산업계 전반의 데이터 표준화와 독립적 검증 필요성을 강조.
+- 출처: [ANS](https://www.ans.org/news/article-7969/oecd-nea-project-gets-ahead-of-ai-use-in-nuclear-industry/) / [OECD-NEA](https://www.oecd-nea.org/jcms/pl_117030/international-reglab-project-reports-on-ai-use-in-nuclear-power-plant-operations)
+
+#### 🤖 SMR-데이터센터 스타트업 Fermi, CEO·CFO 동시 퇴사 — AI-원자력 융합 섹터에 '현실 점검' 경고
+SMR과 하이퍼스케일 데이터센터 결합을 목표로 한 스타트업 Fermi의 CEO와 CFO가 동시에 퇴사했다. 원자력-AI 융합 분야의 투자 리스크를 보여주는 사례로, 소프트웨어 벤처캐피털의 속도 중심 투자 문화와 원자력의 10년 단위 개발 주기 간 근본적 마찰이 원인으로 분석된다. 규제 복잡성과 자본 집약성에 대한 업계 전반의 재평가 촉발.
+- 출처: [Startup Fortune](https://startupfortune.com/the-sudden-dual-exit-of-fermis-ceo-and-cfo-exposes-the-fragility-of-the-ai-nuclear-power-sector/)
+
+> 최종 업데이트: 2026-04-23
+
+---
+
 ## 2026-04-22 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건

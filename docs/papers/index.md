@@ -1,3 +1,29 @@
+# 2026-04-23 업데이트
+
+## [Bridging Theory and Data: Correcting Nuclear Mass Models with Interpretable Machine Learning](https://arxiv.org/abs/2603.15203) (arXiv, 2026-03)
+- 저자: Jian Li et al.
+- 연도/학회(저널): 2026-03, arXiv (nucl-th)
+- 한 줄 요약: Kolmogorov-Arnold Network(KAN)을 원자질량 모델 보정에 도입해 RMS 오차를 0.3→0.16 MeV로 절반 가까이 줄이고, 양성자 수가 잔차에 가장 큰 영향을 미친다는 물리적 통찰을 도출했다.
+
+### 핵심 기여
+1. KAN-WS4 하이브리드 모델로 원자질량 예측 정확도 대폭 향상
+2. KAN의 해석가능성으로 기존 이론모델의 체계적 편향(양성자 관련 항) 식별
+3. 5개 질량모델에 대한 범용 적용성 실증
+
+---
+
+## [Linking Electromagnetic Moments to Nuclear Interactions with a Global Physics-Driven Machine-Learning Emulator](https://arxiv.org/abs/2603.26905) (arXiv, 2026-03)
+- 저자: Jose M. Munoz Arias et al.
+- 연도/학회(저널): 2026-03, arXiv (nucl-th, nucl-ex)
+- 한 줄 요약: 전자기 모멘트와 키랄 핵력 성분 간의 정량적 연관을 구축하는 물리 제약 ML 에뮬레이터를 개발했다. 기존 민감도 분석과 달리 상관관계를 고려하며, 측정 전망관측량의 중요도를 불확실성 정량화와 함께 예측한다.
+
+### 핵심 기여
+1. 전자기 모멘트↔키랄 핵력 성분 간 정량적 연결 구축 (물리 제약 에뮬레이터)
+2. 벌크 관측량과 달리 스핀·아이소스핀 영역을 탐색하는 보완적 민감도 발견
+3. 동위원소 의존적 민감도와 불확실성 정량화 예측 제공
+
+---
+
 # 2026-04-22 업데이트
 
 ## [Verification Methods for Deploying Trustworthy Large Language Model Systems in Nuclear Operations and Maintenance](https://www.ans.org/pubs/journals/nse/) (ANS Student Conference, 2026-04)
