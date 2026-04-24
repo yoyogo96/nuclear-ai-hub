@@ -1,3 +1,31 @@
+## 2026-04-24 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 DOE, "Nuclear Dominance — 3 by 33" 캠페인 공식 출범 — 2033년까지 국내 핵연료 공급망 자립 목표
+미국 에너지부(DOE)가 방위생산법(DPA) 핵연료주기 컨소시엄을 통해 "Nuclear Dominance — 3 by 33" 캠페인을 출범시켰다. 2033년까지 ①국내 핵연료 공급망 경쟁력 확보 ②고급원전 배포 가속 및 사용후핵연료 재활용 ③인력·금융·혁신 역량 결집이라는 3대 목표를 추진하며, 90여 개 기업이 참여하는 60일 단위 스프린트로 빠른 진행을 도모한다.
+- 출처: [DOE](https://www.energy.gov/ne/articles/department-energys-defense-production-act-consortium-unveils-new-initiative-grow) / [Mining.com](https://www.mining.com/us-department-of-energy-unveils-nuclear-dominance-3-by-33-campaign/)
+
+#### 🌍 체르노빌 40주년 맞은 원자력 글로벌 르네상스 — AI 전력수요·에너지안보가 원자력 부활 견인
+1986년 체르노빌 사고 40주년을 맞아 전 세계적으로 원자력이 강력한 부흥기를 맞고 있다. IEA 사무총장은 "아메리카·유럽·아시아 전역에서 원자력이 강력하게 복귀하고 있다"고 평가했으며, 400여 기 가동 중·70여 기 건설 중인 가운데 AI 데이터센터 전력수요와 에너지안보가 핵심 견인 요인으로 작용하고 있다.
+- 출처: [LA Times](https://www.latimes.com/business/story/2026-04-23/nuclear-energy-is-having-global-revival-40-years-after-chernobyl) / [WEF](https://www.weforum.org/stories/2026/04/nuclear-energy-crisis-strait-of-hormuz-wef-small-modular-reactor/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 Oklo-NVIDIA-LANL, 핵연료 검증 AI 협력 발표 — "원자력 구동 AI 공장" 실현 위한 3자 파트너십
+Oklo가 NVIDIA 및 로스앨러모스국립연구소(LANL)와 협력해 AI 기반 핵연료 검증 및 플루토늄 연료 R&D를 추진한다. 물리·화학 기반 AI 추론 모델로 핵연료 검증을 가속화하고, 전력 공급·계통 안정성 연구로 LANL 내 "원자력 구동 AI 공장" 구현을 목표로 한다. Oklo의 Pluto 원자로(DOE 원전파일럿프로그램)와 연계.
+- 출처: [Oklo](https://oklo.com/newsroom/news-details/2026/Oklo-NVIDIA-and-Los-Alamos-National-Laboratory-Collaborate-to-Advance-Nuclear-Fuel-Validation-at-Los-Alamos-in-Support-of-Nuclear-Powered-AI-Factories/default.aspx) / [HPCwire](https://www.hpcwire.com/aiwire/2026/04/23/oklo-nvidia-and-lanl-advance-nuclear-fuel-rd-and-ai-modeling-for-los-alamos-projects/)
+
+#### 🤖 Mawson Infrastructure, "Big Digital Energy"로 사명 변경 — AI·HPC 인프라에 원자력 활용 전략
+비트코인 채굴 기업 Mawson Infrastructure Group이 4/24부로 Big Digital Energy, Inc.로 사명을 변경했다. AI·고성능컴퓨팅·디지털자산 인프라에 집중하겠다는 전략이며, 원자력 등 탄소제로 에너지원으로 운영하겠다는 방침이다. Nasdaq 상장 유지를 위한 청문도 진행 예정.
+- 출처: [StockTitan](https://www.stocktitan.net/news/MIGI/mawson-infrastructure-group-inc-becomes-big-digital-energy-inc-h88dsny5tn6w.html) / [GlobeNewsWire](https://www.globenewswire.com/news-release/2026/04/23/3280391/0/en/mawson-infrastructure-group-inc-becomes-big-digital-energy-inc-receives-nasdaq-listing-determination-already-in-compliance-to-request-hearing.html)
+
+> 최종 업데이트: 2026-04-24
+
+---
+
 ## 2026-04-23 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건
