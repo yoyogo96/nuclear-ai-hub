@@ -1,3 +1,35 @@
+## 2026-04-25 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 TerraPower, Natrium 원전 건설 본격 착수 — 미국 최초 상업용 고급원전, 2030년 완공 목표
+빌 게이츠 의장의 TerraPower가 와이오밍주 Kemmerer에 Natrium 원전(Unit 1) 건설을 시작했다. 345MWe 나트륨 냉각 고속로+용융염 저장시스템으로 최대 500MWe 출력 가능하며, NRC가 근 10년 만에 최초로 상업로 건설허가를 승인했고 비경수로로는 40여 년 만이다. 2030년 완공 예정.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/terrapower-starts-construction-of-first-us-utility-scale-advanced-nuclear-plant)
+
+#### 🇺🇸 X-Energy, Amazon 백업으로 $10.2억 IPO 성공 — SMR 조기 상용화 가속
+Amazon.com이 지원하는 원자력 기업 X-Energy가 4,430만 주를 $23에 판매해 $10.2억(약 1.4조 원)를 유치했다. SMR(소형모듈원전) 분야 최대 규모 IPO이며, 2030년대 초 첫 SMR 납품을 목표로 한다. 원자력 투자 르네상스를 보여주는 신호.
+- 출처: [Advisor Perspectives](https://www.advisorperspectives.com/articles/2026/04/24/amazon-backed-x-energy-raises-1-02-billion-ipo)
+
+#### 🇰🇷 경주·기장군, 한국 첫 SMR 유치 경쟁 본격화 — 2035년 완공·0.7GW 목표
+한국 지자체들이 국내 첫 SMR 사업 유치에 나섰다. 경주시와 기장군이 유력 후보로, 2035년까지 0.7GW급 SMR 완공을 목표로 한다. 정부의 SMR 특별법 시행에 발맞춰 범부처 컨트롤타워 구축과 기본계획 수립이 진행 중이며, 수조 원 규모의 경제적 파급효과가 기대된다.
+- 출처: [JoongAng Daily](https://koreajoongangdaily.joins.com/news/2026-04-25/business/industry/Local-governments-compete-to-host-Koreas-first-SMR-expect-trillions-of-won-in-economic-value/2577211)
+
+### 원자력 AI 뉴스
+
+#### 🤖 2026 한국원자력연차대회+PBNC, "AI 시대를 여는 원자력" 주제로 부산 개최 — 한전KDN·한수원 AI 기술 대거 공개
+4/22~24 부산 벡스코에서 열린 2026 한국원자력연차대회와 제25차 PBNC가 "AI 시대를 여는 원자력"을 주제로 개최됐다. 한전KDN은 피지컬 AI 적용 양팔 매니퓰레이터(고전압 활선작업)·4족보행로봇 무인감시진단시스템을 선보였고, 한수원은 APR1400 디지털트윈 운영 플랫폼·AX 전환 기술을 공개했다. IEA는 2030년 AI 관련 전력소비가 945TWh에 달할 것으로 전망.
+- 출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260422070000051) / [뉴스1](https://www.news1.kr/it-science/general-science/6145125)
+
+#### 🤖 ČEZ-Rolls-Royce SMR, 체코 첫 소형원전 준비 착수 — Temelín 원전 부지에 2030년 승인 목표
+체코 전력공사 ČEZ가 Rolls-Royce SMR와 사전작업 협약을 체결했다. 기존 Temelín 원전 부지에 체코 첫 SMR 건설을 목표로 2030년까지 모든 승인을 확보할 계획이다. 영국 Great British Energy–Nuclear의 Rolls-Royce SMR 설계계약에 이은 유럽 SMR 확산의 일환.
+- 출처: [WSLS](https://www.wsls.com/business/2026/04/24/czech-power-company-cez-signs-deal-with-rolls-royce-smr-to-prepare-for-first-small-nuclear-reactor/)
+
+> 최종 업데이트: 2026-04-25
+
+---
+
 ## 2026-04-24 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건

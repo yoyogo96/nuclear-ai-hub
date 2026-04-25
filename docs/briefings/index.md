@@ -1,3 +1,21 @@
+## 2026-04-25 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. TerraPower Natrium 원전 건설 착수 — 미국 근 10년 만에 최초 상업로, 비경수로로는 40여 년 만.
+2. 한국 원자력연차대회 "AI 시대를 여는 원자력" — 한전KDN 피지컬 AI 로봇·한수원 디지털트윈 공개.
+3. X-Energy $10.2억 IPO — Amazon 백업 SMR 기업, 원자력 투자 르네상스 시그널.
+
+### 주요 뉴스 키워드
+Natrium 건설착수, SMR 유치경쟁, X-Energy IPO, 피지컬 AI 원전적용, 디지털트윈, PBNC 부산
+
+### 관련 링크
+- [TerraPower Natrium (WNN)](https://www.world-nuclear-news.org/articles/terrapower-starts-construction-of-first-us-utility-scale-advanced-nuclear-plant)
+- [한국원자력연차대회 (연합뉴스)](https://www.yna.co.kr/view/AKR20260422070000051)
+- [X-Energy IPO (AdvisorPerspectives)](https://www.advisorperspectives.com/articles/2026/04/24/amazon-backed-x-energy-raises-1-02-billion-ipo)
+- [한국 SMR 유치경쟁 (JoongAng)](https://koreajoongangdaily.joins.com/news/2026-04-25/business/industry/Local-governments-compete-to-host-Koreas-first-SMR-expect-trillions-of-won-in-economic-value/2577211)
+
+---
+
 ## 2026-04-24 데일리 브리핑
 
 ### 오늘의 3줄 요약
