@@ -1,3 +1,20 @@
+## 2026-04-26 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. Orano USA가 NABTU와 $50억 Project IKE 우라늄 농축시설 건설 MOU를 체결해 미국 내 핵연료 공급망 자립이 본격화했다.
+2. 중국이 최대 50기 원전 동시 건설 역량을 공식 확인하며, 설비용량 125GW 세계 1위·2030년 원전 강국 목표를 재확인했다.
+3. PNNL이 DOE 제네시스 미션 일환으로 자체 AI 데이터센터 건설을 검토하며, 원자력 재료 분석·핵안보 AI 적용이 확대되고 있다.
+
+### 주요 뉴스 키워드
+Orano Project IKE, 우라늄 농축 자립, 중국 50기 동시건설, PNNL AI 데이터센터, 제네시스 미션, 체르노빌 40주년
+
+### 관련 링크
+- [Orano Project IKE MOU (ANS)](https://www.ans.org/news/article-7977/orano-signs-mou-with-trade-union-for-project-ike-construction/)
+- [중국 50기 동시건설 (The Hindu)](https://www.thehindu.com/news/international/china-acquired-capacity-to-build-50-nuclear-power-reactors-simultaneously-official-report/article70904311.ece)
+- [PNNL 제네시스 미션 (PNNL)](https://www.pnnl.gov/news-media/pnnl-powers-biotechnology-grid-operations-nuclear-science-through-genesis-ai-science)
+
+---
+
 ## 2026-04-25 데일리 브리핑
 
 ### 오늘의 3줄 요약

@@ -1,3 +1,27 @@
+## 2026-04-26 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 1건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 Orano USA-NABTU, Project IKE $50억 우라늄 농축시설 건설 MOU 체결 — 미국 내 농축 자립·러시아 의존 탈피 가속
+Orano USA가 북미건축노동조합연합(NABTU)과 $50억 규모 Project IKE 원심분리 우라늄 농축시설 건설을 위한 MOU를 체결했다(4/22). 테네시 Oak Ridge에 연간 740만 SWU 생산 능력으로 최대 10% 농축까지 가능하며, 건설 단계에서 1,000개 이상 일자리 창출이 예상된다. DOE $9억 지원에 이은 노동-산업 협력으로, 러시아 농축우라늄 수입 금지(2027년 말 완전 시행) 대비 국내 공급망 구축이 본격화되고 있다.
+- 출처: [Orano USA](https://www.orano.group/usa/en/our-news/news-releases/2026/orano-usa-and-nabtu-sign-memorandum-of-understanding-to-support-construction-of-project-ike-uranium-enrichment-facility) / [ANS](https://www.ans.org/news/article-7977/orano-signs-mou-with-trade-union-for-project-ike-construction/)
+
+#### 🇨🇳 중국, 50기 원전 동시 건설 역량 확보 — 원전 설비용량 125GW로 세계 1위, 2030년 강국 목표
+중국이 공식 보고서에서 최대 50기 원자로를 동시에 건설할 수 있는 역량을 확보했다고 밝혔다. 현재 약 60~62기 상업 원전 가동 중, 36기 건설 중, 16기 건설 승인 대기로 총 100기 이상 파이프라인을 보유하고 있다. 설비용량 125GW로 세계 1위이며, 15차 5개년 계획(2026-2030)에서 110GWe 목표, 2040년까지 200GW 달성을 추진 중이다.
+- 출처: [The Hindu](https://www.thehindu.com/news/international/china-acquired-capacity-to-build-50-nuclear-power-reactors-simultaneously-official-report/article70904311.ece) / [SCMP](https://www.scmp.com/economy/china-economy/article/3350847/chinas-vast-nuclear-power-sector-now-able-build-50-reactors-time)
+
+### 원자력 AI 뉴스
+
+#### 🤖 PNNL, DOE 제네시스 미션 일환으로 AI 데이터센터 건설 검토 — 원자력·핵안보 AI 적용 확대
+태평양북서국립연구소(PNNL)가 DOE 제네시스 미션의 핵심 참여기관으로서, 2028년 가동 목표로 자체 AI 데이터센터 건설을 검토 중이다(4/24 보도). 원자력 재료 AI 분석·핵무기 안전성 확보 등 국가안보 임무를 위한 보안 등급 LLM 학습·운영이 목적이며, 제네시스 미션의 'Models' 핵심 공동리더로 돌파적 AI 모델(ModCon) 개발도 추진 중이다. 지속가능 에너지로 원자력·태양광 온사이트 활용도 검토.
+- 출처: [PNNL](https://www.pnnl.gov/news-media/pnnl-powers-biotechnology-grid-operations-nuclear-science-through-genesis-ai-science) / [Tri-City Herald](https://www.tri-cityherald.com)
+
+> 최종 업데이트: 2026-04-26
+
+---
+
 ## 2026-04-25 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 2건
