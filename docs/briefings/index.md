@@ -1,3 +1,21 @@
+## 2026-04-27 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 자포리자 원전이 15번째 외부전력 상실 사태를 겪고 체르노빌 40주년에 젤렌스키가 "핵테러" 규탄에 나서는 등 우크라이나 전쟁의 핵안전 리스크가 다시 최고조에 달했다.
+2. 한수원이 생성형 AI 플랫폼 '하이누리'로 1,680억 원 규모 발전손실을 예방하며 원전 운영 분야 세계 최초 LLM 적용 사례를 기록했다.
+3. Cameco-인도 $26억 우라늄 공급 계약으로 글로벌 핵연료 공급망 확대가 이어지고, 한국원자력연이 4/30 사업화 설명회에서 원자력·AI 융합 기술 55개를 공개할 예정이다.
+
+### 주요 뉴스 키워드
+자포리자 15번째 정전, 체르노빌 40주년, 한수원 하이누리 AI, Cameco-인도 우라늄, 원자력연 사업화설명회
+
+### 관련 링크
+- [자포리자 15번째 정전 (RBC Ukraine)](https://newsukraine.rbc.ua/news/zaporizhzhia-nuclear-power-plant-hit-by-15th-1777240355.html)
+- [한수원 AI 하이누리 (Korea Daily)](https://www.koreadaily.com/article/20260426133043225)
+- [Cameco-인도 우라늄 계약 (CKRM)](https://www.620ckrm.com/2026/04/26/cameco-ceo-bullish-on-uranium-nuclear-future-at-global-summit/)
+- [원자력연 사업화 설명회 (ZDNet)](https://zdnet.co.kr/view/?no=20260427090531)
+
+---
+
 ## 2026-04-26 데일리 브리핑
 
 ### 오늘의 3줄 요약

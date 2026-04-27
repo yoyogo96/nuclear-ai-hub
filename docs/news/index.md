@@ -1,3 +1,35 @@
+## 2026-04-27 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇦 자포리자 원전 15번째 외부전력 상실 사태 — 19대 비상디제발전기 1.5시간 가동
+우크라이나 자포리자 원전이 4/26 페로알로이-1 송전선 단절로 접속 이후 15번째 블랙아웃을 겪었다. 19대 비상디제발전기가 약 1.5시간 가동하며 핵안전 기능을 유지했으나, 러시아 점령 하 원전의 지속적인 전력 공급 취약성이 다시 부각됐다. IAEA 그로시 사무총장은 체르노빌 보호구조물 수리에 최소 €5억이 필요하다고 밝혔다.
+- 출처: [RBC Ukraine](https://newsukraine.rbc.ua/news/zaporizhzhia-nuclear-power-plant-hit-by-15th-1777240355.html) / [Eurasia Review](https://www.eurasiareview.com/27042026-ukraines-president-accuses-russia-of-nuclear-terrorism-on-chernobyl-anniverary/)
+
+#### 🇺🇦 체르노빌 40주년, 젤렌스키 "러시아 핵테러" 규탄 — IAEA "NSC 수리비 최소 €5억"
+체르노빌 사고 40주년을 맞아 젤렌스키 대통령이 러시아의 드론 공격과 핵시설 위협을 "핵테러"로 규탄했다. IAEA 그로시 사무총장은 신형차폐구조물(NSC) 영구 손상 방지를 위해 최소 €5억 수리비가 필요하다고 경고했다. 2025년 2월 드론 공격으로 NSC 지붕 손상.
+- 출처: [PBS](https://www.pbs.org/newshour/world/more-countries-are-turning-to-nuclear-power-40-years-after-the-chernobyl-disaster) / [News4Jax](https://www.news4jax.com/news/2026/04/26/at-least-16-dead-in-strikes-as-chernobyl-anniversary-highlights-nuclear-risks-of-russia-ukraine-war/)
+
+#### 🇨🇦 Cameco, 인도에 9년간 $26억 우라늄 공급 계약 — 2,200만 파운드 납품
+캐나다 우라늄 생산사 Cameco가 인도와 9년간 2,200만 파운드 우라늄을 공급하는 $26억 계약을 체결했다. 2026년 3월 서명으로 인도의 원전 확대에 따른 우라늄 수요 충족과 캐나다-인도 원자력 협력 강화를 의미한다.
+- 출처: [620 CKRM](https://www.620ckrm.com/2026/04/26/cameco-ceo-bullish-on-uranium-nuclear-future-at-global-summit/) / [World Nuclear News](https://world-nuclear.org/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 한수원, 생성형 AI 플랫폼 '하이누리'로 1,680억 원 발전손실 예방 — 원전 운영 세계 최초 LLM 적용
+한국수력원자력이 네이버클라우드 하이퍼클로바X 기반 생성형 AI 플랫폼 '하이누리(Hy-NuRI)'를 원전 운영에 적용해 약 1,680억 원 규모의 발전 손실을 예방했다. 사내망에 RAG 기반 AI를 구축해 이상 징후 실시간 탐지·대응 체계를 가동 중이며, 원자력 발전소 운영·관리 분야에 초거대 생성형 AI를 적용한 세계 최초 사례다.
+- 출처: [Korea Daily](https://www.koreadaily.com/article/20260426133043225) / [국민일보](https://www.kmib.co.kr/article/view.asp?arcid=1776844083)
+
+#### 🤖 한국원자력연, 4/30 사업화 유망기술 55개 설명회 — 원자력·AI·SW·로봇 등 융합 기술 대거 공개
+한국원자력연구원이 4/30 서울에서 제11회 사업화 유망기술 설명회를 개최한다. 원자력·AI·SW·반도체·로봇·이차전지 등 55개 기술을 소개하며, 원자력 기반으로 개발된 범용 기술의 다양한 산업 적용 가능성을 제시한다.
+- 출처: [ZDNet Korea](https://zdnet.co.kr/view/?no=20260427090531)
+
+> 최종 업데이트: 2026-04-27
+
+---
+
 ## 2026-04-26 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 1건
