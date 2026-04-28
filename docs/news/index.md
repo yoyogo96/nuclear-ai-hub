@@ -1,3 +1,35 @@
+## 2026-04-28 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 NRC, 마이크로원전(Part 57) 전용 규제프레임워크 도입 — 100MWe 이하, 6~12개월 허가 목표
+미국 원자력규제위원회(NRC)가 마이크로원전(100MWe 이하)을 위한 새 규제프레임워크 Part 57을 발표했다. 동일 설계 함대 승인, 대체 설계기준 허용, 환경영향 검토 간소화, 허가 전 제한적 착공 경로 등을 포함하며, 업계-기관에 $37.6~118.4억 절감 효과가 예상된다. 5/6 Federal Register 게재 예정.
+- 출처: [ANS](https://www.ans.org/news/2026-04-27/article-7981/nrc-introduces-microreactor-regulatory-framework/) / [NRC](https://www.nrc.gov)
+
+#### 🇺🇳 NPT 11차 심의회 개막 — 미국-이란 핵프로그램 충돌, 비확산 체제 "가장 도전적 시기"
+유엔 본부에서 핵확산방지조약(NPT) 제11차 심의회가 4/27~5/22 개최됐다. 개막 직후 미국과 이란이 이란 핵프로그램 문제로 충돌했으며, 의장은 "비확산 체제가 가장 어려운 시기"라고 밝혔다. 이란은 호르무즈 해협 재개방 제안과 함께 핵 협상 연기를 시사했으나, 미국은 영구적 핵해체를 요구하며 교착 상태다.
+- 출처: [The Hindu](https://www.thehindu.com/news/international/us-iran-clash-over-tehrans-nuclear-programme-as-review-of-atomic-treaty-begins-at-un/article70913989.ece) / [AP News](https://apnews.com/article/iran-un-nuclear-nonproliferation-treaty-us-2dee996cbaec872604baabc4cbd3f4df)
+
+#### 🇺🇦 우크라이나, 2050 에너지 전략에서 원자력을 전력 생산 최소 50% 비중으로 설정
+우크라이나가 2050년 에너지 발전 전략에서 원자력을 전력 생산의 중추로 규정하고 최소 절반 이상을 원전이 차지하도록 했다. 기존 원전 증설과 신규 기건설을 포함하며, 전후 재건과 에너지 자립을 동시에 겨냥한다.
+- 출처: [Sightline U3O8](https://sightlineu3o8.com/2026/04/nuclear-energy-to-remain-backbone-of-ukraines-power-generation-shmyhal/) / [Enerdata](https://www.enerdata.net)
+
+### 원자력 AI 뉴스
+
+#### 🤖 Forbes, "AI가 원전을 짓는 속도를 높이다" — Everstar·Aalo Atomics 등 AI 허가 자동화로 92% 단축
+Forbes(4/27)가 AI 도구가 원전 건설 속도를 어떻게 높이는지 분석했다. Aalo Atomics는 Microsoft Azure 생성형 AI로 허가 기간을 4년→4개월로 92% 단축, 연간 $8,000만 절감을 전망한다. Everstar는 표준화된 설계·계열 생산·공급망·인력 양성을 위한 AI 플랫폼을 개발 중이다. IPCC 보고서가 온도 상승 2도 이내 목표에 원자력 필수를 명시한 가운데, AI가 수요 창출과 공급 가속을 동시에 견인하는 구조다.
+- 출처: [Forbes](https://www.forbes.com/sites/annabroughel/2026/04/27/building-ai-that-speaks-nuclear/) / [Microsoft Customer Story](https://www.microsoft.com/en/customers/story/26266-aalo-atomics-azure)
+
+#### 🤖 DOE 제네시스 미션 $2.93억 RFA 마감 — 원자력·AI 융합 국가과제에 학제간 팀 참여
+미국 에너지부(DOE) 제네시스 미션의 Phase I 신청 마감일(4/28)이 도래했다. AI 모델·프레임워크로 국가 과제(원자력 포함)를 해결하는 학제간 팀에 총 $2.93억 자금을 지원하며, 원자력 연료 검증·디지털트윈·시뮬레이션 등에 AI를 적용하는 프로젝트가 포함된다.
+- 출처: [DOE](https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science)
+
+> 최종 업데이트: 2026-04-28
+
+---
+
 ## 2026-04-27 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 2건

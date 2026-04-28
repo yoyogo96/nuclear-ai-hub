@@ -1,3 +1,22 @@
+## 2026-04-28 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. NRC가 마이크로원전 전용 규제프레임워크 Part 57을 도입, 100MWe 이하 설계에 대해 6~12개월 허가로 대폭 간소화했다.
+2. Forbes가 "AI가 원전을 짓는 속도를 높이다" 분석 — Aalo Atomics는 허가 기간 92% 단축, Everstar는 표준화 AI 플랫폼 개발 중.
+3. NPT 11차 심의회 개막에서 미국-이란 핵프로그램 충돌, 우크라이나는 2050년까지 전력 최소 50%를 원자력으로 설정.
+
+### 주요 뉴스 키워드
+NRC Part 57, 마이크로원전, AI 원전건설, Aalo Atomics, NPT 심의회, 미국-이란, 우크라이나 원자력, 제네시스 미션
+
+### 관련 링크
+- [NRC Part 57 (ANS)](https://www.ans.org/news/2026-04-27/article-7981/nrc-introduces-microreactor-regulatory-framework/)
+- [AI+원전 건설 (Forbes)](https://www.forbes.com/sites/annabroughel/2026/04/27/building-ai-that-speaks-nuclear/)
+- [NPT 미국-이란 충돌 (The Hindu)](https://www.thehindu.com/news/international/us-iran-clash-over-tehrans-nuclear-programme-as-review-of-atomic-treaty-begins-at-un/article70913989.ece)
+- [우크라이나 원자력 전략 (Sightline)](https://sightlineu3o8.com/2026/04/nuclear-energy-to-remain-backbone-of-ukraines-power-generation-shmyhal/)
+- [DOE 제네시스 미션 (DOE)](https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science)
+
+---
+
 ## 2026-04-27 데일리 브리핑
 
 ### 오늘의 3줄 요약

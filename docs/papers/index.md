@@ -1,3 +1,17 @@
+# 2026-04-28 업데이트
+
+## [Machine Learning Insights into Discrepancies Between Theoretical and Experimental Fission Barrier Heights](https://arxiv.org/abs/2604.16996) (arXiv, 2026-04)
+- 저자: (arXiv:2604.16996)
+- 연도/학회(저널): 2026-04, arXiv (nucl-th, cs.LG)
+- 한 줄 요약: XGBoost 잔차학습 프레임워크로 ETFSI 등 기존 핵분열 장벽 높이 이론예측의 체계적 오차를 분석했다. 결합에너지·중성자수·페어링 항 등 물리적 특징의 중요도를 해석해 내부/외부 장벽의 오차 패턴을 규명.
+
+### 핵심 기여
+1. XGBoost 잔차학습으로 ETFSI/Möller 핵분열 장벽 예측 보정 (RMSE 0.3~1.2 MeV)
+2. 특징 중요도 분석으로 내부 장벽은 결합에너지·질량수, 외부 장벽은 쉘 효과 의존 규명
+3. ML을 진단도구로 활용해 이론모델의 체계적 편향 물리적 해석 제공
+
+---
+
 # 2026-04-27 업데이트
 
 - 지난 24시간 기준으로 arXiv 및 주요 학술 소스를 재확인했지만, 기존 반영본과 중복되지 않는 원자력+인공지능 핵심 신규 논문/프리프린트는 확인되지 않았습니다.
