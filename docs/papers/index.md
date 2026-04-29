@@ -1,3 +1,29 @@
+# 2026-04-29 업데이트
+
+## [JetPrism: Diagnosing Convergence for Generative Simulation and Inverse Problems in Nuclear Physics](https://arxiv.org/abs/2604.1313) (arXiv, 2026-04)
+- 저자: Zeyu Xia, Tyler Kim, Trevor Reed, Judy Fox, Geoffrey Fox, Adam Szczepaniak
+- 연도/학회(저널): 2026-04, arXiv (nucl-ex, cs.LG)
+- 한 줄 요약: 핵물리 생성형 시뮬레이션과 역문제에서 모델 수렴을 진단하는 JetPrism 프레임워크를 제안했다. 생성모델 기반 입자물리 시뮬레이션의 품질 보증에 활용 가능.
+
+### 핵심 기여
+1. 생성형 시뮬레이션 수렴 진단을 위한 JetPrism 시각화/지표 프레임워크 제안
+2. 핵물리 역문제(inverse problems)에서 모델 검증 방법론 체계화
+3. 입자물리 제트 분석에 ML 생성모델 적용 시 신뢰성 평가 도구 제공
+
+---
+
+## [Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider](https://arxiv.org/abs/2604.2259) (arXiv, 2026-04)
+- 저자: Tina J. Jat, T. Ghosh, Karthik Suresh
+- 연도/학회(저널): 2026-04, arXiv (hep-ex, cs.AI)
+- 한 줄 요약: 전자-이온 충돌기(EIC) 관련 과학 문헌에 RAG(검색증강생성) 기반 질의응답 시스템을 구축했다. 핵·입자물리 논문 검색과 지식 추출을 AI로 자동화.
+
+### 핵심 기여
+1. EIC 도메인 특화 RAG 파이프라인 구축 및 평가
+2. 과학 문헌 기반 질의응답에서 도메인 특화 검색 전략 설계
+3. 핵·입자물리 연구자를 위한 AI 보조 문헌 탐색 도구 실증
+
+---
+
 # 2026-04-28 업데이트
 
 ## [Machine Learning Insights into Discrepancies Between Theoretical and Experimental Fission Barrier Heights](https://arxiv.org/abs/2604.16996) (arXiv, 2026-04)

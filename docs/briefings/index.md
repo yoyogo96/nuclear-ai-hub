@@ -1,3 +1,21 @@
+## 2026-04-29 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. NRC Part 53 최종규제가 4/29부로 공식 발효 — 차세대 원전의 위험기반 성능접근 허가 패러다임이 본격 시동했다.
+2. TerraPower가 美 첫 상업용 첨단원전 Natrium 착공, DOE는 AI로 원전 허가문서를 하루 만에 변환하는 실증에 성공했다.
+3. 미 하원에서 "AI and the Grid" 청문회 개최 — AI 전력수요 폭증에 원자력이 기반 전력원으로 공식 논의됐다.
+
+### 주요 뉴스 키워드
+NRC Part 53 발효, TerraPower Natrium 착공, Nuclear Launch Pad, AI and the Grid 청문회, DOE AI 허가자동화, Blue Energy
+
+### 관련 링크
+- [TerraPower Natrium 착공 (WNN)](https://www.world-nuclear-news.org/articles/terrapower-starts-construction-of-first-us-utility-scale-advanced-nuclear-plant)
+- [DOE Nuclear Launch Pad (ANS)](https://www.ans.org/news/2026-04-28/article-7988/doe-selects-first-companies-for-nuclear-launch-pad/)
+- [DOE AI 허가자동화 (DOE)](https://www.energy.gov/ne/articles/department-energy-unleashes-ai-reduce-reactor-licensing-timelines)
+- [하원 AI and the Grid 청문회](https://energycommerce.house.gov/)
+
+---
+
 ## 2026-04-28 데일리 브리핑
 
 ### 오늘의 3줄 요약

@@ -1,3 +1,32 @@
+## 2026-04-29 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 NRC Part 53 최종규제 발효 — 차세대 원전 허가 패러다임 전환, 위험기반 성능접근 공식화
+미국 원자력규제위원회(NRC)의 차세대 원전용 규제 Part 53이 4/29부로 공식 발효됐다. 기존 결정론적 접근에서 위험정보화·성능기반 접근으로 전환되며, 소형모듈원전(SMR)·마이크로원전 등 첨단원전의 허가를 가속화하는 핵심 제도적 기반이다. 앞서 발표된 Part 57(마이크로원전)과 함께 원전 상용화 레귤레이션의 혁신적 재설계가 완성됐다.
+- 출처: [ANS](https://www.ans.org/news/2026-04-28/article-7988/doe-selects-first-companies-for-nuclear-launch-pad/) / [NRC](https://www.nrc.gov)
+
+#### 🇺🇸 TerraPower, 美 첫 상업용 첨단원전 Natrium 착공 — 345MWe 고속로+용융염 저장, 2030년 목표
+빌 게이츠가 공동창업한 TerraPower가 와이오밍주 케머러에 첫 Natrium 원전 착공을 시작했다. 345MWe 나트륨냉각 고속로에 용융염 에너지저장을 결합해 최대 500MWe까지 출력 증설 가능하다. 지난 3월 NRC 건설허가 취득 후 약 40년 만의 비경수로 상업건설이며, Meta가 2035년까지 최대 8기를 지원하기로 파트너십을 체결했다.
+- 출처: [WNN](https://www.world-nuclear-news.org/articles/terrapower-starts-construction-of-first-us-utility-scale-advanced-nuclear-plant) / [ANS](https://www.ans.org)
+
+#### 🇺🇸 DOE, Nuclear Launch Pad 첫 4개사 선정 — 마이크로원전·연료공급 혁신기업 대상
+미국 에너지부(DOE)와 국가원전혁신센터(NRIC)가 Nuclear Launch Pad 프로그램 첫 참여기업 4곳을 발표했다. Deployable Energy, General Matter, NuCube Energy, Radiant Industries가 선정됐으며, 마이크로원전(20MW 이하) 개발과 원전 연료공급망 혁신에 집중한다. AI 데이터센터·원격지·군사기지 전원 등 다양한 용도를 겨냥한다.
+- 출처: [ANS](https://www.ans.org/news/2026-04-28/article-7988/doe-selects-first-companies-for-nuclear-launch-pad/) / [DOE](https://www.energy.gov/ne)
+
+### 원자력 AI 뉴스
+
+#### 🤖 미 하원 청문회 "AI and the Grid" 개최 — AI 전력수요 급증과 원자력 대응 논의
+미 하원 에너지·상거래 위원회 산하 에너지소위가 4/29 "AI and the Grid: Meeting Growing Power Demand While Protecting Ratepayers" 청문회를 개최했다. AI 데이터센터 전력수요 폭증에 대응한 전력망 확충과 원자력·청정에너지 역할, 요금보호 방안이 주요 의제다. 원자력이 AI 인프라의 기반 전력원으로 자리잡는 추세가 연방 차원에서 공식 논의됐다.
+- 출처: [House Energy & Commerce](https://energycommerce.house.gov/)
+
+#### 🤖 DOE, AI로 원전 안전분석→NRC 허가문서 변환 하루 완성 시연 — 기존 수주 소요를 1일로 단축
+미국 에너지부(DOE)가 국가연구소·Microsoft·Everstar와 협력해 AI로 원전 안전분석 보고서를 NRC 허가문서로 변환하는 데 성공했다. 기존 수주가 소요되던 작업을 단 하루 만에 완성했으며, 원전 기술 허가 타임라인을 획기적으로 단축하는 실증 사례다. 원자력+AI 융합이 허가 자동화에서 가시적 성과를 보이고 있다.
+- 출처: [DOE](https://www.energy.gov/ne/articles/department-energy-unleashes-ai-reduce-reactor-licensing-timelines)
+
+> 최종 업데이트: 2026-04-29
 ## 2026-04-28 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 2건
