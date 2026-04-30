@@ -1,3 +1,29 @@
+## 2026-04-30 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 X-Energy, Amazon 지원 SMR 기업으로 $10억 IPO 성공 — AI 데이터센터 전원 수요에 원자력 투자 급증
+Amazon이 지원하는 X-Energy가 $10.2억(약 1,400억원) 규모의 IPO를 성공적으로 완료했다. 고온가스로(HTGR) 기반 Xe-100 SMR 설계를 보유한 기업으로, AI 데이터센터 폭증하는 전력 수요를 맞추기 위해 원자력이 핵심 해법으로 부상하는 가운데 투자자 신뢰를 입증했다. AI 시대 원자력 상용화 경쟁이 자본시장에서도 본격화되고 있다.
+- 출처: [CarbonCredits](https://carboncredits.com/amazon-backed-x-energy-pulls-off-1b-nuclear-ipo-as-ai-power-race-heats-up/) / [Yahoo Finance](https://finance.yahoo.com/)
+
+#### 🇺🇸 유타대 TRIGA 연구로, AI 미니 데이터센터 전원 실증 착수 — 마이크로원전+AI 인프라 개념증명
+유타대학교 연구용 원자로(TRIGA)가 AI 미니 데이터센터 전력 공급 실증을 시작했다. 마이크로원전(20MW 이하)이 AI 인프라를 직접 구동하는 개념증명(proof-of-concept)으로, 전력망 연결 없이 원전-데이터센터 일체형 운영의 가능성을 검증한다. 성공 시 전규모 데이터센터에 마이크로원전 적용 확대가 기대된다.
+- 출처: [WNN](https://world-nuclear-news.org/articles/us-research-reactor-first-to-produce-electricity)
+
+### 원자력 AI 뉴스
+
+#### 🤖 Oklo·Nvidia·Los Alamos, "AI 팩토리"용 원전 연료검증 협력 — 원자력+AI+국가연구소 3각 파트너십
+Oklo(첨단원전), Nvidia(AI), Los Alamos 국립연구소가 합작으로 원전 연료 검증(fuel validation)을 위한 협력을 발표했다. 'AI 팩토리'(대규모 AI 전용 컴퓨팅 인프라)를 원자력으로 구동하기 위한 핵심 기술 검증이며, 첨단원전·AI모델·국가연구소 역량이 결합된 전례 없는 파트너십이다.
+- 출처: [NucNet](https://www.nucnet.org/news/oklo-nvidia-and-los-alamos-join-forces-on-nuclear-fuel-validation-for-ai-factories-4-5-2026)
+
+#### 🤖 PNNL, AI로 방사성 폐기물 유리화 공식 최적화 성공 — 폐기물 담지율 향상·비용 절감
+태평양북서국립연구소(PNNL)가 AI/머신러닝으로 액체 방사성 폐기물을 유리로 고화하는 최적 배합을 찾아냈다. HanfordSite 수십년 데이터를 학습해 기존 불가능했던 수준의 폐기물 담지율(waste loading)을 달성했으며, 운영 리스크·임무 기간·비용을 모두 절감할 수 있다. Journal of Non-Crystalline Solids(4/15호)에 게재됐다.
+- 출처: [PNNL](https://www.pnnl.gov/news-media/pnnl-scientists-leverage-ai-optimize-glass-formulas-liquid-radioactive-waste)
+
+> 최종 업데이트: 2026-04-30
+
 ## 2026-04-29 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 2건

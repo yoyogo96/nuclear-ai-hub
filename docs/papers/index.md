@@ -1,3 +1,29 @@
+# 2026-04-30 업데이트
+
+## [RADIANT-LLM: Agentic RAG Framework for Reliable Decision Support in Safety-Critical Nuclear Engineering](https://arxiv.org/abs/2604.22755) (arXiv, 2026-04)
+- 저자: Zavier Ndum Ndum, Jian Tao, John Ford, Mansung Yim, Yang Liu
+- 연도/학회(저널): 2026-04, arXiv (cs.AI)
+- 한 줄 요약: 원자력 안전 분석에서 LLM의 환각 문제를 해결하기 위해 멀티모달 RAG 기반 에이전트 프레임워크 RADIANT-LLM을 제안했다. 원전 안전결정 지원의 신뢰성과 추적가능성을 획기적으로 개선.
+
+### 핵심 기여
+1. 원자력 안전핵심 의사결정을 위한 에이전트형 RAG 프레임워크 설계
+2. 분산된 원전 문서의 도메인 특화 검색·지식 추출 파이프라인 구축
+3. LLM 환각 감지 및 완화를 위한 다중 검증 메커니즘 제안
+
+---
+
+## [Neuromorphic Continual Learning for Sequential Deployment of Nuclear Plant Monitoring Systems](https://arxiv.org/abs/2604.18611) (arXiv, 2026-04)
+- 저자: Samrendra Roy, Sajedul Talukder, Syed Bahauddin Alam
+- 연도/학회(저널): 2026-04, arXiv (cs.LG)
+- 한 줄 요약: 원전 산업제어시스템(ICS) 이상탐지를 위해 뉴로모픽(신경형태) 지속학습 기법을 제안했다. 새 하위시스템 추가 시 기존 패턴을 잊는 치명적 망각 문제를 해결하며, 에너지 효율적인 실시간 모니터링이 가능.
+
+### 핵심 기여
+1. 원전 ICS 순차 배포 환경에서 치명적 망각(catastrophic forgetting) 방지 기법 제안
+2. 뉴로모픽 컴퓨팅 기반 에너지 효율적 실시간 이상탐지 실증
+3. 다중 하위시스템 모니터링을 위한 지속학습 아키텍처 설계
+
+---
+
 # 2026-04-29 업데이트
 
 ## [JetPrism: Diagnosing Convergence for Generative Simulation and Inverse Problems in Nuclear Physics](https://arxiv.org/abs/2604.1313) (arXiv, 2026-04)

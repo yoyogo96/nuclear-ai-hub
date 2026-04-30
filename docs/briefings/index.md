@@ -1,3 +1,23 @@
+## 2026-04-30 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. Amazon 지원 X-Energy가 $10억 IPO 성공 — AI 전력 수요에 원자력 투자 급증, SMR 상용화 자본 경쟁 본격화.
+2. Oklo·Nvidia·Los Alamos가 "AI 팩토리"용 원전 연료검증 3각 협력, PNNL은 AI로 방사성 폐기물 유리화 최적화에 성공.
+3. 유타대 TRIGA 연구로가 AI 미니 데이터센터 전원 실증 착수 — 마이크로원전+AI 일체형 인프라 개념증명.
+
+### 주요 뉴스 키워드
+X-Energy IPO, Oklo-Nvidia-LANL, AI 팩토리, PNNL AI 유리화, 유타대 TRIGA, 마이크로원전
+
+### 관련 링크
+- [X-Energy IPO (CarbonCredits)](https://carboncredits.com/amazon-backed-x-energy-pulls-off-1b-nuclear-ipo-as-ai-power-race-heats-up/)
+- [유타대 TRIGA 실증 (WNN)](https://world-nuclear-news.org/articles/us-research-reactor-first-to-produce-electricity)
+- [Oklo-Nvidia-LANL (NucNet)](https://www.nucnet.org/news/oklo-nvidia-and-los-alamos-join-forces-on-nuclear-fuel-validation-for-ai-factories-4-5-2026)
+- [PNNL AI 유리화 (PNNL)](https://www.pnnl.gov/news-media/pnnl-scientists-leverage-ai-optimize-glass-formulas-liquid-radioactive-waste)
+- [RADIANT-LLM (arXiv)](https://arxiv.org/abs/2604.22755)
+- [Neuromorphic 원전 모니터링 (arXiv)](https://arxiv.org/abs/2604.18611)
+
+---
+
 ## 2026-04-29 데일리 브리핑
 
 ### 오늘의 3줄 요약
