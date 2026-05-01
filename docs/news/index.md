@@ -1,3 +1,29 @@
+## 2026-05-01 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇨🇦 캐나다, "변혁적" 원자력 에너지 전략 발표 — 마이크로원전 평가 투자, 글로벌 공급업체 도약
+캐나다가 5/1 "변혁적(Transformative)" 원자력 에너지 전략을 발표하고, 캐나다 국산 마이크로원전 평가를 위한 투자를 동시에 진행했다. 신규 건설 촉진, 글로벌 원전 공급업체 도약, 우라늄 생산 확대, fission·fusion 혁신 개발을 4대 축으로 하며, 원격지·북부 국방 시설의 에너지 안보 강화도 겨냥한다.
+- 출처: [Eurasia Review](https://www.eurasiareview.com/01052026-canada-unveils-new-nuclear-strategy-and-microreactor-initiative/)
+
+#### 🇨🇳 중국, 동시 50기 원전 건설 능력 발표 — 36기 건설 중으로 전 세계 신규 원전 절반 차지
+중국이 최대 50기의 원전을 동시에 건설할 수 있는 역량을 갖췄다고 발표했다. 현재 36기를 건설 중이며 이는 전 세계 신규 원전의 절반에 해당한다. 세계 최초 IAEA 일반안전성심사를 통과한 상업용 SMR 링룽원전(Linglong-1)도 2026년 말 송전 목표로 순조롭게 진행 중이다.
+- 출처: [ZME Science](https://www.zmescience.com/science/news-science/china-says-it-can-now-build-50-nuclear-reactors-at-once-what-about-the-united-states/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 Texas A&M, AROMA-GPT 원전 실시간 모니터링 AI 공개 — 디지털 트윈+인간-루프 프레임워크
+Texas A&M 대학이 원전 운영 모니터링·자문용 생성형 AI 도구 AROMA-GPT를 개발했다. 디지털 트윈 프레임워크에 통합되어 원전 엔지니어에게 실시간 인사이트를 제공하며, 인간-루프(human-in-the-loop) 설계로 안전성을 확보한다. Progress in Nuclear Energy에 게재됐다.
+- 출처: [Texas A&M Engineering](https://news.engineering.tamu.edu/news/2026/04/29/bridging-ai-and-nuclear-power-for-enhanced-reactor-safety/) / [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0149197025005700)
+
+#### 🤖 NRC, DOE/DOW 검증 원전 설계 신속 허가경로 공람 요청 — 첨단원전 허가 가속화
+미국 원자력규제위원회(NRC)가 에너지부(DOE) 또는 국방부(DOW)에서 이미 승인·검증된 원자로 설계를 위한 신속 허가경로에 대한 공람 의견을 5/18까지 요청했다. 첨단원전 개발자의 NRC 심사·허가 기간을 대폭 단축하는 방안으로, 초안 중간 직원 지침(draft interim staff guidance)에 대한 의견 수렴이다.
+- 출처: [JDSupra](https://www.jdsupra.com/legalnews/the-nrc-seeks-public-comment-by-may-18-6440235/) / [NRC](https://www.nrc.gov)
+
+> 최종 업데이트: 2026-05-01
+
 ## 2026-04-30 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건

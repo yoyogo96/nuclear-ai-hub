@@ -1,3 +1,17 @@
+# 2026-05-01 업데이트
+
+## [AROMA-GPT: Advanced Reactor Operation and Monitoring Assistant using Generative Pre-trained Transformer](https://www.sciencedirect.com/science/article/pii/S0149197025005700) (Progress in Nuclear Energy, 2026)
+- 저자: Zavier Ndum Ndum, Yang Liu
+- 연도/저널: 2026, Progress in Nuclear Energy
+- 한 줄 요약: 원전 운영 모니터링·자문을 위한 생성형 AI 도구 AROMA-GPT를 디지털 트윈 프레임워크에 통합, 실시간 인사이트 제공과 인간-루프 안전 설계를 결합한 차세대 원전 AI 비서 시스템.
+
+### 핵심 기여
+1. 원전 디지털 트윈 기반 실시간 모니터링·자문 생성형 AI 아키텍처 설계
+2. 인간-루프(human-in-the-loop) 설계로 안전성·신뢰성 확보
+3. 워크플로우 자동화, 기술 지식 검색, 운전자 훈련 지원 기능 통합
+
+---
+
 # 2026-04-30 업데이트
 
 ## [RADIANT-LLM: Agentic RAG Framework for Reliable Decision Support in Safety-Critical Nuclear Engineering](https://arxiv.org/abs/2604.22755) (arXiv, 2026-04)

@@ -1,3 +1,21 @@
+## 2026-05-01 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 캐나다가 "변혁적" 원자력 에너지 전략 발표 — 마이크로원전 평가 투자와 글로벌 공급업체 도약을 4대 축으로 제시.
+2. 중국, 최대 50기 동시 건설 능력 발표 — 36기 건설 중으로 전 세계 신규 원전 절반 차지, 링룽원전 SMR 올해 송전 목표.
+3. Texas A&M, AROMA-GPT 원전 모니터링 AI를 Progress in Nuclear Energy에 게재 — 디지털 트윈+인간-루프 실시간 안전 감시 시스템.
+
+### 주요 뉴스 키워드
+캐나다 원자력 전략, 중국 50기 동시건설, AROMA-GPT, NRC 신속허가경로, 마이크로원전
+
+### 관련 링크
+- [캐나다 원자력 전략 (Eurasia Review)](https://www.eurasiareview.com/01052026-canada-unveils-new-nuclear-strategy-and-microreactor-initiative/)
+- [중국 50기 건설 (ZME Science)](https://www.zmescience.com/science/news-science/china-says-it-can-now-build-50-nuclear-reactors-at-once-what-about-the-united-states/)
+- [AROMA-GPT (Texas A&M)](https://news.engineering.tamu.edu/news/2026/04/29/bridging-ai-and-nuclear-power-for-enhanced-reactor-safety/)
+- [NRC 신속허가경로 (JDSupra)](https://www.jdsupra.com/legalnews/the-nrc-seeks-public-comment-by-may-18-6440235/)
+
+---
+
 ## 2026-04-30 데일리 브리핑
 
 ### 오늘의 3줄 요약
