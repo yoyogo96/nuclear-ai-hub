@@ -1,3 +1,22 @@
+## 2026-05-02 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. TerraPower Natrium 원전 Wyoming 착공 — Bill Gates의 345MW 나트륨고속로, Meta와 8기 합의, 2031년 완공.
+2. Three Mile Island 재가동 본격화 — Constellation-Microsoft $16억 투자, 835MW 원자로 2027년 재가동 목표.
+3. PHYSOR 2026에서 원자로 노심 안전성 해석을 AI로 수개월→수시간 단축, 한수원 'KHNP AI 누리' 스타트업 육성 플랫폼 조성.
+
+### 주요 뉴스 키워드
+TerraPower Natrium, Three Mile Island 재가동, INEX 2026, PHYSOR 2026, KHNP AI 누리, 하이누리
+
+### 관련 링크
+- [TerraPower 착공 (Wyoming Public Media)](https://www.wyomingpublicmedia.org/open-spaces/2026-05-01/terrapower-begins-nuclear-power-plant-construction-in-kemmerer)
+- [Three Mile Island 방문 (City & State PA)](https://www.cityandstatepa.com/policy/2026/05/burgum-perry-tout-importance-nuclear-energy-visit-three-mile-island/413288/)
+- [INEX 2026 (연합뉴스)](https://www.yna.co.kr/view/AKR20260422070000051)
+- [PHYSOR 2026](https://phsor2026.org/)
+- [KHNP AI 누리 (Korea Daily)](https://www.koreadaily.com/article/20260426133043225)
+
+---
+
 ## 2026-05-01 데일리 브리핑
 
 ### 오늘의 3줄 요약

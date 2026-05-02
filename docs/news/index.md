@@ -1,3 +1,33 @@
+## 2026-05-02 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 TerraPower Natrium 원전 본격 착공 — Wyoming 345MW 나트륨고속로+용융염 저장, Meta와 8기 합의
+Bill Gates가 설립한 TerraPower의 Natrium 원전이 Wyoming Kemmerer에서 착공했다. DOE 첨단원전 시범사업으로 345MW 나트륨고속로+용융염 에너지저장 시스템이며, 피크 수요 시 500MW까지 출력 증강 가능. 2031년 완공 예정이며, Meta와 2035년까지 최대 8기를 건설하기로 합의했다. 인근 폐광탄 부지에 건설되어 약 1,600개 건설 일자리와 250개 상시 고용을 창출한다.
+- 출처: [Wyoming Public Media](https://www.wyomingpublicmedia.org/open-spaces/2026-05-01/terrapower-begins-nuclear-power-plant-construction-in-kemmerer) / [WYLR](https://www.wylr.net/2026/05/01/terrapower-nuclear-plant-breaks-ground/)
+
+#### 🇺🇸 Three Mile Island 재가동 본격화 — 내무장관·의원 방문, Constellation-Microsoft $16억 투자
+미국 내무장관 Burgum과 하원의원 Perry가 Three Mile Island(Crane Clean Energy Center로 개명)를 방문하고 원자력 에너지의 중요성을 강조했다. 2019년 가동 중단된 Unit 1을 Constellation이 $16억 투자로 재가동하며, Microsoft와 전력구매계약(PPA)을 체결했다. 835MW급 원자로로 2027년 최대 재가동 목표. AI 시대 급증하는 전력 수요에 원전 재가동이 핵심 해법으로 부상.
+- 출처: [City & State PA](https://www.cityandstatepa.com/policy/2026/05/burgum-perry-tout-importance-nuclear-energy-visit-three-mile-island/413288/) / [ANS](https://www.ans.org)
+
+#### 🇰🇷 INEX 2026 부산국제원자력산업전 — "AI 시대를 여는 원자력", 19개국 130개 기업 참가
+4/22~24 부산 벡스코에서 개최된 INEX 2026이 "AI 시대를 여는 원자력"을 대주제로 열렸다. PBNC 2026, KAP 2026과 동시 개최되었으며, 한수원은 차세대 i-SMR과 '넷제로 시티'를, 원자력연구원은 SMART 해수담수화 원전을 전시했다. 4족 보행 로봇 등 원전 AI 로봇 기술도 소개되며, 글로벌 원전 산업의 AI 융합 전략이 논의되었다.
+- 출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260422070000051) / [한국경제](https://www.hankyung.com/article/2026042165561)
+
+### 원자력 AI 뉴스
+
+#### 🤖 PHYSOR 2026 토리노 — 원자로 물리학+AI 융합, 노심 안전성 해석 수개월→수시간 혁신
+4월 이탈리아 토리노에서 열린 국제 원자로 물리학 학술대회 PHYSOR 2026에서 원자로 물리학·AI·다중물리현상 융합이 차세대 원전 개발 핵심으로 조명됐다. AI 알고리즘으로 기존 수개월 소요 노심 안전성 해석을 수시간으로 단축한 사례가 발표되며, 원전 시장의 게임체인저로 평가받았다.
+- 출처: [ANS](https://www.ans.org) / [PHYSOR 2026](https://phsor2026.org/)
+
+#### 🤖 한수원, 공기업 최초 AI 스타트업 육성 플랫폼 'KHNP AI 누리' 조성 — 원전+AI 생태계 구축
+한수원이 서울 중구 방사선보건원에 AI 스타트업 발굴·육성 협력 플랫폼 'KHNP AI 누리'를 조성했다. 공기업 최초로 AI 스타트업의 창업→성장→글로벌 진출 전 주기를 지원하며, 에너지 산업의 인공지능 전환을 가속화한다. 한수원은 이미 생성형 AI 하이누리(Hy-NuRI)를 전사 활용 중이며, AI 조기경보시스템으로 11건 이상 징후 포착·약 1,680억 원 발전 손실 예방 성과를 거두었다.
+- 출처: [Korea Daily](https://www.koreadaily.com/article/20260426133043225) / [AI News](https://www.ainews1.co.kr/news/articleView.html?idxno=31060)
+
+> 최종 업데이트: 2026-05-02
+
 ## 2026-05-01 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건
