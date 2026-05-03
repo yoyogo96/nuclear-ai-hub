@@ -1,3 +1,35 @@
+## 2026-05-03 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 NRC, St. Lucie 원전 1·2호기 후속 면허갱신 승인 — 80년 가동 허가, 미국 18번째 면허갱신
+미국 원자력규제위원회(NRC)가 Florida Power & Light의 St. Lucie 원전 1·2호기 후속 면허갱신을 승인했다. 1호기는 2056년, 2호기는 2063년까지 20년 연장되어 양호 모두 80년 가동이 가능해졌다. 플로리다 약 100만 가구 전력의 11%를 공급하는 기저부하 원전으로, 2021년 신청 이후 다년간 심사를 거쳤다. 최근 15개월간 NRC가 18기 원자로 면허를 갱신하며 기존 원전 장수명화가 가속화되고 있다.
+- 출처: [WNN](https://world-nuclear-news.org/articles/us-nrc-clears-st-lucie-1-and-2-for-80-years-operation) / [ANS](https://www.ans.org)
+
+#### 🇺🇸 NRC, OECD·인도 대상 원전 외국인 소유 제한 완화 — ADVANCE법 시행, 37개국 투자 문호 개방
+NRC가 외국인 소유·지배·통제(FOCD) 규제를 개정해 OECD 회원국(37개국)과 인도의 미국 원전 투자를 사실상 허용했다. 기존 49.9% 외국인 지분 상한이 해제되어 최대 100% 소유가 가능해지며, 7/7 발효 예정. 2024년 ADVANCE법에 따른 조치로 미국 원자력 산업에 글로벌 자본 유입이 본격화될 전망이다.
+- 출처: [Morgan Lewis](https://www.morganlewis.com/blogs/upandatom/2026/05/nrc-eases-foreign-ownership-restrictions-opening-us-nuclear-sector-to-investment) / [Pillsbury Law](https://www.pillsburylaw.com/en/news-and-insights/nuclear-regulatory-commission-direct-final-rule-advance-act-focd-exceptions.html)
+
+#### 🇪🇺 EU 핵융합 기업 12개사, EU 핵융합 전략 수립 촉구 — 독일·영국·스웨덴 부지 식별, 장기 예산·규제 경로 요구
+유럽 핵융합·산업 기업 12개사가 유럽위원회에 EU 핵융합 전략 수립을 공동 촉구했다. 독일·영국·스웨덴에 이미 핵융합 발전소 후보 부지가 식별되었으며, 장기 예산 확약·민간 자본 동원·예측 가능한 규제 경로 마련을 요구했다. 유럽이 핵융합 상용화 경쟁에서 주도권을 잃지 않기 위한 전략적 행동촉구.
+- 출처: [WNN](https://world-nuclear-news.org/articles/fusion-industry-leaders-call-for-eu-long-term-plan)
+
+### 원자력 AI 뉴스
+
+#### 🤖 바티칸, "AI를 핵 의사결정에 도입하지 말라" 경고 — 복잡성 증가·숙고 시간 감소·오포 위험 지적
+바티칸 외교관 Msgr. Robert D. Murphy가 5/2 AI와 핵무기 의사결정의 위험성을 경고했다. AI 도입이 의사결정 복잡성을 높이고 숙고 시간을 줄이며 오판 위험을 증가시키고, AI의 불투명성이 인간 판단을 가릴 수 있다고 지적했다. 원자력 무기 체계에 AI 통합에 대한 국제적 우려가 종교계에서도 공식화되는 신호.
+- 출처: [Catholic Culture](https://www.catholicculture.org/news/headlines/index.cfm?storyid=69297)
+
+#### 🤖 PJM 인터커넥션, AI 도구로 발전 프로젝트 신청 검토 가속 — 원전·핵융합 포함 대규모 신청 처리
+미국 최대 전력도소매시장 PJM Interconnection이 AI 기반 도구를 도입해 신규 발전 프로젝트(원전·핵융합 포함) 신청 데이터 검토를 가속화하고 있다. 대량의 인허가 신청서를 AI로 신속 분석해 전력망 접속 대기 병목을 해소하는 방안으로, AI가 원전 인프라 확충의 행정적 병목까지 완화하는 사례.
+- 출처: [JDSupra](https://www.jdsupra.com/legalnews/ai-is-going-nuclear-how-major-tech-9031018/)
+
+> 최종 업데이트: 2026-05-03
+
+---
+
 ## 2026-05-02 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 2건

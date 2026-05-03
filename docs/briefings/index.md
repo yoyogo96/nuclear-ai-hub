@@ -1,3 +1,21 @@
+## 2026-05-03 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. NRC가 St. Lucie 원전 1·2호기 후속 면허갱신 승인으로 80년 가동이 확정되고, OECD·인도 대상 외국인 원전 투자 제한을 완화해 미국 원자력 산업에 글로벌 자본 유입이 본격화될 전망.
+2. 바티칸이 "AI를 핵 의사결정에 도입하지 말라"고 경고하고, PJM이 AI로 원전 인허가 신청 검토를 가속하는 등 AI-원자력 교차 영역에서 우려와 활용이 동시 진전.
+3. EU 핵융합 기업 12개사가 EU 핵융합 전략 수립을 공동 촉구하며 유럽 핵융합 상용화 경쟁 주도권 확보를 요구.
+
+### 주요 뉴스 키워드
+St. Lucie 80년 가동, NRC FOCD 완화, ADVANCE법, 바티칸 AI 핵 경고, PJM AI 인허가, EU 핵융합 전략
+
+### 관련 링크
+- [St. Lucie 면허갱신 (WNN)](https://world-nuclear-news.org/articles/us-nrc-clears-st-lucie-1-and-2-for-80-years-operation)
+- [NRC FOCD 완화 (Morgan Lewis)](https://www.morganlewis.com/blogs/upandatom/2026/05/nrc-eases-foreign-ownership-restrictions-opening-us-nuclear-sector-to-investment)
+- [EU 핵융합 전략 촉구 (WNN)](https://world-nuclear-news.org/articles/fusion-industry-leaders-call-for-eu-long-term-plan)
+- [바티칸 AI 경고 (Catholic Culture)](https://www.catholicculture.org/news/headlines/index.cfm?storyid=69297)
+
+---
+
 ## 2026-05-02 데일리 브리핑
 
 ### 오늘의 3줄 요약
