@@ -1,3 +1,35 @@
+## 2026-05-04 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇧🇪 벨기에, Engie 원전 7기 전량 국유화 추진 — 탈핵 정책 180° 전환, 폐로 5기 재가동 검토
+벨기에 정부가 4/30 프랑스 에너지 기업 Engie와 독점 협상에 들어가 Doel·Tihange 원전 7기를 전량 인수하기로 했다. 2022~2025년 폐로된 5기의 재가동도 검토하며, 폐로 작업은 즉각 중단됐다. 10/1까지 최종 합의 목표. 유럽 전역 에너지 안보 강화와 탈핵 정책 재검토 추세의 대표적 사례.
+- 출처: [Brussels Signal](https://brusselssignal.eu/2026/04/belgium-takes-over-entire-nuclear-fleet-from-engie-in-surprise-move/) / [European Conservative](https://europeanconservative.com/articles/news/belgium-plans-to-nationalize-nuclear-power-plants/)
+
+#### 🇺🇸 Zap Energy, 핵융합 기업 최초 핵분열 사업 추가 — Toshiba 4S 마이크로원전 10MW 부활, 신임 CEO 임명
+Zap Energy가 핵융합 기업 최초로 전통 핵분열 마이크로원전 사업을 추가했다. Toshiba가 개발한 10MW 나트륨냉각 고속로 4S 설계를 부활시켜 2030년대 초 제품 판매를 목표로 한다. 액체금속 시스템·첨단 소재·모듈 제조 등 융합-분열 간 기술 시너지가 크며, 신임 CEO Zabrina Johal(前 General Atomics)을 영입해 본격 배치에 나선다.
+- 출처: [GeekWire](https://www.geekwire.com/2026/zap-energys-nuclear-double-play-fusion-startup-is-the-first-to-add-traditional-atomic-power-to-its-lineup/) / [NucNet](https://www.nucnet.org/news/in-an-industry-first-zap-energy-adds-fusion-to-traditional-fission-lineup-5-5-2026)
+
+#### 🇺🇸 Commonwealth Fusion Systems, 400MW 핵융합 발전소 PJM 전력망 접속 신청 — 버지니아 Fall Line, 2030년대 송전 목표
+MIT 스핀오프 Commonwealth Fusion Systems가 미국 최대 도소매 전력시장 PJM에 400MW 핵융합 발전소 Fall Line Fusion Power Station의 전력망 접속을 신청했다. 버지니아에 건설 예정이며 2030년대 전력망 연결을 목표로 한다. 핵융합 상용화가 전력망 수준에서 구체화되는 이정표.
+- 출처: [NucNet](https://www.nucnet.org/news/) / [KVI A](https://kvia.com/cnn-other/2026/04/30/this-company-says-nuclear-fusion-could-finally-power-the-grid-and-soon/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 Oklo-NVIDIA-Los Alamos, 원자력 기반 AI 팩토리 협력 — Pluto 플루토늄 고속로+GPU 클러스터 통합 설계
+Oklo가 NVIDIA·로스앨러모스국립연구소(LANL)와 전략적 협력을 발표했다. AI 기반 핵연료 검증, 디지털 트윈 원전 인프라 설계, 원자력+AI 데이터센터 통합 풀스택 솔루션 개발이 핵심. DOE Genesis Mission의 일환으로, 플루토늄 연료 고속로 Pluto의 상용화를 가속화하며 AI 시대 무탄소 베이스로드 전력의 청사진 제시.
+- 출처: [Oklo](https://oklo.com/newsroom/news-details/2026/Oklo-NVIDIA-and-Los-Alamos-National-Laboratory-Collaborate-to-Advance-Nuclear-Fuel-Validation-at-Los-Alamos-in-Support-of-Nuclear-Powered-AI-Factories/default.aspx) / [NEI Magazine](https://www.neimagazine.com/news/oklo-launches-nuclear-ai-partnership/)
+
+#### 🤖 미 DOE, Nuclear Energy Launch Pad·Dome Test Bed 개방 — 마이크로원전 7/4 임계 목표, AI 시대 인프라 가속
+미국 에너지부(DOE)가 첨단원전 기술 개발·배치 가속을 위해 Nuclear Energy Launch Pad와 Dome Test Bed를 산업계에 개방했다. 아이다호국립연구소에서 다수 마이크로원전이 7/4 임계 도달을 목표로 진행 중이며, 공장 생산 원전 시스템의 선구적 이정표. AI 데이터센터 급증 전력 수요에 대응하는 원전 인프라 확충의 행정적 병목 해소.
+- 출처: [NucNet](https://www.nucnet.org/news/us-doe-opens-nuclear-energy-launch-pad-and-dome-test-bed-to-applicants-5-5-2026) / [Mintz](https://www.mintz.com/insights-center/viewpoints/2236/2026-05-01-washington-update-sustainable-energy-infrastructure-may)
+
+> 최종 업데이트: 2026-05-04
+
+---
+
 ## 2026-05-03 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 2건
