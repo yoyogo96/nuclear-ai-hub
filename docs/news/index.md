@@ -1,3 +1,31 @@
+## 2026-05-05 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 Brookfield·The Nuclear Company, Westinghouse 원전 개발 합작사 설립 — AP1000·AP300, V.C. Summer 재개 관리
+글로벌 투자사 Brookfield와 The Nuclear Company(TNC)가 5/4 Westinghouse 원전 기술(AP1000·AP300) 개발에 특화된 합작사를 설립했다. 첫 과제로 사우스캐롤라이나 V.C. Summer 원전(부분 건설된 AP1000 2기)의 프로젝트 관리를 맡는다. Brookfield는 Westinghouse 공동 소유주로 2025년 $800억 신규 원전 계획을 발표한 바 있으며, AI 데이터센터 전력 수요에 대응하는 대규모 원전 건설 가속화의 일환.
+- 출처: [The Nuclear Company](https://www.thenuclearcompany.com/posts/brookfield-and-the-nuclear-company-form-new-company) / [Power Engineering](https://www.power-eng.com/nuclear/can-this-new-partnership-help-accelerate-nuclear-deployment-in-the-us/)
+
+#### 🇺🇸 NRC, 마이크로원전(≤20MW) 신규 라이선스 경로 Part 57 제안 — 건설·운영 복합 허가, 규제 간소화
+미국 원자력규제위원회(NRC)가 상업용 마이크로원전(20MW 이하)을 위한 신규 라이선스 경로 Part 57을 제안했다. 4월 말 공개된 이 규정안은 대상 사업이 건설·운영 이중 허가를 일괄 획득할 수 있게 하여 소형원전 보급을 촉진한다. 3월 최종화된 Part 53에 이은 두 번째 규제 개혁으로, ADVANCE법에 따른 행정 병목 해소 목적.
+- 출처: [Canary Media](https://www.canarymedia.com/articles/nuclear/us-nuclear-regulator-rewriting-rules) / [MegaProject](https://megaproject.com/news/powerplant/top-us-nuclear-regulator-is-rewriting-its-rules-for-new-era-of-reactors)
+
+### 원자력 AI 뉴스
+
+#### 🤖 OECD NEA·한국원자력연구원, "AI for Nuclear Energy" 국제 워크숍 개최 — 제주 5/4~6, AI 플레이북 구축 논의
+OECD 원자력기구(NEA)와 한국원자력연구원(KAERI), 한국원자력학회(KNS)가 공동 주최하는 국제 워크숍이 5/4~6 제주에서 진행 중이다. 원자력 시스템에 AI가 미치는 변화를 논의하고 "AI Playbook for Nuclear Energy" 구축을 목표로 한다. 설계 단계 시뮬레이션, AI 도입 가속 정책 환경, 딥테크 투자 변혁 등이 주제. NEA 코딩 대회 우승팀도 발표.
+- 출처: [OECD NEA](https://oecd-nea.org/jcms/pl_114188/international-workshop-on-artificial-intelligence-for-nuclear-energy) / [OECD NEA 프로그램(PDF)](https://oecd-nea.org/upload/docs/application/pdf/2026-04/rev_2026_ai_workshop_programme_final_2026-04-30_11-08-2_686.pdf)
+
+#### 🤖 한국원자력학회 춘계학술발표회 5/6~8 개최 — "AI와 원자력 기술 융합" 워크숍, 680편 발표·2,000명 참가
+한국원자력학회(KNS)가 5/6~8 제주국제컨벤션센터에서 춘계학술발표회를 연다. "인공지능(AI)과 원자력 기술 융합"이 핵심 주제로, 18개 전문 워크숍과 약 680편의 학술논문이 발표된다. 원자력 인공지능 강습회(AI 규제와 진흥), 신개념 대형원전, SMR, 하나로 중성자 이용 등 다양한 세션이 준비되며, 약 2,000명의 산학연 전문가가 참가 예정.
+- 출처: [ZDNet Korea](https://zdnet.co.kr/view/?no=20260504164710) / [KNS 공지](https://www.kns.org/boards/view/notice/103064/103068/)
+
+> 최종 업데이트: 2026-05-05
+
+---
+
 ## 2026-05-04 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 2건
