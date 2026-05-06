@@ -1,3 +1,31 @@
+## 2026-05-06 데일리 반영
+- 일반 원자력 뉴스: 1건
+- 원자력 AI 뉴스: 3건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 Blue Energy·GE Vernova, 세계 첫 "가스+원자력" 2.5GW 발전소 텍사스 착수 — BWRX-300 SMR+가스터빈 하이브리드, AI 데이터센터 전력 공급
+Blue Energy와 GE Vernova가 5/5 텍사스에 세계 첫 가스-원자력 복합 발전소(2.5GW) 개발을 발표했다. 초기에는 GE Vernova 7HA.02 가스터빈으로 1GW(2030년)를 공급하고, 이후 BWRX-300 SMR로 1.5GW(2032년)를 추가한다. NRC가 건설 단계 순서 변경을 승인해 기존 원전 건설 기간을 5년 이상 단축하며, AI 데이터센터 캠퍼스에 전력을 공급할 계획이다.
+- 출처: [PR Newswire](https://www.prnewswire.com/news-releases/blue-energy-and-ge-vernova-accelerate-gas-plus-nuclear-approach-for-powering-american-communities-and-fueling-global-ai-leadership-302761986.html) / [Power Engineering](https://www.power-eng.com/nuclear/this-2-5-gw-collaboration-aims-to-advance-the-first-gas-plus-nuclear-plant/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 NRC, 원전 AI/ML 사이버보안 연구 공모 — 모델 변조·데이터 포이즈닝 등 AI 특유 위협 평가, 규제 가이드라인 개정 목적
+미국 원자력규제위원회(NRC)가 5/5 소형사업자 전용 공모(31310026R0012)를 발표했다. 기존·신규 원전에 AI/ML 도입 시 새로운 사이버 공격 표면을 분석하며, 모델 변조(model tampering), 데이터 포이즈닝, 학습 데이터 무결성, 서드파티 AI 모델 공급망 취약점 등 AI 특유 위험을 기존 규제가 충분히 다루는지 평가한다. NUREG-2261 AI 전략계획(2023~2027)의 후속 조치.
+- 출처: [Orange Slices AI](https://orangeslices.ai/nrc-targets-ai-and-nuclear-cybersecurity-in-new-small-business-solicitation/) / [SAM.gov](https://sam.gov/opp/e2cff42243524b55bbaff8ac6c29bc4f/view)
+
+#### 🤖 Centrus Energy·Palantir, AI 기반 우라늄 농축 최적화 — 약 $3억 비용 절감, 1Q 2026 실적 반영
+Centrus Energy가 Palantir와의 파트너십(1월 시작)을 통해 Foundry/AIP 플랫폼으로 오하이오 Piketon 우라늄 농축 확장 사업을 최적화하고 있다. 프로젝트 관리·공급망·규제 컴플라이언스 전반에 AI를 적용해 약 $3억 비용 절감을 식별했으며, 5월 발표된 1Q 2026 실적에서도 핵심 성과로 보고됐다. 미국 국내 우라늄 농축 자립의 핵심 인프라.
+- 출처: [Centrus Energy](https://www.centrusenergy.com/news/centrus-partners-with-palantir-to-drive-cost-savings-and-unlock-operational-efficiencies-in-major-expansion-of-u-s-uranium-enrichment-capacity/) / [PR Newswire Q1 Results](https://www.prnewswire.com/news-releases/centrus-reports-first-quarter-2026-results-302763250.html)
+
+#### 🤖 한국원자력학회 춘계학술발표회 5/6 개막 — "AI와 원자력 기술 융합" 핵심 주제, 680편 발표·2,000명 참가, 제주
+한국원자력학회(KNS) 춘계학술발표회가 5/6 제주국제컨벤션센터에서 개막했다. 전날까지 진행된 OECD NEA AI 워크숍에 이어 "AI와 원자력 기술 융합"이 핵심 주제로, 신개념 대형원전·SMR·하나로 중성자 이용 등 18개 워크숍과 약 680편 논문이 발표된다. 산학연 약 2,000명이 참가하는 국내 최대 원자력 학술 행사.
+- 출처: [ZDNet Korea](https://zdnet.co.kr/view/?no=20260504164710) / [에너지데일리](https://www.energy-news.co.kr/news/articleView.html?idxno=225151)
+
+> 최종 업데이트: 2026-05-06
+
+---
+
 ## 2026-05-05 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건
