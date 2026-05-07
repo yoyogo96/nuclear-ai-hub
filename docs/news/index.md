@@ -1,3 +1,31 @@
+## 2026-05-07 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 TVA 원전, 전력 공급 비중 41% 도달 — 전년 동기 31%에서 급증, 3개 원전 20년 연장 추진
+Tennessee Valley Authority(TVA)의 원전 fleet이 2026 회계연도 상반기 전력의 41%를 공급했다. 전년 동기 31%에서 대폭 증가했으며, 원전 발전량은 25,901GWh에서 33,772GWh로 증가했다. 순이익도 $533M→$658M으로 개선. 임시 CEO Mike Skaggs는 "TVA는 친원전(pro-nuclear) 조직"이라며 신규 원전 기술 도입과 지역 배치 방향을 명확히 할 계획이다. Browns Ferry 등 3개 원전 부지의 20년 영업 허가 연장도 진행 중.
+- 출처: [Utility Dive](https://www.utilitydive.com/news/nuclear-reaches-41-of-tvas-power-supply/819449/)
+
+#### 🇺🇸 GE Vernova·Hitachi, BWRX-300 SMR 동남아시아 상업 배출 MOU 체결 — 캐나다 Darlington 건설 중, 미국 Clinch River 규제 심사 진행
+GE Vernova와 Hitachi가 BWRX-300 SMR의 동남아시아 상업 배치를 위한 MOU를 체결했다. BWRX-300은 현재 캐나다 Ontario Power Generation의 Darlington 부지에서 건설 중이며, 미국 TVA Clinch River 부지에서도 규제 심사가 진행 중이다. 동남아시아 신규 시장 진출로 SMR 글로벌 확산 가속.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/us-companies-come-together-for-gas-plus-nuclear-solution) / [ANS](https://www.ans.org)
+
+### 원자력 AI 뉴스
+
+#### 🤖 NANO Nuclear·Supermicro, 마이크로원전+AI 서버 통합 MOU 체결 — KRONOS MMR 데이터센터 직접 전력 공급, 그리드 독립 AI 인프라 구상
+NANO Nuclear Energy와 Supermicro가 5/6 전략적 MOU를 체결했다. NANO Nuclear의 마이크로원전(KRONOS MMR™)을 Supermicro AI 서버 랙·냉각 시스템과 통합해 데이터센터에 직접 전력을 공급하는 모델이다. 하이퍼스케일·엔터프라이즈·엣지 데이터센터를 위한 자가발전형(grid-independent) AI 인프라를 구상하며, AI 전력 수요 급증에 대응하는 새로운 패러다임 제시. 발표 당일 NANO Nuclear 주가 12% 급등.
+- 출처: [NANO Nuclear Energy](https://nanonuclearenergy.com/nano-nuclear-signs-strategic-mou-with-supermicro-to-power-the-next-generation-of-ai-data-centers-with-advanced-nuclear-energy/) / [GlobeNewsWire](https://www.globenewswire.com/news-release/2026/05/06/3288775/0/en/nano-nuclear-signs-strategic-mou-with-supermicro-to-power-the-next-generation-of-ai-data-centers-with-advanced-nuclear-energy.html)
+
+#### 🇬🇧 영국 ONR, 원자력 AI 규제 샌드박싱 결과 보고서 공개 — 컴퓨터 비전·데이터 분류 AI, 7개월 프로젝트 성과
+영국 원자력규제청(ONR)이 5/1 규제 샌드박싱(regulatory sandboxing) 프로젝트 결과를 공개했다. 정부 RIO AI 역량 기금 지원으로 7개월간 진행된 이 프로젝트는 원자력 시설 내 컴퓨터 비전·데이터 분류 AI의 안전한 도입을 탐색했다. 2023년 파일럿에 이은 두 번째 샌드박스로, 규제자와 산업계가 협력해 AI 혁신의 안전한 실현 방안을 도출. 영국 정부는 2026년 5월까지 모든 규제기관에 AI 혁신 지원 계획 공개를 요구한 바 있어 시의성 높은 결과.
+- 출처: [ONR](https://www.onr.org.uk/news/all-news/2026/05/onr-publishes-findings-of-regulatory-sandboxing-to-develop-ai-capability-in-nuclear-regulation)
+
+> 최종 업데이트: 2026-05-07
+
+---
+
 ## 2026-05-06 데일리 반영
 - 일반 원자력 뉴스: 1건
 - 원자력 AI 뉴스: 3건
