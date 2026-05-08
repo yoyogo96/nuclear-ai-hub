@@ -1,3 +1,31 @@
+## 2026-05-08 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 미국, 일본서 역대 최대 HALEU 연료 선적 확보 — 차세대 원전·SMR 연료 자립 가속, 핵확산 방지 협력
+미국 에너지부(DOE)가 일본으로부터 역대 최대 규모의 고농축저농축우라늄(HALEU) 연료 선적을 확보했다. 이 HALEU는 미국 내 차세대 원전 및 SMR 연료로 재가공되어 활용된다. 핵확산 리스크 저감과 글로벌 안보 강화 차원의 미·일 협력 성과이며, 미국 국내 우라늄 농축 자립 인프라 구축의 핵심 마중물. Centrus Energy의 Piketon 농축 확장 사업과 연계되어 미국 원자력 산업 공급망 전반에 영향.
+- 출처: [DOE/NNSA](https://www.energy.gov/nnsa/articles/us-secures-largest-ever-haleu-shipment-power-american-nuclear-industry)
+
+#### 🇺🇸 NuScale, 2026 Q1 실적 발표 — NRC 유일 승인 SMR 설계, 데이터센터 전력 수요에 강호조
+NuScale Power가 5/7 2026년 1분기 실적을 발표했다. NRC 승인을 받은 유일한 SMR 설계 기업으로서, AI·데이터센터 급증 전력 수요에 대응하는 탄소제거 전력 공급 강조. SMR 모듈 생산 착수 및 다수 전력구매협약(PA) 진행 중. SMR 상용화 선도 기업으로서 포지셔닝 강화.
+- 출처: [Las Vegas Sun / NuScale](https://lasvegassun.com/news/2026/may/07/nuscale-power-reports-first-quarter-2026-results/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 X-Energy, Amazon 파트너 SMR 기업으로 역대 최대 원자력 IPO 성공 — $10억+ 조달, AI 데이터센터 전력 겨냥
+X-Energy가 4월말 Nasdaq(XE) 상장으로 원자력 산업 역사상 최대 규모 IPO($10.2억)를 완료했다. Amazon이 투자·파트너십(2039년까지 5GW 신규 원전 목표)을 통해 AI 인프라 전력으로 Xe-100 SMR 배치 추진. 상장 첫날 27% 급등($29.20), 5/5 현재 $31.81 거래. AI 데이터센터 전력 수요가 원자력 산업 투자를 급격히 가속하는 대표적 사례.
+- 출처: [The Next Web](https://thenextweb.com/news/x-energy-ipo-billion-nuclear-ai-data-centres) / [MLQ](https://mlq.ai/news/x-energy-shares-surge-27-in-nasdaq-debut-after-upsized-ipo-pricing/)
+
+#### 🤖 미국 에너지부 Ames 국립연구소, AI+물리모델 결합 핵융합 재료 탐색 도구 발표 — 플라즈마 대면 재료 식별 가속
+Ames 국립연구소가 AI와 물리 기반 모델링을 결합해 핵융합로 플라즈마 대면(plasma-facing) 재료를 탐색하는 새로운 도구를 발표했다. 극한 환경에서의 재료 거동 예측에 머신러닝을 적용, 기존 수년 단위의 재료 개발 주기를 대폭 단축할 수 있다. 핵융합 상용화를 위한 재료 혁신의 핵심 인프라로 평가.
+- 출처: [ANS Fusion News](https://www.ans.org/news/topic-fusion/)
+
+> 최종 업데이트: 2026-05-08
+
+---
+
 ## 2026-05-07 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건
