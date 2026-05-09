@@ -1,3 +1,37 @@
+# 2026-05-09 업데이트
+
+## [Agentic Physical AI toward a Domain-Specific Foundation Model for Nuclear Reactor Control](https://arxiv.org/abs/2512.23292)
+- 저자: 다기관 공동 연구
+- 연도/학회(저널): 2025-12, arXiv (v2: 2026-03)
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2512.23292)
+- 한 줄 요약: 3.6억 파라미터 소형 언어모델을 원자로 제어용 Agentic Physical AI로 학습시켜, 물리 기반 검증으로 정책 최적화하는 도메인 특화 파운데이션 모델 제안.
+
+### 핵심 기여
+1. 일반 목적 VLM이 기본 물리 과제에서 50-53% 정확도에 그치는 한계 지적, 지각 중심 아키텍처의 구조적 한계 규명
+2. 물리 기반 검증(physical validation) 기반 정책 최적화로 안전핵심 제어 보장
+3. 10³→10⁵ 학습 데이터 스케일링 시 sharp phase transition 관찰
+
+### 실무 적용 아이디어
+- 원전 자율운전 보조 시스템의 핵심 제어 모듈로 활용 가능. 대형 모델 대신 소형 도메인 특화 모델이 안전성 보장에 유리함을 시사.
+
+---
+
+## [Enhancing Nuclear Reactor Core Simulation through Data-Based Surrogate Models](https://arxiv.org/abs/2511.16148)
+- 저자: Perceval Beja-Battais 외 (Framatome)
+- 연도/학회(저널): 2025-11, arXiv (v3: 2026-03)
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2511.16148)
+- 한 줄 요약: Framatome OAPS의 모델예측제어(MPC) 향상을 위해 PINN과 XGBoost 기반 서로게이트 모델을 도입, 강성 ODE 적분 시간을 최대 1000배 단축.
+
+### 핵심 기여
+1. 비선형 강성 ODE를 대체하는 데이터 기반·물리정보 서로게이트 모델 2종 제안
+2. 원자로 노심 시뮬레이션 계산 시간 최대 1000배 단축 실증
+3. 모델예측제어(MPC) 실시간 적용 가능성 입증
+
+### 실무 적용 아이디어
+- Load-following 운전 시 실시간 노심 상태 예측·제어에 직접 활용. 디지털 트윈 실시간 업데이트 가속.
+
+---
+
 # 2026-05-08 업데이트
 
 - 지난 24시간 기준으로 arXiv 및 주요 학술 소스를 확인했으나, 기존 반영본과 중복되지 않는 원자력+인공지능 핵심 신규 논문/프리프린트는 확인되지 않았습니다.

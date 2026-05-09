@@ -1,3 +1,31 @@
+## 2026-05-09 데일리 반영
+- 일반 원자력 뉴스: 1건
+- 원자력 AI 뉴스: 3건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 X-energy·IHI, 고온가스냉각로 기술협력 MOU 체결 — Xe-100 주전력시스템 압력경계 부품 설계·제조 공동개발
+X-energy와 일본 IHI가 고온가스냉각로(HTGR) 기술협력을 위한 MOU를 체결했다. X-energy의 Xe-100 SMR 설계를 지원하기 위한 주전력시스템(MPS) 압력경계 부품의 설계, 엔지니어링, 제조 가능성 및 공급망 개발에 중점. Amazon 투자 기반 SMR 상용화의 글로벌 공급망 구축 일환.
+- 출처: [ANS Industry Update](https://www.ans.org/news/article-7957/industry-updatemay-2026/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 한국원자력연구원·OECD NEA, 제주서 '원자력 AI 국제 워크숍' 개최 (5/4-6) — AI 플레이북 구축 합의, 실습형 AI 교육 진행
+KAERI와 OECD 원자력기구(NEA), 한국원자력학회가 공동으로 제주 국제컨벤션센터에서 국제 워크숍을 개최했다. 정책결정자·산업계·기술리더가 참여해 원전 건설·운영 가속과 비용 절감을 위한 'AI 플레이북' 구축을 주요 목표로 논의. 실제 원자로 데이터 기반 이상탐지 모델·규제문서 AI 챗봇 실습도 진행.
+- 출처: [OECD NEA](https://oecd-nea.org/jcms/pl_114188/international-workshop-on-artificial-intelligence-for-nuclear-energy) / [에너지데일리안](https://www.energy-news.co.kr/news/articleView.html?idxno=225191)
+
+#### 🤖 한수원, 'KHNP AI 누리' 입주기업 간담회 개최 (5/8) — AI 스타트업 기술 발굴·현장 도입 검토 가속
+한국수력원자력이 AI 전문 기업 육성 공간 'KHNP AI 누리' 입주기업들과 간담회를 열고 우수 AI 기술을 발굴했다. 입주사들이 보유한 핵심 AI 기술의 원전 현장 도입 가능성을 검토했으며, AI 디지털 전환을 미래 핵심 전략으로 추진 중.
+- 출처: [뉴스핌](https://gam.newspim.com/news/view/20260508000759)
+
+#### 🤖 Centrus Energy·Palantir, AI 기반 우라늄 농축 역량 확장 파트너십 — Foundry·AIP로 프로젝트관리·공급망 최적화
+Centrus Energy가 Palantir의 AI 플랫폼(Foundry, AIP)을 도입해 오하이오주 피케톤 공장의 우라늄 농축 역량 확장을 지원한다. 프로젝트 관리, 엔지니어링, 제조 실행, 공급망 관리 및 규제 준수를 AI로 최적화하는 모델. 핵연료 공급망에 AI를 직접 적용하는 선도적 사례.
+- 출처: [ANS Industry Update](https://www.ans.org/news/article-7957/industry-updatemay-2026/) / [Investing.com](https://kr.investing.com/news/stock-market-news/article-1931548)
+
+> 최종 업데이트: 2026-05-09
+
+---
+
 ## 2026-05-08 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건
