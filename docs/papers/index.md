@@ -1,3 +1,21 @@
+# 2026-05-10 업데이트
+
+## [AI in the Use of Nuclear Energy: Explainable Artificial Intelligence for Transparent, Safe, and Regulatory-Compliant Nuclear Operations](https://www.researchgate.net/publication/403309639)
+- 저자: 다기관 공동 연구
+- 연도/학회(저널): 2026-04, ResearchGate (학술 논문)
+- 바로가기: [원문](https://www.researchgate.net/publication/403309639)
+- 한 줄 요약: 원자력 운영에서 설명가능 AI(XAI)의 중요성을 체계적으로 논의. 고장진단·예지보전·중대사고 예측·핵비확산 등 핵심 분야에 XAI 적용 방안 제시.
+
+### 핵심 기여
+1. 원자력 안전 규제 요구사항을 충족하는 투명한 AI 의사결정 프레임워크 제안
+2. 고장탐지·진단(FDD), 예지보전, 중대사고 예측, 핵비확산 분야별 XAI 적용 사례 정리
+3. 블랙박스 AI 모델의 규제 승인 한계를 해결하기 위한 XAI 도입 로드맵 제시
+
+### 실무 적용 아이디어
+- 원전 AI 시스템 도입 시 규제 기관에 설명 가능한 의사결정 근거를 제공해야 하는 실무자에게 즉시 참고 가능. XAI 없이는 원전 AI 시스템의 규제 승인이 사실상 불가능함을 시사.
+
+---
+
 # 2026-05-09 업데이트
 
 ## [Agentic Physical AI toward a Domain-Specific Foundation Model for Nuclear Reactor Control](https://arxiv.org/abs/2512.23292)

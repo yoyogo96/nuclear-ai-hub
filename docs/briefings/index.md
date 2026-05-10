@@ -1,3 +1,24 @@
+## 2026-05-10 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. Three Mile Island 1호기(Crane Clean Energy Center)가 Microsoft 20년 PPA·DOE $10억 대출로 재가동 본격화, AI 수요 견인 원자력 르네상스 상징.
+2. Terrestrial Energy·Riot Platforms가 용융염원전(IMSR) 기반 최대 4GW AI 데이터센터 파트너십 체결, 인도·르완다 원자력+AI 협력 논의.
+3. 원자력 운영용 설명가능 AI(XAI) 논문 발표 — 고장진단·예지보전·핵비확산 분야 XAI 적용 로드맵 제시.
+
+### 일반 원자력
+- **Three Mile Island 재가동:** Crane Clean Energy Center로 재명명. 2019년 가동중단 후 Microsoft PPA+DOE 대출로 부활. AI 데이터센터 전력 수요가 핵심 동력.
+
+### 원자력 AI
+- **Terrestrial Energy+Riot Platforms:** 390MW IMSR 다중 배치로 최대 4GW 공급. 원전-데이터센터 직결 모델 규모면 선도.
+- **인도·르완다 협력:** 원자력+AI 분야 협력 강화. 5/18-21 NEISA 2026 키갈리서 아프리카 원자력 혁신·AI 통합 논의.
+
+### 학술 논문
+- **XAI for Nuclear Operations (2026-04):** 원자력 안전 규제 준수를 위한 설명가능 AI 체계적 논의. FDD·예지보전·중대사고·핵비확산 분야별 적용 방안 및 로드맵.
+
+> 최종 업데이트: 2026-05-10
+
+---
+
 ## 2026-05-09 데일리 브리핑
 
 ### 오늘의 3줄 요약

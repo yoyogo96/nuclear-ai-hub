@@ -1,3 +1,27 @@
+## 2026-05-10 데일리 반영
+- 일반 원자력 뉴스: 1건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 Three Mile Island 1호기(Crane Clean Energy Center), AI 수요 견인 재가동 본격화 — Microsoft 20년 PPA·DOE $10억 대출, 2019년 가동중단 이후 첫 재시작
+펜실베이니아주 Three Mile Island 1호기가 'Crane Clean Energy Center'로 재명명되어 재가동을 준비 중이다. 2019년 경제성 문제로 가동중단됐으나, Microsoft와의 20년 전력구매협정(PPA) 및 DOE $10억 연방대출 지원으로 부활한다. AI·데이터센터 급증 전력 수요가 원자력 르네상스를 견인하는 대표적 사례.
+- 출처: [Energy News Beat](https://energynewsbeat.co/data-center/three-mile-island-nuclear-plant-set-to-restart-amid-booming-ai-power-demand/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 Terrestrial Energy·Riot Platforms, 용융염원전(IMSR) 기반 AI 데이터센터 파트너십 — 최대 4GW 다중 배치 평가, 원전-데이터센터 직결 모델
+Terrestrial Energy가 비트코인 채굴·AI 인프라 기업 Riot Platforms와 협력해 용융염원전(IMSR) 기반 데이터센터 프로젝트를 추진한다. 390MW급 IMSR 다중 배치로 최대 4GW 원자력 전력을 AI·HPC 인프라에 직접 공급하는 모델. 미국 다수 부지 배치를 평가 중이며, 원전-데이터센터 직결의 규모면에서 선도적 사례.
+- 출처: [Construction Owners](https://www.constructionowners.com/news/terrestrial-energy-riot-platforms-partner-on-nuclear-powered-data-centers-for-ai-growth)
+
+#### 🤖 인도·르완다, 원자력+AI 협력 논의 — NEISA 2026(5/18-21 키갈리) 공동 참여, 아프리카 원자력 혁신·AI 통합 심의
+인도와 르완다가 원자력 응용 및 AI 분야 협력 강화를 논의했다. 르완다는 인도를 오는 5/18-21 키갈리 개최 '핵에너지 혁신 아프리카 정상회의(NEISA 2026)'에 초청했으며, 원자력 혁신과 AI 통합을 주요 의제로 다룰 예정. 원자력+AI 협력의 지리적 확장 의미.
+- 출처: [IANS](https://ianslive.in/india-rwanda-discuss-cooperation-in-nuclear-energy-ai--20260509174736) / [Business Standard](https://www.business-standard.com/external-affairs-defence-security/news/quantum-nuclear-ai-next-key-areas-of-india-us-cooperation-vinay-kwatra-126050900053_1.html)
+
+> 최종 업데이트: 2026-05-10
+
+---
+
 ## 2026-05-09 데일리 반영
 - 일반 원자력 뉴스: 1건
 - 원자력 AI 뉴스: 3건
