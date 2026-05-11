@@ -1,3 +1,9 @@
+# 2026-05-11 업데이트
+
+> 지난 24시간 새로운 원자력+AI 학술 논문이 발견되지 않았습니다. 다음 업데이트에서 계속 모니터링합니다.
+
+---
+
 # 2026-05-10 업데이트
 
 ## [AI in the Use of Nuclear Energy: Explainable Artificial Intelligence for Transparent, Safe, and Regulatory-Compliant Nuclear Operations](https://www.researchgate.net/publication/403309639)

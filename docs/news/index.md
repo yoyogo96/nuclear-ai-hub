@@ -1,3 +1,27 @@
+## 2026-05-11 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 1건
+
+### 일반 원자력 뉴스
+
+#### 🇰🇷 Thorizon·현대건설, 용융염원전(MSR) 전략적 MOU 체결 — 네덜란드-프랑스 MSR 기업과 한국 건설사의 상용화 협력
+네덜란드-프랑스 MSR 개발사 Thorizon이 현대건설과 전략적 MOU를 체결했다. 양사는 MSR 기술의 개발 및 상용화, 엔지니어링·설계 활동, 미래 원전 프로젝트 준비, 산업용 에너지 사용자 대상 사업을 공동 추진한다. 현대건설의 대규모 엔지니어링·프로젝트 수행 경험을 Thorizon의 MSR 프로그램 실현에 활용할 계획.
+- 출처: [ANS Industry Update May 2026](https://www.ans.org/news/article-7957/industry-updatemay-2026/)
+
+#### 🇬🇧 영국 GBE-N, Wylfa 원전 부지에 SMR 배치 — Arup이 기초 엔지니어링·설계 지원, 최대 1.5GW 전력 공급 예정
+영국 Great British Energy–Nuclear(GBE-N)이 Arup을 선정해 Anglesey 섬 Wylfa 원전 부지의 초기 기초 엔지니어링 및 설계를 지원받는다. 영국 최초 SMR 부지로, 최대 1.5GW 전력을 전력망에 공급할 예정. LDA Design, TÜV SÜD, Mace Consult, Gleeds 등도 프로젝트 파트너로 참여.
+- 출처: [ANS Industry Update May 2026](https://www.ans.org/news/article-7957/industry-updatemay-2026/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 ZettaJoule, 고온가스냉각로(HTGR) 데이터센터 적용 본격화 — Rice University 혁신 허브 입주, AI·HPC 인프라 전력 공급 목표
+ZettaJoule이 텍사스주 휴스턴 Rice University의 혁신 허브 The Ion에 사무실을 열고, 일본 고온공학시험로(HTTR) 기술을 현대화해 데이터센터·유가스·제철·항공·e-fuel 응용으로 확대한다. 특히 AI·HPC 데이터센터 전력 공급에 중점을 두며, Texas A&M과 연구로 개발도 협력 중. HTGR의 고온 열원과 데이터센터 전력 수요의 직접 연결 모델.
+- 출처: [ANS Industry Update May 2026](https://www.ans.org/news/article-7957/industry-updatemay-2026/)
+
+> 최종 업데이트: 2026-05-11
+
+---
+
 ## 2026-05-10 데일리 반영
 - 일반 원자력 뉴스: 1건
 - 원자력 AI 뉴스: 2건
