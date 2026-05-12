@@ -1,3 +1,31 @@
+## 2026-05-12 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇰🇷 INRA 제57차 총회, SMR·부유식 원자로 안전규제 논의 — 원안위 최원호 위원장, 주요 원전국 규제기관장과 국제 공조 방안 합의
+원자력안전위원회 최원호 위원장이 스페인 마드리드에서 열린 제57차 국제원자력규제자협의회(INRA)에 참석해 미국·영국·캐나다·프랑스 등 주요 원전국 규제기관장들과 SMR 및 부유식 원자로 등 해상 적용 원자력의 안전 규제 방향과 국제 공조 방안을 논의했다.
+- 출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260511089000017)
+
+#### 🇨🇳 중국, 세계 최초 차량 탑재형 10MW급 SMR 시제품 시험운용 — AI 데이터센터 전력 공급 등 다양한 활용 기대
+중국이 세계 최초로 10MW급 차량 탑재형 소형모듈원전(SMR) 시제품을 개발해 시험 운용에 나섰다. 이 초소형 원자로는 중형 AI 데이터센터의 전력 수요를 충당할 수 있으며, AI 컴퓨팅 및 데이터센터 지원 등 다양한 분야에서 활용이 기대된다.
+- 출처: [노컷뉴스](https://www.nocutnews.co.kr/news/6505376)
+
+### 원자력 AI 뉴스
+
+#### 🤖 NANO Nuclear·Supermicro, 마이크로원자로+AI 서버 통합 MOU (5/6) — 차세대 AI 데이터센터용 핵연료 전원 솔루션 공동 개발
+NANO Nuclear Energy가 Super Micro Computer(Supermicro)와 MOU를 체결했다. NANO Nuclear의 첨단 마이크로원자로 시스템과 Supermicro의 AI 서버·데이터센터 플랫폼을 통합해 AI 경제를 위한 청정·신뢰성 높은 원자력 전원 솔루션을 공동 개발한다.
+- 출처: [NANO Nuclear](https://nanonuclearenergy.com/nano-nuclear-signs-strategic-mou-with-supermicro-to-power-the-next-generation-of-ai-data-centers-with-advanced-nuclear-energy/) / [NucNet](https://www.nucnet.org/news/nano-nuclear-signs-mou-on-nuclear-for-rapidly-expanding-ai-economy-5-5-2026)
+
+#### 🤖 2026 부산국제원자력산업전 (5/22-24) — 'AI 시대를 여는 원자력 비즈니스 플랫폼' 주제, SMR 기술 대거 소개
+오는 5월 22~24일 부산 벡스코에서 '2026 부산국제원자력산업전'이 개최된다. '인공지능(AI) 시대를 여는 원자력 비즈니스 플랫폼'을 주제로 AI 혁명으로 인한 데이터센터 전력 수요 급증에 대응하는 원자력의 역할에 주목하며, SMR 관련 기술이 대거 소개된다.
+- 출처: [조선비즈](https://biz.chosun.com/policy/policy_sub/2026/05/11/HWYMJBJG6VE75JOS5G6AD27L5Q/)
+
+> 최종 업데이트: 2026-05-12
+
+---
+
 ## 2026-05-11 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 1건

@@ -1,3 +1,31 @@
+# 2026-05-12 업데이트
+
+## [Bridging Theory and Data: Correcting Nuclear Mass Models with Interpretable Machine Learning](https://arxiv.org/abs/2603.15203)
+- 저자: 다기관 공동 연구
+- 연도/학회(저널): 2026-03, arXiv
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2603.15203)
+- 한 줄 요약: Kolmogorov-Arnold Network(KAN)으로 핵질량 모델 정확도를 대폭 향상. KAN-WS4 하이브리드 모델이 RMSE를 0.3 MeV에서 0.16 MeV로 개선.
+
+### 핵심 기여
+1. KAN의 해석가능성을 활용해 양성자 수가 잔차에 가장 큰 영향을 미치는 인자로 식별
+2. 기존 이론 모델의 양성자 관련 체계적 편향 가능성 시사
+3. 데이터 기반 보정과 물리적 해석의 결합 프레임워크 제안
+
+---
+
+## [Machine Learning-Driven High-Precision Model for α-Decay Energy and Half-Life Prediction of Superheavy Nuclei](https://arxiv.org/abs/2603.10146)
+- 저자: 다기관 공동 연구
+- 연도/학회(저널): 2026-03, arXiv
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2603.10146)
+- 한 줄 요약: XGBoost 기반 물리정보 머신러닝으로 초중원소의 알파붕괴 에너지와 반감기를 고정밀 예측. 마법수 근접도·변형 등 구조 특성 반영.
+
+### 핵심 기여
+1. 핵데이터 기반 핵기술자(descriptor)와 변형 테이블을 결합한 특징 공간 구성
+2. 마법수 근접도·최소 궤도 각운동량 전달·동위원소 비대칭·사차변형 등 구조 관련 특징 포함
+3. 초중원소 안정성 예측의 정확도를 실용적 수준으로 향상
+
+---
+
 # 2026-05-11 업데이트
 
 > 지난 24시간 새로운 원자력+AI 학술 논문이 발견되지 않았습니다. 다음 업데이트에서 계속 모니터링합니다.
