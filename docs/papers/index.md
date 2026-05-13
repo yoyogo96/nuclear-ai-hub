@@ -1,3 +1,9 @@
+# 2026-05-13 업데이트
+
+> 지난 24시간 새로운 원자력+AI 학술 논문이 발견되지 않았습니다. 다음 업데이트에서 계속 모니터링합니다.
+
+---
+
 # 2026-05-12 업데이트
 
 ## [Bridging Theory and Data: Correcting Nuclear Mass Models with Interpretable Machine Learning](https://arxiv.org/abs/2603.15203)

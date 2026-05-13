@@ -1,3 +1,31 @@
+## 2026-05-13 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇰🇷 IAEA 그로시 사무총장, 5/14 방한 — 조현 외교장관과 원자력·핵잠수함 협의 예정
+IAEA 마리아노 그로시 사무총장이 5월 14일 한국을 방문해 조현 외교부 장관과 회담한다. 원자력 협력 확대 및 핵추진잠수함(핵잠) 관련 사안을 논의할 예정이다. 한국의 원자력 외교와 핵잠수함 추진에 대한 국제적 맥락에서 의미 있는 방한.
+- 출처: [매일경제(한국원자력산업회보)](https://www.kaif.or.kr/ko/news.kmib.co.kr/article/w.html?c=250&gbn=view&ix=29796)
+
+#### 🇺🇸 美차세대 원자로 4기, 7/4 임계 목표 가속화 — MARVEL·Hermes·Pele·eVinci, AI 데이터센터 전력 연계
+미국 DOE와 NRC가 협력해 민간 인허가 문턱을 낮추며, 2026년 7월 4일까지 4기 차세대 원자로 임계 달성을 목표로 한다. MARVEL(액체금속냉각 초소형), Hermes(Kairos 용융염), Pele(이동식 군사용), eVinci(웨스팅하우스 열파이프 마이크로)가 AI 데이터센터·산업·국방 전력 수요에 대응하는 국가 전략 인프라로 추진 중.
+- 출처: [AI뉴스1 해설](https://www.ainews1.co.kr/news/articleView.html?idxno=31585) / [DOE Reactor Pilot Program](https://www.energy.gov/ne/us-department-energy-reactor-pilot-program)
+
+### 원자력 AI 뉴스
+
+#### 🤖 BWX Technologies, 행동주의 펀드가 SMR 상업화 압박 — mPower(PWR형 SMR) 재검토 촉구, AI·데이터센터 수요 배경
+행동주의 펀드 애너님 캐피털이 BWX Technologies에 2017년 폐기한 가압경수로형 SMR 'mPower' 상업화 재검토를 촉구했다. AI·데이터센터 전력 수요 급증과 초당적 원자력 지지 기조가 상업용 핵전력 시장 확대로 이어지고 있어, BWX의 해군 원자로 제조 역량을 상업 SMR로 전환하면 시가총액 두 배 성장 가능성 제기.
+- 출처: [뉴스핌/Bloomberg](https://www.newspim.com/news/view/20260513000054)
+
+#### 🤖 SMR & Advanced Reactor 2026 (5/11-12 Austin) — Google·Energy Northwest·Siemens Energy 등 750+ 리더 참석, AI 데이터센터-원자력 파트너십 전략 논의
+Reuters Events 주최 SMR & Advanced Reactor 2026 컨퍼런스가 5월 11-12일 텍사스 오스틴에서 개최됐다. Google·Energy Northwest·Aecon·Siemens Energy 등 750여 명이 참석해 SMR의 AI 데이터센터 전력 공급, 크로스섹터 파트너십, FOAK 리스크 완화, 규제 정렬 등을 논의했다. 2050년 400GW 원자력 용량 목표 달성을 위한 즉각적 협력 강조.
+- 출처: [Reuters Events](https://events.reutersevents.com/nuclear/smr-usa) / [Siemens Energy](https://www.siemens-energy.com/global/en/home/events/smr-advanced-reactor.html)
+
+> 최종 업데이트: 2026-05-13
+
+---
+
 ## 2026-05-12 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건
