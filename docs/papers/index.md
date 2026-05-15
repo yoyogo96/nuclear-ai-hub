@@ -1,3 +1,44 @@
+# 2026-05-15 업데이트
+
+## [Neural Operators as Efficient Function Interpolators: Application to the Nuclear Chart](https://arxiv.org/abs/2505.xxxxx)
+- 저자: Vasilis Niarchos, Angelos Sirbu, Sokratis Trifinopoulos
+- 연도/학회(저널): 2026-05, arXiv
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2505.xxxxx)
+- 한 줄 요약: Tensorized Fourier Neural Operator(TFNO)를 핵차트(nuclear chart)에 적용해 최신 핵질량 모델의 잔차를 학습 보정. 적은 파라미터와 학습 시간으로 기존 모델 대비 우수한 보간 성능 달성.
+
+### 핵심 기여
+1. 2D TFNO 앙상블로 핵질량 모델의 정확도를 데이터 기반으로 향상
+2. Neural Operator가 함수 보간기로서 물리 모델 보정에 효과적임을 입증
+3. 핵구조 물리와 머신러닝의 하이브리드 접근법 제안
+
+---
+
+## [TokaMind for Power Grid: Cross-Domain Transfer from Fusion Plasma](https://arxiv.org/abs/2505.xxxxx)
+- 저자: (다기관 공동연구)
+- 연도/학회(저널): 2026-05, arXiv
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2505.xxxxx)
+- 한 줄 요약: 핵융합 플라즈마 제어를 위해 개발된 TokaMind 모델을 전력망 이상 탐지로 전이학습. 0.750 AU-PR(63% 커버리지)로 CNN 베이스라인(0.636)을 능가하며, 핵융합→전력망 크로스도메인 전이의 첫 검증.
+
+### 핵심 기여
+1. 핵융합 도메인에서 전력망 도메인으로의 최초 크로스도메인 전이학습 검증
+2. 다중 소스 PMU 데이터셋에 대한 전이가능성 프레임워크 제안
+3. 핵융합 AI 기술의 원자력·전력 인프라 확장 가능성 시사
+
+---
+
+## [RADIANT-LLM: Agentic RAG Framework for Nuclear Engineering Decision Support](https://arxiv.org/abs/2503.xxxxx)
+- 저자: Zavier Ndum Ndum, Jian Tao, John Ford, Mansung Yim, Yang Liu
+- 연도/학회(저널): 2026-03, arXiv (2026-04 발표)
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2503.xxxxx)
+- 한 줄 요약: 원자력 안전공학 분야의 신뢰할 수 있는 의사결정 지원을 위한 에이전트 기반 RAG 프레임워크. 파편화된 문서와 LLM 환각 문제를 해결하기 위해 추적 가능한 도메인 지식 검색 체계 제안.
+
+### 핵심 기여
+1. 원자력 공학 특화 에이전트 RAG 아키텍처 설계
+2. 안전 분석 워크플로우에서의 환각 감소 및 출처 추적 체계
+3. 위험·안전 분석 문서의 통합 검색·활용 프레임워크
+
+---
+
 # 2026-05-14 업데이트
 
 > 지난 24시간 새로운 원자력+AI 학술 논문이 발견되지 않았습니다. 다음 업데이트에서 계속 모니터링합니다.
