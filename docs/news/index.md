@@ -1,3 +1,27 @@
+## 2026-05-16 데일리 반영
+- 일반 원자력 뉴스: 1건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 NEI "2026 원자력 산업 현황" — 20개 원전 라이선스 갱신 + 29개 출력 증설 추진
+미국원자력연구소(NEI)가 발표한 2026년 원자력 산업 현황에 따르면, 기존 원전 운영사 20개소에서 운전허가 갱신을 추진 중이며 29개 호기에서 출력 증설(uprate)을 검토하고 있다. AI 시대 전력 수요 급증에 대응해 기존 원전의 활용을 극대화하는 추세가 가속화되고 있다.
+- 출처: [NEI](https://www.nei.org/news/state-of-the-nuclear-industry-2026)
+
+### 원자력 AI 뉴스
+
+#### 🤖 Three Mile Island, Microsoft AI 위해 재가동 — Bloomberg 심층 보도 "가장 악명 높은 원전이 AI 붐을 지팡이로 돌아온다"
+미국 역사상 최악의 원전 사고로 유명한 스리마일아일랜드(TMI)가 Microsoft의 막대한 AI 전력 수요를 공급하기 위해 재가동을 추진 중이다. Constellation Energy가 약 16억 달러를 투자해 1호기를 복구하며, Microsoft와 20년 PPA를 체결했다. AI 데이터센터 전력 공급을 위해 기존 원전을 재가동하는 가장 상징적인 사례.
+- 출처: [Bloomberg](https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal)
+
+#### 🤖 Riot Platforms + Terrestrial Energy, 4세대 IMSR 원자로 기반 데이터센터 구축 협력
+비트코인 채굴·데이터센터 기업 Riot Platforms와 4세대 원자로 개발사 Terrestrial Energy가 협력해 IMSR(일체형 용융염로) 기반 대규모 데이터센터 구축을 추진한다. 텍사스·켄터키 후보 부지를 평가 중이며, 390MW 비트코인 채굴 인프라를 포함해 최대 4GW 원자력 증설을 검토한다. AI·디지털 인프라와 4세대 원자로의 직접 연계 모델.
+- 출처: [Las Vegas Sun](https://lasvegassun.com/news/2026/may/06/terrestrial-energy-and-riot-platforms-launch-colla/) / [Highways Today](https://highways.today/2026/05/08/nuclear-power-ai-infrastructure/)
+
+> 최종 업데이트: 2026-05-16
+
+---
+
 ## 2026-05-15 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 3건

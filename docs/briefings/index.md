@@ -1,3 +1,27 @@
+## 2026-05-16 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. ⚡ Three Mile Island, Microsoft AI 전력 위해 재가동 추진 — Constellation 16억 달러 투자, 20년 PPA 체결
+2. 🔬 Riot Platforms + Terrestrial Energy, 4세대 IMSR 원자로-데이터센터 직접 연계 협력 — 최대 4GW 검토
+3. 📊 NEI 2026 현황: 미국 20개 원전 라이선스 갱신 + 29개 출력 증설 추진
+
+### 주요 뉴스
+| 분류 | 제목 | 출처 |
+|------|------|------|
+| 일반 | NEI 2026 원자력 산업 현황 — 라이선스 갱신·출력 증설 확대 | NEI |
+| AI+원전 | Three Mile Island + Microsoft AI 재가동 | Bloomberg |
+| AI+원전 | Riot + Terrestrial Energy IMSR 데이터센터 | Las Vegas Sun |
+
+### 학술 논문
+| 제목 | 핵심 | 출처 |
+|------|------|------|
+| ML for nuclear test fission yields | XGBoost로 CTBT 검증 수율 추정 | arXiv 2605.04674 |
+| NN variational nuclear DFT | 신경망 변분법으로 핵밀도범함수 최적화 | arXiv 2604.25759 v2 |
+
+> 최종 업데이트: 2026-05-16
+
+---
+
 ## 2026-05-15 데일리 브리핑
 
 ### 오늘의 3줄 요약

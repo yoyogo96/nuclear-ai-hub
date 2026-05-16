@@ -1,3 +1,31 @@
+# 2026-05-16 업데이트
+
+## [Machine learning inference of fission yields from gamma spectroscopy for very low-yield nuclear test verification](https://arxiv.org/abs/2605.04674)
+- 저자: (공동연구)
+- 연도/학회(저널): 2026-05, arXiv
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2605.04674)
+- 한 줄 요약: 머신러닝(XGBoost)으로 극저수율 핵실험의 감마스펙트럼을 분석해 핵분열 수율을 추정. CTBT 영-수율(zero-yield) 검증 체계에 ML을 적용, 95% 이상 분류 정확도와 12.4% 평균 상대오차 달성.
+
+### 핵심 기여
+1. 6,600만 시나리오의 몬테카를로 시뮬레이션 데이터로 ML 모델 학습
+2. 핵실험 수율 임계값 기반 이진 분류 + 회귀 동시 수행
+3. CTBT 검증 체계에 ML 기반 접근법의 실용성 최초 입증
+
+---
+
+## [Neural-Network-Based Variational Method in Nuclear Density Functional Theory: Application to the Extended Thomas-Fermi Model](https://arxiv.org/abs/2604.25759)
+- 저자: Kenta Yoshimura
+- 연도/학회(저널): 2026-04 (v2: 2026-05-10), arXiv
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2604.25759)
+- 한 줄 요약: 다층 퍼셉트론으로 양성자·중성자 밀도를 표현하고 Skyrme 에너지 밀도 범함수를 직접 최소화하는 신경망 변분 프레임워크. 기존 ETF 계산과 0.5% 이내 일치하며, 핵 파스타 상 재현 및 GPU 저정밀 연산 호환성 확인.
+
+### 핵심 기여
+1. 신경망 변분법과 오일러-라그랑주 방정식의 수학적 연결 명확화
+2. 유한핵 결합에너지 0.5% 오차로 재현
+3. 단정밀도 연산에서도 이중정밀도와 동등한 성능 → GPU 환경 적합성 입증
+
+---
+
 # 2026-05-15 업데이트
 
 ## [Neural Operators as Efficient Function Interpolators: Application to the Nuclear Chart](https://arxiv.org/abs/2505.xxxxx)
