@@ -1,3 +1,27 @@
+## 2026-05-17 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 1건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 미 에너지부, 8개 기업에 9,400만 달러 지원 — 3세대+ 경수로 SMR 조기 배포 가속화
+미국 에너지부(DOE)가 8개 기업에 총 9,400만 달러를 지원해 3세대+ 경수로 SMR 배포를 가속화한다. Constellation(뉴욕 Early Site Permit), Nebraska Public Power District(네브래스카 ESP), BWXT(원자로압력용기 제조장비) 등이 선정됐으며, 인허가·공급망·부지준비 등 핵심 장벽 해소에 초점. 2030년대 신규 원전 건설 공급망 강화와 AI 데이터센터 전력 수요 대응을 겨냥.
+- 출처: [DOE 공식 보도자료](https://www.energy.gov/articles/energy-department-awards-94-million-american-companies-help-expedite-deployments-small) / [Energy Connects](https://www.energyconnects.com/news/utilities/2026/may/us-doe-awards-94m-to-eight-american-companies-to-speed-up-smr-implementation/)
+
+#### 🇨🇳 중국 15차 5개년 계획, 핵융합을 AI·양자와 함께 '8대 첨단기술'로 지정 — CSIS 분석
+미국 전략국제문제연구소(CSIS) 분석에 따르면, 중국의 15차 5개년 계획(2026-2030)이 핵융합을 AI·양자컴퓨팅과 함께 8대 첨단기술 분야로 지정했다. 2023년 이후 65억 달러 이상을 핵융합에 투자했으며, BEST(Burning Plasma Experimental Superconducting Tokamak) 등 대형 시설 건설 중. 글로벌 핵융합·원자력 공급망 경쟁이 본격화하는 신호.
+- 출처: [CSIS](https://www.csis.org/analysis/chinas-nuclear-energy-priorities-under-its-15th-five-year-plan) / [The Fusion Report](https://thefusionreport.substack.com/p/this-weeks-fusion-news-may-15-2026)
+
+### 원자력 AI 뉴스
+
+#### 🤖 ITER, 건설·유지보수·시뮬레이션 전 영역에 AI 도입 — "핵융합이 AI를 진화시키고 있다"
+ITER가 세계 최대 토카막의 건설·유지보수·시뮬레이션·미래 운영 전반에 AI를 적용하고 있다고 공식 발표했다. 핵융합 연구가 AI 기술 자체의 진화를 촉진하는 양방향 시너지가 확인되며, 원자력 인프라 구축에 AI가 핵심 도구로 자리잡고 있음을 시사.
+- 출처: [ITER](https://www.iter.org/node/20687/how-fusion-teaching-ai-new-tricks-iter)
+
+> 최종 업데이트: 2026-05-17
+
+---
+
 ## 2026-05-16 데일리 반영
 - 일반 원자력 뉴스: 1건
 - 원자력 AI 뉴스: 2건

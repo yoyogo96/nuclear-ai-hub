@@ -1,3 +1,18 @@
+# 2026-05-17 업데이트
+
+## [Machine Learning Insights into Discrepancies Between Theoretical and Experimental Fission Barrier Heights](https://arxiv.org/abs/2604.16996)
+- 저자: Logan Burnett 등
+- 연도/학회(저널): 2026-04 (PHYSOR 2026 발표), arXiv
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2604.16996)
+- 한 줄 요약: XGBoost 잔차학습 프레임워크로 핵분열 장벽 높이의 이론-실험 간 편차를 분석. ETFSI 모델 보정 시 RMSE 0.3~1.2 MeV 달성, 내부 장벽은 결합에너지·페어링 효과에, 외부 장벽은 질량수·중성자수에 민감함을 특성 중요도 분석으로 규명.
+
+### 핵심 기여
+1. ML을 진단 도구로 활용해 이론 모델의 체계적 편차 패턴 식별
+2. 물리적 특징량(결합에너지, 분리에너지, 페어링) 기반 잔차학습으로 정확도 향상
+3. 내부/외부 분열 장벽의 서로 다른 물리적 구동 요인 규명
+
+---
+
 # 2026-05-16 업데이트
 
 ## [Machine learning inference of fission yields from gamma spectroscopy for very low-yield nuclear test verification](https://arxiv.org/abs/2605.04674)
