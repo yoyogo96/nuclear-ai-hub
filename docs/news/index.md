@@ -1,3 +1,29 @@
+## 2026-05-18 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 0건
+
+### 일반 원자력 뉴스
+
+#### 🚀 L3Harris, NASA 심우주 임무용 차세대 원자력 전원 RTG 설계 확정
+L3Harris가 NASA 외행성·심우주 탐사용 차세대 방사성동위원소 열전발전기(Next Gen RTG)의 핵심 설계검토(CDR)를 통과했다고 밝혔다. 플루토늄-238 붕괴열을 전기로 바꾸는 RTG는 태양광이 약한 외태양계 임무의 핵심 전원이며, 새 설계는 기존 화성 로버용 MMRTG와 비슷한 질량에서 더 높은 초기 출력(약 250W)을 목표로 한다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/l3harris-finalises-design-of-deep-space-power-source)
+
+#### 🇬🇧 영국 Wylfa 첫 SMR 발전소 명칭 공모 시작 — Rolls-Royce SMR 3기 우선 배치
+Great British Energy - Nuclear가 웨일스 Anglesey의 Wylfa 부지에 건설할 영국 첫 SMR 발전소 이름을 지역 주민에게 공모한다. 영국은 Rolls-Royce SMR을 우선 기술로 선정했고, Wylfa에 초기 3기 배치를 추진하며 장기적으로 최대 8기까지 수용 가능성을 열어두고 있다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/contest-launched-to-name-uks-first-smr-plant)
+
+#### ⚠️ IAEA, 우크라이나 원전 주변 드론 활동 경고 — 24시간 160대 이상 관측
+IAEA가 우크라이나 원전 주변에서 24시간 동안 160대 이상의 드론이 관측됐다고 밝히며 민간 원자력 시설 인근 군사활동 위험을 재차 경고했다. 자포리자 원전은 7주째 예비 외부전원선에 의존 중이며, 체르노빌 제한구역 화재도 드론 충격에서 비롯된 것으로 보고돼 방사성 물질 교란 위험이 지적됐다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/iaea-warning-over-drones-near-nuclear-plants)
+
+### 원자력 AI 뉴스
+
+> 지난 24시간 기준으로 기존 반영본과 중복되지 않는 원자력+AI 신규 뉴스는 확인되지 않았습니다. 일반 원자력 최신 이슈와 학술 논문 중심으로 갱신합니다.
+
+> 최종 업데이트: 2026-05-18
+
+---
+
 ## 2026-05-17 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 1건

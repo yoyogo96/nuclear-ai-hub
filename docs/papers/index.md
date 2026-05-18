@@ -1,3 +1,31 @@
+# 2026-05-18 업데이트
+
+## [Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications](https://arxiv.org/abs/2605.00068)
+- 저자: Soumyendu Sarkar 등
+- 연도/학회(저널): 2026-05, arXiv / IJCAI 2026 채택
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2605.00068)
+- 한 줄 요약: 관성핵융합(ICF)처럼 실험 기회가 적고 비용이 큰 과학 문제에 전문가 지식과 불확실성 기반 few-shot Bayesian optimization을 결합해 실험 후보를 추천하는 HL-MBO 프레임워크 제안.
+
+### 핵심 기여
+1. 메타학습 서로게이트 모델과 전문가 정보를 반영한 acquisition function 결합
+2. 추천 실험의 해석가능한 설명을 제공해 고위험 과학 실험 의사결정 신뢰성 강화
+3. ICF 에너지 수율 최적화, 분자 최적화, 초전도 임계온도 최적화 벤치마크에서 기존 BO 방법 대비 성능 향상
+
+---
+
+## [Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations](https://arxiv.org/abs/2605.05081)
+- 저자: Wenlong Mou 등
+- 연도/학회(저널): 2026-05, arXiv
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2605.05081)
+- 한 줄 요약: 핵융합 플라즈마 제어의 핵심 난제인 Vlasov-Poisson 동역학 안정화를 위해, 전체 상태를 보는 전문가 정책을 거시 진단값만 쓰는 imitation learning 제어기로 증류하고 안정성 보장을 이론적으로 제시.
+
+### 핵심 기여
+1. 실험에서 관측 가능한 희소 거시 진단값만으로 kinetic plasma dynamics 안정화 가능성 분석
+2. 행동복제 손실과 초기분포 복잡도에 따라 학습 정책의 안정성 오차 바닥을 정량화
+3. 수치실험에서 비적응 baseline보다 긴 시간 범위의 플라즈마 안정화 성능 검증
+
+---
+
 # 2026-05-17 업데이트
 
 ## [Machine Learning Insights into Discrepancies Between Theoretical and Experimental Fission Barrier Heights](https://arxiv.org/abs/2604.16996)

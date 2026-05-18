@@ -1,3 +1,27 @@
+## 2026-05-18 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 🚀 L3Harris가 NASA 심우주 임무용 차세대 RTG 설계를 확정하며 외태양계 탐사용 원자력 전원 기술을 진전.
+2. 🇬🇧 영국 Wylfa 첫 SMR 발전소 명칭 공모 시작 — Rolls-Royce SMR 3기 우선 배치와 지역 수용성 확보 병행.
+3. 🧠 arXiv에서 핵융합 실험 최적화용 Human-in-the-Loop Bayesian Optimization과 부분관측 플라즈마 제어 imitation learning 논문 2건 확인.
+
+### 주요 뉴스
+| 분류 | 제목 | 출처 |
+|------|------|------|
+| 일반 | L3Harris, NASA 심우주 임무용 차세대 RTG 설계 확정 | World Nuclear News |
+| 일반 | 영국 Wylfa 첫 SMR 발전소 명칭 공모 시작 | World Nuclear News |
+| 일반 | IAEA, 우크라이나 원전 주변 드론 활동 위험 경고 | World Nuclear News |
+
+### 학술 논문
+| 제목 | 핵심 | 출처 |
+|------|------|------|
+| Human-in-the-Loop Meta Bayesian Optimization | 전문가 지식+few-shot BO로 ICF 실험 후보 최적화 | arXiv 2605.00068 |
+| Provable imitation learning for Vlasov-Poisson control | 부분관측 거시 진단값 기반 플라즈마 안정화 제어 | arXiv 2605.05081 |
+
+> 최종 업데이트: 2026-05-18
+
+---
+
 ## 2026-05-17 데일리 브리핑
 
 ### 오늘의 3줄 요약
