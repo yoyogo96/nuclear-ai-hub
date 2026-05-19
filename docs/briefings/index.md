@@ -1,3 +1,28 @@
+## 2026-05-19 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 🇸🇪 Blykalla가 스웨덴 Norrsundet에 330MWe급 SMR 발전소 건설을 신청하며 AI·전기화 수요 대응을 신규 원전 명분으로 제시.
+2. ⚠️ IAEA가 UAE 바라카 원전 인근 드론 충돌에 우려를 표명했고, FANR은 방사선·대중 안전 영향은 없다고 확인.
+3. 🧠 arXiv에서 원자력 분열·핵융합 ML 평가 표준 프레임워크(CTF4Nuclear)와 핵분광학용 physics-guided neural network 논문을 신규 확인.
+
+### 주요 뉴스
+| 분류 | 제목 | 출처 |
+|------|------|------|
+| 일반 | IAEA, UAE 바라카 원전 인근 드론 충돌에 우려 표명 | World Nuclear News |
+| 일반 | Cernavoda 1호기 계속운전 준비용 방사성폐기물 시설 첫 콘크리트 완료 | World Nuclear News |
+| AI+원전 | Blykalla, 스웨덴 Norrsundet 330MWe급 SMR 신청과 AI·전기화 수요 대응 명시 | World Nuclear News |
+| AI+원전 | NextEra-Dominion 합병, Google PPA·데이터센터 수요 대응 원전 포트폴리오 재부각 | World Nuclear News |
+
+### 학술 논문
+| 제목 | 핵심 | 출처 |
+|------|------|------|
+| CTF4Nuclear | 원자력 분열·핵융합 ML 모델을 표준 데이터셋·12개 지표로 평가 | arXiv 2605.15549 |
+| Interacting boson model parameters with ML | 물리 유도 신경망으로 핵분광학 보손모델 파라미터 자동 도출 | arXiv 2605.15623 |
+
+> 최종 업데이트: 2026-05-19
+
+---
+
 ## 2026-05-18 데일리 브리핑
 
 ### 오늘의 3줄 요약

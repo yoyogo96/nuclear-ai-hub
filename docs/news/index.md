@@ -1,3 +1,31 @@
+## 2026-05-19 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### ⚠️ IAEA, UAE 바라카 원전 인근 드론 충돌에 우려 표명
+IAEA가 UAE 바라카 원전 인근 드론 충돌 이후 “원자력 안전을 위협하는 군사 활동은 용납될 수 없다”고 밝혔다. FANR은 원전 안전계통과 방사선 안전에는 영향이 없고 일반 대중·환경 위험도 없다고 확인했지만, 민간 원자력 인프라 주변 군사 리스크가 다시 부각됐다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/iaea-concern-after-drone-strike-close-to-barakah-nuclear-power-plant)
+
+#### 🇷🇴 루마니아 Cernavoda 1호기 계속운전 준비 — 중저준위폐기물 시설 첫 콘크리트 완료
+Nuclearelectrica가 Cernavoda 1호기 계속운전·개보수 프로젝트의 핵심 인프라인 중간 방사성폐기물 저장·처리 시설 기초 콘크리트 타설을 완료했다. 2027년 정지 후 본격 개보수에 들어가 2030년부터 추가 30년 운전을 목표로 한다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/concrete-pouring-completed-for-first-part-of-cernavoda-refurb-project)
+
+### 원자력 AI 뉴스
+
+#### 🤖 Blykalla, 스웨덴 Norrsundet 330MWe급 SMR 신청 — AI·전기화 수요 대응 명시
+스웨덴 SMR 개발사 Blykalla가 Gävle 지자체 Norrsundet 부지에 총 330MWe 규모 원자력 시설 건설을 신청했다. 발표에서 AI와 전기화가 전 세계적으로 성장하면서 예측 가능하고 청정한 기저전원 배치가 필요하다고 강조해, 신규 SMR 사업의 수요 배경에 AI 인프라 전력 수요가 직접 연결됐다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/blykalla-applies-to-build-swedish-smr-plant)
+
+#### 🤖 NextEra-Dominion 합병 발표 — Google PPA·데이터센터 수요 대응용 SMR 최대 6GWe 구상 재부각
+NextEra Energy와 Dominion Energy가 합병을 발표하며 110GW 발전 포트폴리오와 대규모 원자력 자산을 결합한다. NextEra는 Duane Arnold 원전 재가동을 Google PPA와 연계했고, 기존 원전 부지 등에 최대 6GWe SMR을 추가해 데이터센터 수요에 대응할 수 있다고 밝힌 바 있다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/nextera-energy-and-dominion-energy-agree-deal)
+
+> 최종 업데이트: 2026-05-19
+
+---
+
 ## 2026-05-18 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 0건

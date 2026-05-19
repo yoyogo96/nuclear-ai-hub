@@ -1,3 +1,31 @@
+# 2026-05-19 업데이트
+
+## [CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models](https://arxiv.org/abs/2605.15549)
+- 저자: Stefano Riva, Carolina Introini, Antonio Cammi, Dean Price, Alexey Yermakov 등
+- 연도/학회(저널): 2026-05, arXiv
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2605.15549)
+- 한 줄 요약: 원자력 분열·핵융합 시스템용 ML 모델을 표준화된 데이터셋과 12개 지표로 비교하는 Common Task Framework를 제안해, 안전중요 원자력 AI 모델 평가의 재현성과 엄밀성을 높인다.
+
+### 핵심 기여
+1. 원자로·핵융합 및 인접 시스템 데이터셋을 큐레이션한 공통 평가 프레임워크 제안
+2. 희소 계측값 기반 시스템 모니터링 과제를 포함해 실제 운전·감시 조건을 반영
+3. 원자력 산업용 scientific ML의 ad hoc 비교를 숨겨진 테스트셋 기반 표준 평가로 전환하는 로드맵 제시
+
+---
+
+## [Microscopic derivation of the interacting boson model parameters with machine learning](https://arxiv.org/abs/2605.15623)
+- 저자: Y. Obata, K. Nomura
+- 연도/학회(저널): 2026-05, arXiv / Physics Letters B
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2605.15623)
+- 한 줄 요약: 물리 유도 신경망으로 핵밀도범함수 이론의 퍼텐셜 에너지 지형을 상호작용 보손모델 파라미터로 매핑해, 수동 튜닝 없이 희토류 핵의 집단운동성과 에너지 스펙트럼을 재현한다.
+
+### 핵심 기여
+1. 사중극 집단성 지표와 원자가 핵자 수를 입력 특성으로 통합해 파라미터 퇴화를 완화
+2. 미시적 에너지 지형을 보손 모델 파라미터 공간으로 자동 변환하는 physics-guided neural network 제안
+3. 핵분광학에서 머신러닝 기반 미시-현상론 하이브리드 모델링 가능성 입증
+
+---
+
 # 2026-05-18 업데이트
 
 ## [Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications](https://arxiv.org/abs/2605.00068)
