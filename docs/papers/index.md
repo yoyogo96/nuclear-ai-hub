@@ -1,3 +1,9 @@
+# 2026-05-20 업데이트
+
+> 지난 24시간 기준 arXiv 및 공개 학술 검색에서 기존 반영본과 중복되지 않는 원자력+AI 신규 논문은 확인되지 않았습니다. 검색 범위에는 nuclear reactor, fusion, tokamak, plasma, fission, neutron, isotope와 machine learning/neural/artificial intelligence 조합을 포함했습니다.
+
+---
+
 # 2026-05-19 업데이트
 
 ## [CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models](https://arxiv.org/abs/2605.15549)

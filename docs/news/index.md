@@ -1,3 +1,31 @@
+## 2026-05-20 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 1건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 NRC, 방사성물질 이용 규정 현대화 개정안 공개
+미 NRC가 Executive Order 14300에 따라 의료영상·암 진단·산업방사선·웰로깅 등에 쓰이는 부산물질·선원물질·특수핵물질 인허가 규정 개정안을 제안했다. 저위험 제품의 서류 부담을 줄이고 일반면허·상호인정·산업방사선 규정을 현대화해 안전기준을 유지하면서 인허가 예측가능성을 높이는 방향이다.
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-05-19/article-8055/nrc-proposes-changes-to-its-rules-on-nuclear-materials/)
+
+#### ⚓ Maine Maritime Academy, 미국 해양대 최초 원자력공학기술 전공 개설
+Maine Maritime Academy가 2027년 가을부터 원자력공학기술 전공을 개설한다. 해양 원자력 응용, SMR, 부유식 원전, 상업 선박용 원자력 추진·전원 인력 수요에 대응하는 교육과정으로, DOE 원자력안전·인력양성 지원금과도 연결된다.
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-05-19/article-8054/maine-maritime-academy-to-offer-nuclear-engineering-technology-major/)
+
+#### 🧪 ORNL, 우라늄 함유 용융염 물성 측정 완료 — MSR 설계·안전해석 데이터 보강
+ORNL이 NaF-UF4, NaF-KF-UF4, NaCl-UCl3 등 우라늄 함유 용융염의 점도와 열전도도 측정을 완료하고 Molten Salt Database에 공개했다. 액체연료염의 고온 물성 데이터는 MSR 연료검증, 설계, 시뮬레이션 신뢰도, 안전해석의 병목을 줄이는 핵심 입력값이다.
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-05-19/article-8053/ornl-completes-challenging-molten-salt-property-measurements/)
+
+### 원자력 AI 뉴스
+
+#### 🤖 WM2026, DOE 정화부지의 AI 데이터센터·첨단제조 전력 허브 전환 논의
+2026 Waste Management Conference에서 DOE 환경관리 분야가 정화 임무를 “원자력 르네상스”와 연결하고, 남은 DOE-EM 부지를 AI 데이터센터와 첨단제조 전력 허브로 재산업화하는 구상을 제시했다. 발표에서는 AI 활용으로 중복 검토를 줄이고 절차를 간소화하는 정화·폐기물관리 혁신도 함께 강조됐다.
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-05-19/article-7960/wm2026-leveraging-advanced-technology-and-innovation/)
+
+> 최종 업데이트: 2026-05-20
+
+---
+
 ## 2026-05-19 데일리 반영
 - 일반 원자력 뉴스: 2건
 - 원자력 AI 뉴스: 2건
