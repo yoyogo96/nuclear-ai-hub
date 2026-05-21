@@ -1,3 +1,29 @@
+## 2026-05-21 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 0건
+
+### 일반 원자력 뉴스
+
+#### ⚖️ 미 대법원, 세인트루이스 방사성오염 소송 상고 불수리
+미 연방대법원이 세인트루이스 Coldwater Creek 일대 방사성 폐기물 노출 피해 소송에서 General Atomics 자회사 Cotter와 Exelon 계열 Commonwealth Edison의 상고를 받아들이지 않았다. 이에 따라 Price-Anderson Act 하에서도 주법상 불법행위 책임 기준을 적용할 수 있다는 제8연방항소법원 판단이 유지되어, 저준위 방사성오염 정화와 원자력 손해배상 소송의 경계가 계속 쟁점으로 남게 됐다.
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-05-20/article-8059/supreme-court-declines-to-hear-case-involving-st-louis-contamination/)
+
+#### 🇨🇦 캐나다, 핵융합 기반 구리-67 의료동위원소 생산 실증 지원
+캐나다 Medical Isotope Ecosystem이 Promation, Astral Systems, McMaster University의 구리-67 생산 실증 프로젝트를 지원한다. 핵융합 반응 기반 중성자원을 이용해 표적 조사와 자동화된 조사후 분리·정제를 결합하는 방식으로, 차세대 암 치료·진단용 Cu-67 공급 병목을 줄이는 데 초점이 있다.
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-05-20/article-8058/canada-funds-fusionbased-copper67-production-project/)
+
+#### 🏭 Dow-X-energy Seadrift 프로젝트, NRC 환경평가·FONSI 확보
+NRC가 텍사스 Seadrift의 Dow 화학시설 내 X-energy Xe-100 4기 배치 프로젝트에 대해 환경평가(EA)와 중대한 영향 없음(FONSI)을 발행했다. 기존 산업부지의 제한된 환경 발자국을 근거로 EIS 대신 EA로 처리된 첫 상업용 첨단원자로 Part 50 건설허가 사례로, 산업공정 열·전력 공급용 고온가스로 인허가 일정 단축 가능성을 보여준다.
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-05-20/article-8056/dow-gets-eafonsi-for-seadrift-project/)
+
+### 원자력 AI 뉴스
+
+> 지난 24시간 기준으로 기존 반영본과 중복되지 않는 원자력+AI 신규 뉴스는 확인되지 않았습니다. Blykalla SMR의 AI·데이터센터 수요 관련 보도는 2026-05-19 업데이트에 이미 반영되어 중복 제외했습니다.
+
+> 최종 업데이트: 2026-05-21
+
+---
+
 ## 2026-05-20 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 1건
