@@ -1,3 +1,35 @@
+## 2026-05-22 데일리 반영
+- 일반 원자력 뉴스: 4건
+- 원자력 AI 뉴스: 1건
+
+### 일반 원자력 뉴스
+
+#### 🔬 INL 구조물성실험실 정식 가동 — 조사재료 시험 인프라 보강
+Idaho National Laboratory의 Structural Properties Laboratory가 2026년 1월부터 완전 가동 중이라고 공개됐다. 새 핫셀, 첨단 로봇, 확장 가능한 시험공간을 갖춘 이 시설은 조사된 구조재료의 기계적 시험·미세조직 분석·표면 특성평가를 미국 내에서 수행할 수 있게 해 첨단원자로 재료 검증 병목을 줄인다.
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-05-21/article-8063/structural-properties-laboratory-now-open-at-inl/)
+
+#### 🏛️ 미 상원 EPW 소위, 원자력 건설·부지·농축 인허가 법안 3건 논의
+미 상원 환경공공사업위원회 소위가 Build Nuclear with Local Materials Act, RECHARGE Act, Enrichment Licensing Modernization Act를 놓고 청문회를 열었다. 비안전 구조물에 상용 등급 콘크리트·철강을 허용하고, 폐발전소·브라운필드 부지의 첨단원자로 환경심사를 간소화하며, 농축 인허가 현대화를 추진하는 내용이다.
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-05-21/article-8060/senate-epw-subcommittee-weighs-in-on-three-nuclear-energy-bills/)
+
+#### 🤝 TerraPower-HD Hyundai, Natrium 원자로 양산 공급망 협력 확대
+TerraPower가 HD Hyundai Heavy Industries를 Natrium 전략 제조 파트너로 삼고, HD Hyundai 및 현대건설과 설계·제조·공급망·건설·상업구조 협력 MOU를 체결했다. 345MWe 나트륨냉각고속로와 용융염 저장을 결합한 Natrium의 반복 배치를 위해 한국 제조 역량을 공급망에 연결하는 움직임이다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/terrapower-and-hd-hyundai-sign-natrium-reactor-agreements)
+
+#### ⚛️ 미국 NRC, 일리노이대 KRONOS 마이크로원자로 건설허가 심사 접수
+NRC가 University of Illinois Urbana-Champaign과 NANO Nuclear의 KRONOS MMR 건설허가 신청을 정식 심사 대상으로 접수했다. 안전·환경·기술 검토가 시작됐고, 2027년 심사 완료 후 대학 부지에서 마이크로원자로 실증 건설을 추진하는 일정이다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/microreactor-application-accepted-for-review-by-us-regulator)
+
+### 원자력 AI 뉴스
+
+#### 🤖 EDF, 프랑스 AI 기가팩토리 유치 컨소시엄 참여 — 원전 기반 저탄소 전력 경쟁력 부각
+EDF가 Artefact, Bull, Capgemini, iliad/Scaleway, Orange, Ardian 등이 참여하는 AION 컨소시엄에 합류해 프랑스의 유럽 AI Gigafactory 유치 신청을 지원한다. 컨소시엄은 프랑스가 원자력·수력 중심의 풍부하고 경쟁력 있는 저탄소 전력을 갖췄다는 점을 대규모 AI 컴퓨팅 인프라의 핵심 입지 장점으로 제시했다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/edf-joins-alliance-to-support-ai-gigafactory-bid)
+
+> 최종 업데이트: 2026-05-22
+
+---
+
 ## 2026-05-21 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 0건

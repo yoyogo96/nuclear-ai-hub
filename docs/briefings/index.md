@@ -1,3 +1,26 @@
+## 2026-05-22 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 🤖 EDF가 AION 컨소시엄에 합류해 프랑스 AI Gigafactory 유치전에 원전·수력 기반 저탄소 전력 경쟁력을 내세움.
+2. 🤝 TerraPower-HD Hyundai 협력이 Natrium 원자로의 반복 배치와 공급망 양산 체계를 한국 제조 역량과 연결.
+3. 🔬 INL 구조물성실험실과 일리노이 KRONOS MMR 심사 접수 등 첨단원자로 연구·실증 인프라가 동시에 진전.
+
+### 주요 뉴스
+| 분류 | 제목 | 출처 |
+|------|------|------|
+| AI+원전 | EDF, 프랑스 AI 기가팩토리 유치 컨소시엄 참여 | World Nuclear News |
+| 일반 | INL 구조물성실험실 정식 가동 | ANS Nuclear Newswire |
+| 일반 | 미 상원 EPW 소위, 원자력 건설·부지·농축 인허가 법안 논의 | ANS Nuclear Newswire |
+| 일반 | TerraPower-HD Hyundai, Natrium 원자로 양산 공급망 협력 확대 | World Nuclear News |
+| 일반 | NRC, 일리노이대 KRONOS 마이크로원자로 건설허가 심사 접수 | World Nuclear News |
+
+### 학술 논문
+> 지난 24시간 기존 반영본과 중복되지 않는 원자력+AI 신규 논문은 확인되지 않았습니다.
+
+> 최종 업데이트: 2026-05-22
+
+---
+
 ## 2026-05-21 데일리 브리핑
 
 ### 오늘의 3줄 요약
