@@ -1,3 +1,27 @@
+## 2026-05-23 데일리 브리핑
+
+### 오늘의 3줄 요약
+1. 🇺🇸 NRC가 Orano Project IKE 농축시설을 12개월 가속 심사에 올리며 미국 원전 연료공급망 자립을 앞당기려 함.
+2. 🧪 Antares-Urenco의 HALEU 장기 공급계약과 카자흐스탄 원전 국산화 계획이 첨단원자로·신규원전 공급망 구축 흐름을 보여줌.
+3. 🤖 NRIC Launch Pad 설명회에서 AI 기반 핵안전 문서 오류 사례가 언급되며, 원자력 인허가 문서에 AI를 쓸 때 전문가 검증이 필수임을 재확인.
+
+### 주요 뉴스
+| 분류 | 제목 | 출처 |
+|------|------|------|
+| 일반 | NRC, Orano Project IKE 농축시설 12개월 가속 심사 착수 | World Nuclear News |
+| 일반 | Antares-Urenco, 마이크로원자로용 HALEU 장기 공급계약 체결 | World Nuclear News |
+| 일반 | 카자흐스탄, 2026-2030 원자력 산업 국산화 계획 승인 | World Nuclear News |
+| AI+원전 | NRIC Launch Pad, AI 활용 핵안전 문서의 전문가 검증 필요성 경고 | ANS Nuclear Newswire |
+
+### 학술 논문
+| 제목 | 핵심 | 출처 |
+|------|------|------|
+| Equation of State at High Baryon Densities from a Thermodynamically Informed Neural Network | 물리제약 신경망으로 고중입자밀도 핵물질 상태방정식 구성 | arXiv 2605.22199 |
+
+> 최종 업데이트: 2026-05-23
+
+---
+
 ## 2026-05-22 데일리 브리핑
 
 ### 오늘의 3줄 요약

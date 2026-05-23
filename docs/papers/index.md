@@ -1,3 +1,18 @@
+# 2026-05-23 업데이트
+
+## [Equation of State at High Baryon Densities from a Thermodynamically Informed Neural Network](https://arxiv.org/abs/2605.22199)
+- 저자: Musfer Adzhymambetov
+- 연도/학회(저널): 2026-05, arXiv
+- 바로가기: [ArXiv 원문](https://arxiv.org/abs/2605.22199)
+- 한 줄 요약: 심층신경망으로 유한 온도와 보존전하 밀도에 따른 4차원 강상호작용 물질 상태방정식을 구성하고, physics-informed loss로 열역학 일관성을 강제해 고중입자밀도 영역의 상대론적 중이온 충돌 하이브리드 모델 입력으로 활용 가능하게 했다.
+
+### 핵심 기여
+1. 격자 QCD와 hadron resonance gas가 직접 닿기 어려운 고밀도 영역을 신경망 기반 상태방정식으로 외삽
+2. 열역학 일관성을 손실함수에 반영해 전 위상공간에서 물리 제약을 유지
+3. RHIC BES, FAIR, HADES, CBM이 겨냥하는 고중입자밀도 핵물질 해석용 계산 입력을 제공
+
+---
+
 # 2026-05-22 업데이트
 
 > 지난 24시간 기준 공개 검색에서 기존 반영본과 중복되지 않는 원자력+AI 신규 논문은 확인되지 않았습니다. 검색 범위에는 nuclear reactor, fusion, plasma, fission, isotope와 machine learning/neural/artificial intelligence 조합을 포함했습니다.

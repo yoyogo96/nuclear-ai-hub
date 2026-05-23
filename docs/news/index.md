@@ -1,3 +1,31 @@
+## 2026-05-23 데일리 반영
+- 일반 원자력 뉴스: 3건
+- 원자력 AI 뉴스: 1건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 NRC, Orano Project IKE 농축시설 12개월 가속 심사 착수
+미 NRC가 테네시 Oak Ridge의 Orano Enrichment USA Project IKE 우라늄 농축시설 인허가 신청을 정식 접수하고, 기술심사를 2027년 4월까지 12개월 안에 끝내는 가속 일정을 제시했다. 미국 내 러시아산 농축우라늄 의존 축소와 원전 연료공급망 안보 강화가 핵심 배경이다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/us-enrichment-plant-begins-accelerated-review)
+
+#### 🧪 Antares-Urenco, 마이크로원자로용 HALEU 장기 공급계약 체결
+Urenco가 Antares의 북미 및 해외 마이크로원자로 배치를 위해 고순도저농축우라늄(HALEU)을 장기 공급하기로 했다. Urenco는 이를 세계 최초의 다년 HALEU 공급계약으로 설명했으며, 영국 Capenhurst HALEU 시설은 2031년 가동을 목표로 한다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/antares-signs-long-term-haleu-supply-deal-with-urenco)
+
+#### 🇰🇿 카자흐스탄, 첫 원전 건설 앞두고 2026-2030 원자력 산업 국산화 계획 승인
+카자흐스탄 정부가 원전 건설 프로젝트 참여를 위한 국내 산업기반 육성 종합계획을 승인했다. 규제체계, 국내시장·공급역량 분석, 생산시설 현대화, 디지털화를 축으로 삼아 첫 원전 착공 시점까지 현지 조달 비중을 약 30%로 끌어올리는 목표다.
+- 출처: [World Nuclear News](https://www.world-nuclear-news.org/articles/kazakhstan-outlines-localisation-plans)
+
+### 원자력 AI 뉴스
+
+#### 🤖 NRIC Launch Pad, 첨단원자로 실증 문서에서 AI 활용 시 전문가 검증 필요성 경고
+미 National Reactor Innovation Center의 Nuclear Energy Launch Pad 산업 설명회에서 DOE-Idaho 관계자가 AI 사용을 권장하되, AI로 작성한 핵안전 문서에 중대한 오류가 발견된 사례가 있었다고 지적했다. 첨단원자로 인허가·실증 문서 작성에 AI를 쓰더라도 원자력 안전 전문가 검토가 필수라는 운영 교훈이 제시됐다.
+- 출처: [ANS Nuclear Newswire](https://www.ans.org/news/2026-05-22/article-8067/nric-industry-day-highlights-lessons-learned-from-pilot-programs/)
+
+> 최종 업데이트: 2026-05-23
+
+---
+
 ## 2026-05-22 데일리 반영
 - 일반 원자력 뉴스: 4건
 - 원자력 AI 뉴스: 1건
