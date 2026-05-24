@@ -1,3 +1,9 @@
+# 2026-05-24 업데이트
+
+> 지난 24시간 기준 arXiv API는 rate limit로 2회 조회가 실패했고, arXiv 웹 검색 및 Google News/arXiv 색인 검색에서는 기존 반영본과 중복되지 않는 원자력+AI 핵심 신규 논문/프리프린트를 확인하지 못했습니다. 검색 범위에는 nuclear, reactor, fusion, plasma, fission과 machine learning/neural/artificial intelligence 조합을 포함했습니다.
+
+---
+
 # 2026-05-23 업데이트
 
 ## [Equation of State at High Baryon Densities from a Thermodynamically Informed Neural Network](https://arxiv.org/abs/2605.22199)

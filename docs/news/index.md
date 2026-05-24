@@ -1,3 +1,27 @@
+## 2026-05-24 데일리 반영
+- 일반 원자력 뉴스: 1건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🇺🇸 유타 주정부·연방 지도부, 주 차원의 원자력 확대 전략 강조
+KSL은 Spencer Cox 유타 주지사와 연방 에너지·환경 당국자들이 유타에서 원자력 확대 필요성을 공개적으로 강조했다고 보도했다. AI 데이터센터와 산업 전력수요가 커지는 가운데, 주 단위 에너지 안보·경제개발 전략에서 원자력의 역할이 재부각되고 있다.
+- 출처: [KSL.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNamRmOVpJOVlycU9Nb3dKeHV5S1Q1UXFBWllIS2t6NWxuVXM2QzBsMm5uR3hpaW15d05FSEJJbUxYUlljSlhxTGhvNWpwMk1ZSTNSNENxRGxIRHQ3Y0NZcExRajdHZ0VfUVdEaWp3VFk4QnpxOG1WbnVKUkZJenVnU1RnUFFIcldlMEJIT3p4X0ZhWm9tOEUw?oc=5)
+
+### 원자력 AI 뉴스
+
+#### 🤖 미국 에너지 리더들, AI 인프라 전력 경쟁을 차세대 국가 경쟁으로 지목
+Deseret News는 에너지 리더들이 AI를 "다음 우주 경쟁"에 비유하며 미국의 전력 인프라 확충 필요성을 강조했다고 보도했다. AI 데이터센터 전력수요 대응에서 원자력과 송전망 확장이 함께 논의되며, 전력 공급능력이 AI 경쟁력의 병목으로 떠올랐다.
+- 출처: [Deseret News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1ZOZUNlUWVaUFU5UUUtSEViTE5qRmowV0xUU3VvcVFRT05ZcktBQTFycUE2YmFDR2t5MnN1ZHZnclBKR3ZET3ZJRzFVR1NjLURFQUg5UndCQ3l2QVFSVElGUDhCUUJ5ZS01NUZsTUMwblg3VWdiQTk1aXg5NkNILVVjaklmRE1jVk1rT3QyenBTUkIwOHFINGNLNGc3UFItOWdIWGJ3Yw?oc=5)
+
+#### 🇰🇷 AI·원전·방산이 한국 경제의 신규 성장축으로 부상
+Aju Press는 AI, 원자력, 방위산업이 한국 경제의 새로운 성장 동력으로 주목받고 있다고 보도했다. 원전 수출·SMR·AI 인프라 전력수요가 함께 거론되며, 한국의 산업정책에서 원자력과 AI 생태계의 결합이 더 선명해지고 있다.
+- 출처: [Aju Press](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OWVpHUUVhRFoxNXc4RmFNRW5YVW9wS1B2TzlKM09PelBCSTZ0NzhMOGdfZmtxM2hQeWdBaXB2OVMtZHNsNHBnZ0stVkM0dVBPaGtYcnNIblFPbFHSAVdBVV95cUxOM1ZPRUUtVEZDZTRSY1M0dFJxZEhEekxrV0VITHVUdktNY1M5eFNuM0R1NmhScHpnZGE0V3BzSHVBaU1nNHJoWmZnZ0F4dzlZdmtkcFlCX3M?oc=5)
+
+> 최종 업데이트: 2026-05-24
+
+---
+
 ## 2026-05-23 데일리 반영
 - 일반 원자력 뉴스: 3건
 - 원자력 AI 뉴스: 1건
