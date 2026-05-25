@@ -1,3 +1,31 @@
+## 2026-05-25 데일리 반영
+- 일반 원자력 뉴스: 2건
+- 원자력 AI 뉴스: 2건
+
+### 일반 원자력 뉴스
+
+#### 🚢 미국, 해양 운송 분야 소형모듈원자로 활용 가능성 검토
+Forbes는 미국 해양 분야에서 선박·항만·해상 물류 전력원으로 SMR을 검토하는 흐름을 보도했다. 군용 원자력 추진 경험과 상업 해운 탈탄소화 수요가 맞물리며, 해양 운송용 원자력의 규제·보험·항만 수용성 문제가 새 쟁점으로 떠오르고 있다.
+- 출처: [Forbes](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVTdsQ0tkTUhyOHZabXBaQTh2b093UmZCcC1oaWhUVkktWVQ5N0otNl9WMExmRTlGQlFIVjZjNG5sZ3NwSzVYaFJsYTd3NlQ3MnNlQVp3VklXbmNhbEZ4azlWZGJfTWMtQ2ZoUm5UckYwUlFDOGVOU3R0Sjc4ZmlmVlVkYU5YWkRWWGRVbGJfZXdOVGhqTHFVNzNXQndwQWkwcGloaUhOc2t6NkZkdEtOZWxCUkdKeWcyMHNpbzBxcw?oc=5)
+
+#### 🔬 방사성 먼지 생성 메커니즘 규명 위한 ‘소형 핵 화구’ 실험 보도
+Interesting Engineering은 과학자들이 핵폭발 이후 생성되는 방사성 먼지의 형성 과정을 이해하기 위해 실험실 규모의 고온 플라즈마·입자 생성 실험을 수행했다고 보도했다. 핵검증·방사성 낙진 모델링에서 입자 생성 물리와 계측 데이터의 중요성이 다시 부각된다.
+- 출처: [Interesting Engineering](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlFXZVB2UFdhYktFS01MZjFEM2kzRGVPWmJlLVBuU2gwVk9VaTl0TThaMkwwRm5nNHJCbEtybHpoZmZ4SDExTUl6YWJVZHhEWEI0M0VyTzFuc0Rrc3I5bnpxUEh0UWpmLUx0N2VTMHRqa1BBZk9tSlhlOW9iYXZ1M0Q4UFp5aWlKbm9LbW1Idjd3aGRNNENGYThjV3RhNE1Qcmg3d2NVX2Q?oc=5)
+
+### 원자력 AI 뉴스
+
+#### 🤖 민간 원자력이 데이터센터 전력난 해법이 될 수 있다는 주장 제기
+Sun Sentinel 기고는 AI 데이터센터 확대로 전력 수요가 빠르게 늘면서 민간 주도의 원자력 프로젝트가 안정적 저탄소 전력 공급원으로 필요하다고 주장했다. 정책·인허가 병목을 줄여야 AI 인프라의 전력 제약을 완화할 수 있다는 논점이 제시됐다.
+- 출처: [Sun Sentinel](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYldVS0YzdUt0UG5XeTJuTDdCUHM0b3otendQY0ltYTQwSzBoMEEzNS03UFl6ekxxSGhRa3I3VWo4MmhrbF9SOGs1VTV4LUU4WFJ5U3NlTmdtWnBHdGRyT0ljLUJwVk85MWlpMFhqSm9fektKa2dNeFpqaUVrU1FTcXBWZzRjZzRsa1NuaVQtREZpSmVTVVhXRTF4MWgwaFVWTVE?oc=5)
+
+#### 🇮🇳 인도-미국, 핵·AI·핵심광물 협력 의제 재확인
+The Economic Times는 Jaishankar 인도 외무장관과 Rubio 미국 국무장관이 양국 협력 점검에서 핵심광물, AI, 원자력 협력을 주요 의제로 다뤘다고 보도했다. AI 공급망과 원자력 협력이 에너지·기술 안보 패키지로 함께 논의되는 흐름이 이어지고 있다.
+- 출처: [The Economic Times](https://news.google.com/rss/articles/CBMijAJBVV95cUxNRWw2WW92aE9OSzk1enRoamRyU2JvMmRTSTE5NXdxb1dzc1ZOS2ZLNkZzSmJsVXpXOG5zczBKZk0tYWdBTXRtV0h3bDR2d01ZOTJjZXR6MXF1a3hfRGhPX1EyU0xWaU1qOXZEYk1TaEVERFduV0tNZnREM0hWck85aF80WFZpT2JpNFZyWHB4MEdPSUFYVlVoQ1FYQjRUN21GaFVRM2I1bUZBRnNiOE9POEt5ejhKSXdwbkdqbGwzbjd2UUFwc3dnSVVMNExONTF0LVdvNkpnWGhsTG1FclFQVVpaeHRPVHdFVjA5TXVXTHIxcU95ZVRWZ0pEQjhJekx2MTd3RjVpVUFmeHUx0gGSAkFVX3lxTE1wX3RDR2NTSk4xWVdfUFJ5LU9mN2xXX3JqRHUyc3JYU1JQbHJUTVBGZUdTeXd3YmM4SW12QWpnOEJqeDRMdjZPU1dhQXU1REhuM1EyLWlaVGFORjRzQTNXVDF6dHkwLXVsaXFiRDZqYXVSQ3QxOFgzTFFYOXRKR2VQSGdfNGtEaWM2NmllaV9pLVhrOXpuTXo2UmtwakY5VGVZQ0ZISW9MdXJzWEFPTmQ4dl9CVkFQc05yZGM1T2JXSFZBRkdkX3RMNFEzTnVyY1UtZjBkMnFPYWVPX3VfWHJHWndrZmlNZmhtLXAwSlNjS3FRYlltYjdCc3cxejVVWG1vb1ItbzRKd0xQUzdUMmZBNHc?oc=5)
+
+> 최종 업데이트: 2026-05-25
+
+---
+
 ## 2026-05-24 데일리 반영
 - 일반 원자력 뉴스: 1건
 - 원자력 AI 뉴스: 2건
